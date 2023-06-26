@@ -1,7 +1,7 @@
 mm;Merkmal;stra;erh;biod;wa;oek
 bhd;geringer BHD;bhd_l;0;0;0;0
-bhd;mitlerer BHD;bhd_m;1;1;1;1
-bhd;mitlerer BHD +;bhd_mm;0;0;0;0
+bhd;mittlerer BHD;bhd_m;1;1;1;1
+bhd;mittlerer BHD +;bhd_mm;0;0;0;0
 bhd;Hoher BHD;bhd_h;0;0;0;0
 al;Altersklasse 1;a1;0;0;0;0
 al;Altersklasse 2;a2;0;0;0;0
@@ -43,9 +43,12 @@ vo;Vorrat gering;w;0;0;0;0
 vo;Vorrat durchschnittlich;n;0;0;0;0
 vo;Vorrat hoch;h;0;0;0;0
 vo;Vorrat sehr hoch;sh;0;0;0;0
-ws;Dürrständer;ds;-1;0;0;0
-ws;Abgestorbene Bäume;abge;-1;0;0;0
 wir;kein Waldinnenrand;wir_ohne;0;0;0;0
 wir;Waldinnenrand ;wir_vorh;1;0;0;0
 war;kein Waldaussenrand;war_ohne;0;0;0;0
 war;Waldaussenrand ;war_vorh;1;0;0;0
+wsch_ds;keine Dürrständer;ds_ohne;0;0;0;0
+wsch_ds;wenige Dürrständer;ds_wenig;1;0;0;0
+wsch_ds;viele Dürrständer;ds_viele;-1;0;0;0
+wsch_ds;nur noch Dürrständer;ds_alle;-2;0;0;0
+;;;;;;
