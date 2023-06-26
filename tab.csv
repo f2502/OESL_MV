@@ -45,8 +45,7 @@ vo;Vorrat hoch;h;0;0;0;0
 vo;Vorrat sehr hoch;sh;0;0;0;0
 ws;Dürrständer;ds;-1;0;0;0
 ws;Abgestorbene Bäume;abge;-1;0;0;0
-besstr;kein Waldinnenrand;wir_ohne;0;0;0;0
-besstr;Waldinnenrand ;wir_vorh;;;;
-besstr;kein Waldaussenrand;war_ohne;0;0;0;0
-besstr;Waldaussenrand ;war_vorh;;;;
-besstr;Lichtung;licht;1;0;0;0
+wir;kein Waldinnenrand;wir_ohne;0;0;0;0
+wir;Waldinnenrand ;wir_vorh;1;0;0;0
+war;kein Waldaussenrand;war_ohne;0;0;0;0
+war;Waldaussenrand ;war_vorh;1;0;0;0
