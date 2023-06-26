@@ -1,0 +1,52 @@
+mm;Merkmal;stra;erh;biod;wa;oek
+bhd;geringer BHD;bhd_l;0;0;0;0
+bhd;mitlerer BHD;bhd_m;1;1;1;1
+bhd;mitlerer BHD +;bhd_mm;0;0;0;0
+bhd;Hoher BHD;bhd_h;0;0;0;0
+al;Altersklasse 1;a1;0;0;0;0
+al;Altersklasse 2;a2;0;0;0;0
+al;Altersklasse 3;a3;0;0;0;0
+al;Altersklasse 4;a4;0;0;0;0
+al;Altersklasse 5 ;a5;0;0;0;0
+al;Altersklasse 6 ;a6;0;0;0;0
+al;Altersklasse 7 ;a7;0;0;0;0
+al;Altersklasse 8 ;a8;0;0;0;0
+al;Altersklasse 9 ;a9;0;0;0;0
+hba;Hauptbaumart Fichte;hba_fi;1;0;-1;1
+hba;Hauptbaumart Buche;hba_bu;1;1;1;0
+hba;Hauptbaumart Eiche;hba_ei;0;0;0;0
+hba;Hauptbaumart Kiefer;hba_ki;0;0;0;0
+hba;Hauptbaumart Birke;hba_bi;0;0;0;0
+hba;Hauptbaumart Bergahorn;hba_bah;0;0;0;0
+hba;Hauptbaumart Esche;hba_es;0;0;0;0
+hba;Hauptbaumart Erle;hba_erl;0;0;0;0
+n1ba;Ohne;n1ba_ohne;0;0;0;0
+n1ba;Nebenbaumart Fichte;n1ba_fi;0;0;0;0
+n1ba;Nebenbaumart  Buche;n1ba_bu;0;0;0;0
+n1ba;Nebenbaumart  Eiche;n1ba_ei;0;0;0;0
+n1ba;Nebenbaumart  Kiefer;n1ba_ki;0;0;0;0
+n1ba;Nebenbaumart  Birke;n1ba_bi;0;0;0;0
+n1ba;Nebenbaumart  Bergahorn;n1ba_bah;0;0;0;0
+n1ba;Nebenbaumart  Esche;n1ba_es;0;0;0;0
+n1ba;Nebenbaumart  Erle;n1ba_erl;0;0;0;0
+n2ba;Ohne;n2ba_ohne;0;0;0;0
+n2ba;Nebenbaumart 2 Fichte;n2ba_fi;0;0;0;0
+n2ba;Nebenbaumart 2 Buche;n2ba_bu;0;0;0;0
+n2ba;Nebenbaumart 2 Eiche;n2ba_ei;0;0;0;0
+n2ba;Nebenbaumart 2 Kiefer;n2ba_ki;0;0;0;0
+n2ba;Nebenbaumart 2 Birke;n2ba_bi;0;0;0;0
+n2ba;Nebenbaumart 2 Bergahorn;n2ba_bah;0;0;0;0
+n2ba;Nebenbaumart 2  Esche;n2ba_es;0;0;0;0
+n2ba;Nebenbaumart 2  Erle;n2ba_erl;0;0;0;0
+vo;Vorrat sehr gering;ww;0;0;0;0
+vo;Vorrat gering;w;0;0;0;0
+vo;Vorrat durchschnittlich;n;0;0;0;0
+vo;Vorrat hoch;h;0;0;0;0
+vo;Vorrat sehr hoch;sh;0;0;0;0
+ws;Dürrständer;ds;-1;0;0;0
+ws;Abgestorbene Bäume;abge;-1;0;0;0
+besstr;kein Waldinnenrand;wir_ohne;0;0;0;0
+besstr;Waldinnenrand ;wir_vorh;;;;
+besstr;kein Waldaussenrand;war_ohne;0;0;0;0
+besstr;Waldaussenrand ;war_vorh;;;;
+besstr;Lichtung;licht;1;0;0;0
