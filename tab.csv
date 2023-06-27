@@ -1,55 +1,55 @@
-mm;Merkmal;stra;erh;biod;wa;oek
-bhd;Jungbestand BHD bis  7 cm;bhd_jb;-1;0;0;0
-bhd;Stangenholz BHD 7-20cm;bhd_st;-1;1;1;1
-bhd;Schwaches Baumholz  21–35 cm;bhd_schbh;0;0;0;0
-bhd;mittleres Baumholz: BHD 36–50 cm;bhd_mibh;1;0;0;0
-bhd;starkes Baumholz:  > 50 cm <99cm;bhd_stbh;1;0;0;0
-bhd;besonders starkes  Baumholz >100cm;bhd_bstbh;2;0;0;0
-al;Altersklasse 1 (bis 19J.);a1;0;0;0;0
-al;Altersklasse 2  (20-39J.);a2;0;0;0;0
-al;Altersklasse 3 (40-59J.);a3;0;0;0;0
-al;Altersklasse 4 (60-79J.);a4;0;0;0;0
-al;Altersklasse 5  (80-99J.);a5;0;0;0;0
-al;Altersklasse 6   (100-119J.);a6;0;0;0;0
-al;Altersklasse 7   (120-139J.);a7;0;0;0;0
-al;Altersklasse 8  (140-159J.);a8;0;0;0;0
-al;Altersklasse 9  (über 160 J.);a9;2;0;0;0
-hba;Hauptbaumart Fichte;hba_fi;1;0;-1;1
-hba;Hauptbaumart Buche;hba_bu;1;1;1;0
-hba;Hauptbaumart Eiche;hba_ei;0;0;0;0
-hba;Hauptbaumart Kiefer;hba_ki;0;0;0;0
-hba;Hauptbaumart Birke;hba_bi;0;0;0;0
-hba;Hauptbaumart Bergahorn;hba_bah;0;0;0;0
-hba;Hauptbaumart Esche;hba_es;0;0;0;0
-hba;Hauptbaumart Erle;hba_erl;0;0;0;0
-n1ba;Ohne;n1ba_ohne;0;0;0;0
-n1ba;Nebenbaumart Fichte;n1ba_fi;0;0;0;0
-n1ba;Nebenbaumart  Buche;n1ba_bu;0;0;0;0
-n1ba;Nebenbaumart  Eiche;n1ba_ei;0;0;0;0
-n1ba;Nebenbaumart  Kiefer;n1ba_ki;0;0;0;0
-n1ba;Nebenbaumart  Birke;n1ba_bi;0;0;0;0
-n1ba;Nebenbaumart  Bergahorn;n1ba_bah;0;0;0;0
-n1ba;Nebenbaumart  Esche;n1ba_es;0;0;0;0
-n1ba;Nebenbaumart  Erle;n1ba_erl;0;0;0;0
-n2ba;Ohne;n2ba_ohne;0;0;0;0
-n2ba;Nebenbaumart 2 Fichte;n2ba_fi;0;0;0;0
-n2ba;Nebenbaumart 2 Buche;n2ba_bu;0;0;0;0
-n2ba;Nebenbaumart 2 Eiche;n2ba_ei;0;0;0;0
-n2ba;Nebenbaumart 2 Kiefer;n2ba_ki;0;0;0;0
-n2ba;Nebenbaumart 2 Birke;n2ba_bi;0;0;0;0
-n2ba;Nebenbaumart 2 Bergahorn;n2ba_bah;0;0;0;0
-n2ba;Nebenbaumart 2  Esche;n2ba_es;0;0;0;0
-n2ba;Nebenbaumart 2  Erle;n2ba_erl;0;0;0;0
-vo;Vorrat sehr gering;ww;0;0;0;0
-vo;Vorrat gering;w;0;0;0;0
-vo;Vorrat durchschnittlich;n;0;0;0;0
-vo;Vorrat hoch;h;0;0;0;0
-vo;Vorrat sehr hoch;sh;0;0;0;0
-wir;kein Waldinnenrand;wir_ohne;0;0;0;0
-wir;Waldinnenrand ;wir_vorh;1;0;0;0
-war;kein Waldaussenrand;war_ohne;0;0;0;0
-war;Waldaussenrand ;war_vorh;1;0;0;0
-wsch_ds;keine Dürrständer;ds_ohne;0;0;0;0
-wsch_ds;wenige Dürrständer;ds_wenig;1;0;0;0
-wsch_ds;viele Dürrständer;ds_viele;-1;0;0;0
-wsch_ds;nur Dürrständer;ds_alle;-2;0;0;0
+link;mm;Merkmal;stra;erh;biod;wa;oek
+https://www.researchgate.net/;bhd;Jungbestand BHD bis  7 cm;bhd_jb;-1;0;0;0
+;bhd;Stangenholz BHD 7-20cm;bhd_st;-1;1;1;1
+;bhd;Schwaches Baumholz  21–35 cm;bhd_schbh;0;0;0;0
+;bhd;mittleres Baumholz: BHD 36–50 cm;bhd_mibh;1;0;0;0
+;bhd;starkes Baumholz:  > 50 cm <99cm;bhd_stbh;1;0;0;0
+;bhd;besonders starkes  Baumholz >100cm;bhd_bstbh;2;0;0;0
+;al;Altersklasse 1 (bis 19J.);a1;0;0;0;0
+;al;Altersklasse 2  (20-39J.);a2;0;0;0;0
+;al;Altersklasse 3 (40-59J.);a3;0;0;0;0
+;al;Altersklasse 4 (60-79J.);a4;0;0;0;0
+;al;Altersklasse 5  (80-99J.);a5;0;0;0;0
+;al;Altersklasse 6   (100-119J.);a6;0;0;0;0
+;al;Altersklasse 7   (120-139J.);a7;0;0;0;0
+;al;Altersklasse 8  (140-159J.);a8;0;0;0;0
+;al;Altersklasse 9  (über 160 J.);a9;2;0;0;0
+;hba;Hauptbaumart Fichte;hba_fi;1;0;-1;1
+;hba;Hauptbaumart Buche;hba_bu;1;1;1;0
+;hba;Hauptbaumart Eiche;hba_ei;0;0;0;0
+;hba;Hauptbaumart Kiefer;hba_ki;0;0;0;0
+;hba;Hauptbaumart Birke;hba_bi;0;0;0;0
+;hba;Hauptbaumart Bergahorn;hba_bah;0;0;0;0
+;hba;Hauptbaumart Esche;hba_es;0;0;0;0
+;hba;Hauptbaumart Erle;hba_erl;0;0;0;0
+;n1ba;Ohne;n1ba_ohne;0;0;0;0
+;n1ba;Nebenbaumart Fichte;n1ba_fi;0;0;0;0
+;n1ba;Nebenbaumart  Buche;n1ba_bu;0;0;0;0
+;n1ba;Nebenbaumart  Eiche;n1ba_ei;0;0;0;0
+;n1ba;Nebenbaumart  Kiefer;n1ba_ki;0;0;0;0
+;n1ba;Nebenbaumart  Birke;n1ba_bi;0;0;0;0
+;n1ba;Nebenbaumart  Bergahorn;n1ba_bah;0;0;0;0
+;n1ba;Nebenbaumart  Esche;n1ba_es;0;0;0;0
+;n1ba;Nebenbaumart  Erle;n1ba_erl;0;0;0;0
+;n2ba;Ohne;n2ba_ohne;0;0;0;0
+;n2ba;Nebenbaumart 2 Fichte;n2ba_fi;0;0;0;0
+;n2ba;Nebenbaumart 2 Buche;n2ba_bu;0;0;0;0
+;n2ba;Nebenbaumart 2 Eiche;n2ba_ei;0;0;0;0
+;n2ba;Nebenbaumart 2 Kiefer;n2ba_ki;0;0;0;0
+;n2ba;Nebenbaumart 2 Birke;n2ba_bi;0;0;0;0
+;n2ba;Nebenbaumart 2 Bergahorn;n2ba_bah;0;0;0;0
+;n2ba;Nebenbaumart 2  Esche;n2ba_es;0;0;0;0
+;n2ba;Nebenbaumart 2  Erle;n2ba_erl;0;0;0;0
+;vo;Vorrat sehr gering;ww;0;0;0;0
+;vo;Vorrat gering;w;0;0;0;0
+;vo;Vorrat durchschnittlich;n;0;0;0;0
+;vo;Vorrat hoch;h;0;0;0;0
+;vo;Vorrat sehr hoch;sh;0;0;0;0
+;wir;kein Waldinnenrand;wir_ohne;0;0;0;0
+;wir;Waldinnenrand ;wir_vorh;1;0;0;0
+;war;kein Waldaussenrand;war_ohne;0;0;0;0
+;war;Waldaussenrand ;war_vorh;1;0;0;0
+;wsch_ds;keine Dürrständer;ds_ohne;0;0;0;0
+;wsch_ds;wenige Dürrständer;ds_wenig;1;0;0;0
+;wsch_ds;viele Dürrständer;ds_viele;-1;0;0;0
+;wsch_ds;nur Dürrständer;ds_alle;-2;0;0;0
