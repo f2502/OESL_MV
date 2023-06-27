@@ -52,4 +52,4 @@ war;Waldaussenrand ;war_vorh;1;0;0;0
 wsch_ds;keine Dürrständer;ds_ohne;0;0;0;0
 wsch_ds;wenige Dürrständer;ds_wenig;1;0;0;0
 wsch_ds;viele Dürrständer;ds_viele;-1;0;0;0
-wsch_ds;nur noch Dürrständer;ds_alle;-2;0;0;0
+wsch_ds;nur Dürrständer;ds_alle;-2;0;0;0
