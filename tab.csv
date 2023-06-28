@@ -22,7 +22,7 @@ https://cloudstore.zih.tu-dresden.de/index.php/s/TTFs68oELB2HjSt;bhd;Schwaches B
 ;hba;Hauptbaumart Bergahorn;hba_bah;0;0;0;0
 ;hba;Hauptbaumart Esche;hba_es;0;0;0;0
 ;hba;Hauptbaumart Erle;hba_erl;0;0;0;0
-;n1ba;Ohne;n1ba_ohne;0;0;0;0
+;n1ba;Ohne Nebenbaumart I;n1ba_ohne;0;0;0;0
 ;n1ba;Nebenbaumart Fichte;n1ba_fi;0;0;0;0
 ;n1ba;Nebenbaumart  Buche;n1ba_bu;0;0;0;0
 ;n1ba;Nebenbaumart  Eiche;n1ba_ei;0;0;0;0
@@ -31,7 +31,7 @@ https://cloudstore.zih.tu-dresden.de/index.php/s/TTFs68oELB2HjSt;bhd;Schwaches B
 ;n1ba;Nebenbaumart  Bergahorn;n1ba_bah;0;0;0;0
 ;n1ba;Nebenbaumart  Esche;n1ba_es;0;0;0;0
 ;n1ba;Nebenbaumart  Erle;n1ba_erl;0;0;0;0
-;n2ba;Ohne;n2ba_ohne;0;0;0;0
+;n2ba;Ohne Nebenbaumart II;n2ba_ohne;0;0;0;0
 ;n2ba;Nebenbaumart 2 Fichte;n2ba_fi;0;0;0;0
 ;n2ba;Nebenbaumart 2 Buche;n2ba_bu;0;0;0;0
 ;n2ba;Nebenbaumart 2 Eiche;n2ba_ei;0;0;0;0
