@@ -1,55 +1,127 @@
-link;mm;Merkmal;stra;erh;biod;wa;oek
-https://cloudstore.zih.tu-dresden.de/index.php/s/BedzZt8GKBjWmed;bhd;Jungbestand BHD bis  7 cm;bhd_jb;-1;0;0;0
-https://cloudstore.zih.tu-dresden.de/index.php/s/iYxynCGJmnxBAwW;bhd;Stangenholz BHD 7-20cm;bhd_st;-1;1;1;1
-https://cloudstore.zih.tu-dresden.de/index.php/s/TTFs68oELB2HjSt;bhd;Schwaches Baumholz  21–35 cm;bhd_schbh;0;0;0;0
-;bhd;mittleres Baumholz: BHD 36–50 cm;bhd_mibh;1;0;0;0
-;bhd;starkes Baumholz:  > 50 cm <99cm;bhd_stbh;1;0;0;0
-;bhd;besonders starkes  Baumholz >100cm;bhd_bstbh;2;0;0;0
-;al;Altersklasse 1 (bis 19J.);a1;0;0;0;0
-;al;Altersklasse 2  (20-39J.);a2;0;0;0;0
-;al;Altersklasse 3 (40-59J.);a3;0;0;0;0
-;al;Altersklasse 4 (60-79J.);a4;0;0;0;0
-;al;Altersklasse 5  (80-99J.);a5;0;0;0;0
-;al;Altersklasse 6   (100-119J.);a6;0;0;0;0
-;al;Altersklasse 7   (120-139J.);a7;0;0;0;0
-;al;Altersklasse 8  (140-159J.);a8;0;0;0;0
-;al;Altersklasse 9  (über 160 J.);a9;2;0;0;0
-;hba;Hauptbaumart Fichte;hba_fi;1;0;-1;1
-;hba;Hauptbaumart Buche;hba_bu;1;1;1;0
-;hba;Hauptbaumart Eiche;hba_ei;0;0;0;0
-;hba;Hauptbaumart Kiefer;hba_ki;0;0;0;0
-;hba;Hauptbaumart Birke;hba_bi;0;0;0;0
-;hba;Hauptbaumart Bergahorn;hba_bah;0;0;0;0
-;hba;Hauptbaumart Esche;hba_es;0;0;0;0
-;hba;Hauptbaumart Erle;hba_erl;0;0;0;0
-;n1ba;Ohne Nebenbaumart I;n1ba_ohne;0;0;0;0
-;n1ba;Nebenbaumart Fichte;n1ba_fi;0;0;0;0
-;n1ba;Nebenbaumart  Buche;n1ba_bu;0;0;0;0
-;n1ba;Nebenbaumart  Eiche;n1ba_ei;0;0;0;0
-;n1ba;Nebenbaumart  Kiefer;n1ba_ki;0;0;0;0
-;n1ba;Nebenbaumart  Birke;n1ba_bi;0;0;0;0
-;n1ba;Nebenbaumart  Bergahorn;n1ba_bah;0;0;0;0
-;n1ba;Nebenbaumart  Esche;n1ba_es;0;0;0;0
-;n1ba;Nebenbaumart  Erle;n1ba_erl;0;0;0;0
-;n2ba;Ohne Nebenbaumart II;n2ba_ohne;0;0;0;0
-;n2ba;Nebenbaumart 2 Fichte;n2ba_fi;0;0;0;0
-;n2ba;Nebenbaumart 2 Buche;n2ba_bu;0;0;0;0
-;n2ba;Nebenbaumart 2 Eiche;n2ba_ei;0;0;0;0
-;n2ba;Nebenbaumart 2 Kiefer;n2ba_ki;0;0;0;0
-;n2ba;Nebenbaumart 2 Birke;n2ba_bi;0;0;0;0
-;n2ba;Nebenbaumart 2 Bergahorn;n2ba_bah;0;0;0;0
-;n2ba;Nebenbaumart 2  Esche;n2ba_es;0;0;0;0
-;n2ba;Nebenbaumart 2  Erle;n2ba_erl;0;0;0;0
-;vo;Vorrat sehr gering;ww;0;0;0;0
-;vo;Vorrat gering;w;0;0;0;0
-;vo;Vorrat durchschnittlich;n;0;0;0;0
-;vo;Vorrat hoch;h;0;0;0;0
-;vo;Vorrat sehr hoch;sh;0;0;0;0
-;wir;kein Waldinnenrand;wir_ohne;0;0;0;0
-;wir;Waldinnenrand ;wir_vorh;1;0;0;0
-;war;kein Waldaussenrand;war_ohne;0;0;0;0
-;war;Waldaussenrand ;war_vorh;1;0;0;0
-;wsch_ds;keine Dürrständer;ds_ohne;0;0;0;0
-;wsch_ds;wenige Dürrständer;ds_wenig;1;0;0;0
-;wsch_ds;viele Dürrständer;ds_viele;-1;0;0;0
-;wsch_ds;nur Dürrständer;ds_alle;-2;0;0;0
+link;mm;Merkmal;stra;stra_n;erh;biod;wa;oek
+https://cloudstore.zih.tu-dresden.de/index.php/s/BedzZt8GKBjWmed;bhd;Jungbestand BHD bis  7 cm;1;1;-1;0;0;0
+https://cloudstore.zih.tu-dresden.de/index.php/s/iYxynCGJmnxBAwW;bhd;Stangenholz BHD 7-20cm;2;2;-1;1;1;1
+https://cloudstore.zih.tu-dresden.de/index.php/s/TTFs68oELB2HjSt;bhd;Schwaches Baumholz  21–35 cm;3;3;0;0;0;0
+;bhd;mittleres Baumholz: BHD 36–50 cm;4;4;1;0;0;0
+;bhd;starkes Baumholz:  > 50 cm <99cm;5;5;1;0;0;0
+;bhd;besonders starkes  Baumholz >100cm;6;6;2;0;0;0
+;al;Altersklasse 1 (bis 19J.);7;1;0;0;0;0
+;al;Altersklasse 2  (20-39J.);8;2;0;0;0;0
+;al;Altersklasse 3 (40-59J.);9;3;0;0;0;0
+;al;Altersklasse 4 (60-79J.);10;4;0;0;0;0
+;al;Altersklasse 5  (80-99J.);11;5;0;0;0;0
+;al;Altersklasse 6   (100-119J.);12;6;0;0;0;0
+;al;Altersklasse 7   (120-139J.);13;7;0;0;0;0
+;al;Altersklasse 8  (140-159J.);14;8;0;0;0;0
+;al;Altersklasse 9  (über 160 J.);15;9;2;0;0;0
+;hba;Hauptbaumart Fichte;16;1;1;0;-1;1
+;hba;Hauptbaumart Buche;17;2;1;1;1;0
+;hba;Hauptbaumart Traubeneiche;18;3;0;0;0;0
+;hba;Hauptbaumart Waldkiefer;19;4;0;0;0;0
+;hba;Hauptbaumart Birke;20;5;0;0;0;0
+;hba;Hauptbaumart Bergahorn;21;6;0;0;0;0
+;hba;Hauptbaumart Esche;22;7;0;0;0;0
+;hba;Hauptbaumart Schwarzerle;23;8;0;0;0;0
+;hba;Hauptbaumart Europäische Lärche;24;9;0;0;0;0
+;hba;Hauptbaumart Douglasie ;25;10;0;0;0;0
+;hba;Hauptbaumart Stieleiche;26;11;0;0;0;0
+;hba;Hauptbaumart Weißtanne;27;12;0;0;0;0
+;hba;Hauptbaumart Linde;28;13;0;0;0;0
+;hba;Hauptbaumart Pappeln (spec.);29;14;0;0;0;0
+;hba;Hauptbaumart Weiden (spec.);30;15;0;0;0;0
+;hba;Hauptbaumart Bergulme;31;16;0;0;0;0
+;hba;Hauptbaumart Spitzahorn;32;17;0;0;0;0
+;hba;Hauptbaumart Esskastanie;33;18;0;0;0;0
+;hba;Hauptbaumart res;34;19;0;0;0;0
+;hba;Hauptbaumart res;35;20;0;0;0;0
+;hba;Hauptbaumart res;36;21;0;0;0;0
+;hba;Hauptbaumart res;37;22;0;0;0;0
+;hba;Hauptbaumart res;38;23;0;0;0;0
+;hba;Hauptbaumart res;39;24;0;0;0;0
+;hba;Hauptbaumart res;40;25;0;0;0;0
+;hba;Hauptbaumart res;41;26;0;0;0;0
+;hba;Hauptbaumart res;42;27;0;0;0;0
+;hba;Hauptbaumart res;43;28;0;0;0;0
+;hba;Hauptbaumart res;44;29;0;0;0;0
+;hba;Hauptbaumart res;45;30;0;0;0;0
+;hba;Hauptbaumart res;46;31;0;0;0;0
+;n1ba;Ohne Nebenbaumart I;47;1;0;0;0;0
+;n1ba;Nebenbaumart Fichte;48;2;0;0;0;0
+;n1ba;Nebenbaumart Buche;49;3;0;0;0;0
+;n1ba;Nebenbaumart Traubeneiche;50;4;0;0;0;0
+;n1ba;Nebenbaumart Waldkiefer;51;5;0;0;0;0
+;n1ba;Nebenbaumart Birke;52;6;0;0;0;0
+;n1ba;Nebenbaumart Bergahorn;53;7;0;0;0;0
+;n1ba;Nebenbaumart Esche;54;8;0;0;0;0
+;n1ba;Nebenbaumart Schwarzerle;55;9;0;0;0;0
+;n1ba;Nebenbaumart Europäische Lärche;56;10;0;0;0;0
+;n1ba;Nebenbaumart Douglasie ;57;11;0;0;0;0
+;n1ba;Nebenbaumart Stieleiche;58;12;0;0;0;0
+;n1ba;Nebenbaumart Weißtanne;59;13;0;0;0;0
+;n1ba;Nebenbaumart Linde;60;14;0;0;0;0
+;n1ba;Nebenbaumart Pappeln (spec.);61;15;0;0;0;0
+;n1ba;Nebenbaumart Weiden (spec.);62;16;0;0;0;0
+;n1ba;Nebenbaumart Bergulme;63;17;0;0;0;0
+;n1ba;Nebenbaumart Spitzahorn;64;18;0;0;0;0
+;n1ba;Nebenbaumart Esskastanie;65;19;0;0;0;0
+;n1ba;Nebenbaumart res;66;20;0;0;0;0
+;n1ba;Nebenbaumart res;67;21;0;0;0;0
+;n1ba;Nebenbaumart res;68;22;0;0;0;0
+;n1ba;Nebenbaumart res;69;23;0;0;0;0
+;n1ba;Nebenbaumart res;70;24;0;0;0;0
+;n1ba;Nebenbaumart res;71;25;0;0;0;0
+;n1ba;Nebenbaumart res;72;26;0;0;0;0
+;n1ba;Nebenbaumart res;73;27;0;0;0;0
+;n1ba;Nebenbaumart res;74;28;0;0;0;0
+;n1ba;Nebenbaumart res;75;29;0;0;0;0
+;n1ba;Nebenbaumart res;76;30;0;0;0;0
+;n1ba;Nebenbaumart res;77;31;0;0;0;0
+;n1ba;Nebenbaumart res;78;32;0;0;0;0
+;n2ba;Ohne Nebenbaumart II;79;1;0;0;0;0
+;n2ba;Nebenbaumart Fichte;80;2;0;0;0;0
+;n2ba;Nebenbaumart Buche;81;3;0;0;0;0
+;n2ba;Nebenbaumart Traubeneiche;82;4;0;0;0;0
+;n2ba;Nebenbaumart Waldkiefer;83;5;0;0;0;0
+;n2ba;Nebenbaumart Birke;84;6;0;0;0;0
+;n2ba;Nebenbaumart Bergahorn;85;7;0;0;0;0
+;n2ba;Nebenbaumart Esche;86;8;0;0;0;0
+;n2ba;Nebenbaumart Schwarzerle;87;9;0;0;0;0
+;n2ba;Nebenbaumart Europäische Lärche;88;10;0;0;0;0
+;n2ba;Nebenbaumart Douglasie ;89;11;0;0;0;0
+;n2ba;Nebenbaumart Stieleiche;90;12;0;0;0;0
+;n2ba;Nebenbaumart Weißtanne;91;13;0;0;0;0
+;n2ba;Nebenbaumart Linde;92;14;0;0;0;0
+;n2ba;Nebenbaumart Pappeln (spec.);93;15;0;0;0;0
+;n2ba;Nebenbaumart Weiden (spec.);94;16;0;0;0;0
+;n2ba;Nebenbaumart Bergulme;95;17;0;0;0;0
+;n2ba;Nebenbaumart Spitzahorn;96;18;0;0;0;0
+;n2ba;Nebenbaumart Esskastanie;97;19;0;0;0;0
+;n2ba;Nebenbaumart res;98;20;0;0;0;0
+;n2ba;Nebenbaumart res;99;21;0;0;0;0
+;n2ba;Nebenbaumart res;100;22;0;0;0;0
+;n2ba;Nebenbaumart res;101;23;0;0;0;0
+;n2ba;Nebenbaumart res;102;24;0;0;0;0
+;n2ba;Nebenbaumart res;103;25;0;0;0;0
+;n2ba;Nebenbaumart res;104;26;0;0;0;0
+;n2ba;Nebenbaumart res;105;27;0;0;0;0
+;n2ba;Nebenbaumart res;106;28;0;0;0;0
+;n2ba;Nebenbaumart res;107;29;0;0;0;0
+;n2ba;Nebenbaumart res;108;30;0;0;0;0
+;n2ba;Nebenbaumart res;109;31;0;0;0;0
+;n2ba;Nebenbaumart res;110;32;0;0;0;0
+;vo;Vorrat sehr gering;111;1;0;0;0;0
+;vo;Vorrat gering;112;2;0;0;0;0
+;vo;Vorrat durchschnittlich;113;3;0;0;0;0
+;vo;Vorrat hoch;114;4;0;0;0;0
+;vo;Vorrat sehr hoch;115;5;0;0;0;0
+;wir;kein Waldinnenrand;116;0;0;0;0;0
+;wir;Waldinnenrand ;117;1;1;0;0;0
+;war;kein Waldaussenrand;118;0;0;0;0;0
+;war;Waldaussenrand ;119;1;1;0;0;0
+;wsch_ds;keine Dürrständer;120;1;0;0;0;0
+;wsch_ds;wenige Dürrständer;121;2;1;0;0;0
+;wsch_ds;viele Dürrständer;122;3;-1;0;0;0
+;wsch_ds;nur Dürrständer;123;4;-2;0;0;0
+;sch;Einschichtig;124;1;0;0;0;0
+;sch;Zweischichtig;125;2;1;0;0;0
+;sch;Mehrschichtig;126;3;1;0;0;0
