@@ -1,37 +1,37 @@
 link;mm;Merkmal;stra;stra_n;erh;biod;wa;oek
-https://cloudstore.zih.tu-dresden.de/index.php/s/BedzZt8GKBjWmed;bhd;Jungbestand BHD bis  7 cm;1;1;-1;0;0;0
+https://cloudstore.zih.tu-dresden.de/index.php/s/BedzZt8GKBjWmed;bhd;Jungbestand BHD bis  7 cm;1;1;-1;1;0;0
 https://cloudstore.zih.tu-dresden.de/index.php/s/iYxynCGJmnxBAwW;bhd;Stangenholz BHD 7-20cm;2;2;-1;1;1;1
 https://cloudstore.zih.tu-dresden.de/index.php/s/TTFs68oELB2HjSt;bhd;Schwaches Baumholz  21–35 cm;3;3;0;0;0;0
 ;bhd;mittleres Baumholz: BHD 36–50 cm;4;4;1;0;0;0
-;bhd;starkes Baumholz:  > 50 cm <99cm;5;5;1;0;0;0
-;bhd;besonders starkes  Baumholz >100cm;6;6;2;0;0;0
+;bhd;starkes Baumholz:  > 50 cm <99cm;5;5;1;1;0;0
+;bhd;besonders starkes  Baumholz >100cm;6;6;2;2;0;0
 ;al;Altersklasse 1 (bis 19J.);7;1;0;0;0;0
 ;al;Altersklasse 2  (20-39J.);8;2;0;0;0;0
 ;al;Altersklasse 3 (40-59J.);9;3;0;0;0;0
 ;al;Altersklasse 4 (60-79J.);10;4;0;0;0;0
-;al;Altersklasse 5  (80-99J.);11;5;0;0;0;0
-;al;Altersklasse 6   (100-119J.);12;6;0;0;0;0
-;al;Altersklasse 7   (120-139J.);13;7;0;0;0;0
-;al;Altersklasse 8  (140-159J.);14;8;0;0;0;0
-;al;Altersklasse 9  (über 160 J.);15;9;2;0;0;0
+;al;Altersklasse 5  (80-99J.);11;5;0;1;0;0
+;al;Altersklasse 6   (100-119J.);12;6;0;1;0;0
+;al;Altersklasse 7   (120-139J.);13;7;0;1;0;0
+;al;Altersklasse 8  (140-159J.);14;8;0;2;0;0
+;al;Altersklasse 9  (über 160 J.);15;9;2;2;0;0
 ;hba;Hauptbaumart Fichte;16;1;1;0;-1;1
-;hba;Hauptbaumart Buche;17;2;1;1;1;0
+;hba;Hauptbaumart Buche;17;2;1;2;1;0
 ;hba;Hauptbaumart Traubeneiche;18;3;0;0;0;0
 ;hba;Hauptbaumart Waldkiefer;19;4;0;0;0;0
 ;hba;Hauptbaumart Birke;20;5;0;0;0;0
 ;hba;Hauptbaumart Bergahorn;21;6;0;0;0;0
-;hba;Hauptbaumart Esche;22;7;0;0;0;0
+;hba;Hauptbaumart Esche;22;7;1;0;0;0
 ;hba;Hauptbaumart Schwarzerle;23;8;0;0;0;0
 ;hba;Hauptbaumart Europäische Lärche;24;9;0;0;0;0
-;hba;Hauptbaumart Douglasie ;25;10;0;0;0;0
+;hba;Hauptbaumart Douglasie ;25;10;0;-1;0;0
 ;hba;Hauptbaumart Stieleiche;26;11;0;0;0;0
 ;hba;Hauptbaumart Weißtanne;27;12;0;0;0;0
 ;hba;Hauptbaumart Linde;28;13;0;0;0;0
-;hba;Hauptbaumart Pappeln (spec.);29;14;0;0;0;0
-;hba;Hauptbaumart Weiden (spec.);30;15;0;0;0;0
-;hba;Hauptbaumart Bergulme;31;16;0;0;0;0
-;hba;Hauptbaumart Spitzahorn;32;17;0;0;0;0
-;hba;Hauptbaumart Esskastanie;33;18;0;0;0;0
+;hba;Hauptbaumart Pappeln (spec.);29;14;1;0;0;0
+;hba;Hauptbaumart Weiden (spec.);30;15;1;0;0;0
+;hba;Hauptbaumart Bergulme;31;16;1;0;0;0
+;hba;Hauptbaumart Spitzahorn;32;17;1;0;0;0
+;hba;Hauptbaumart Esskastanie;33;18;1;0;0;0
 ;hba;Hauptbaumart res;34;19;0;0;0;0
 ;hba;Hauptbaumart res;35;20;0;0;0;0
 ;hba;Hauptbaumart res;36;21;0;0;0;0
@@ -109,19 +109,19 @@ https://cloudstore.zih.tu-dresden.de/index.php/s/TTFs68oELB2HjSt;bhd;Schwaches B
 ;n2ba;Nebenbaumart res;108;30;0;0;0;0
 ;n2ba;Nebenbaumart res;109;31;0;0;0;0
 ;n2ba;Nebenbaumart res;110;32;0;0;0;0
-;vo;Vorrat sehr gering;111;1;0;0;0;0
+;vo;Vorrat sehr gering;111;1;-1;0;0;0
 ;vo;Vorrat gering;112;2;0;0;0;0
 ;vo;Vorrat durchschnittlich;113;3;0;0;0;0
 ;vo;Vorrat hoch;114;4;0;0;0;0
-;vo;Vorrat sehr hoch;115;5;0;0;0;0
+;vo;Vorrat sehr hoch;115;5;-1;1;0;0
 ;wir;kein Waldinnenrand;116;0;0;0;0;0
-;wir;Waldinnenrand ;117;1;1;0;0;0
+;wir;Waldinnenrand ;117;1;1;1;0;0
 ;war;kein Waldaussenrand;118;0;0;0;0;0
 ;war;Waldaussenrand ;119;1;1;0;0;0
 ;wsch_ds;keine Dürrständer;120;1;0;0;0;0
 ;wsch_ds;wenige Dürrständer;121;2;1;0;0;0
-;wsch_ds;viele Dürrständer;122;3;-1;0;0;0
+;wsch_ds;viele Dürrständer;122;3;-1;1;0;0
 ;wsch_ds;nur Dürrständer;123;4;-2;2;0;0
 ;sch;Einschichtig;124;1;0;0;0;0
 ;sch;Zweischichtig;125;2;1;0;0;0
-;sch;Mehrschichtig;126;3;1;0;0;0
+;sch;Mehrschichtig;126;3;1;1;0;0
