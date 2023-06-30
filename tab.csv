@@ -121,7 +121,7 @@ https://cloudstore.zih.tu-dresden.de/index.php/s/TTFs68oELB2HjSt;bhd;Schwaches B
 ;wsch_ds;keine Dürrständer;120;1;0;0;0;0
 ;wsch_ds;wenige Dürrständer;121;2;1;0;0;0
 ;wsch_ds;viele Dürrständer;122;3;-1;0;0;0
-;wsch_ds;nur Dürrständer;123;4;-2;0;0;0
+;wsch_ds;nur Dürrständer;123;4;-2;2;0;0
 ;sch;Einschichtig;124;1;0;0;0;0
 ;sch;Zweischichtig;125;2;1;0;0;0
 ;sch;Mehrschichtig;126;3;1;0;0;0
