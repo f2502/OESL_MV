@@ -125,3 +125,8 @@ https://cloudstore.zih.tu-dresden.de/index.php/s/TTFs68oELB2HjSt;bhd;Schwaches B
 ;sch;Einschichtig;124;1;0;0;0;0
 ;sch;Zweischichtig;125;2;1;0;0;0
 ;sch;Mehrschichtig;126;3;1;1;0;0
+;toth;kein Totholz;127;1;0;-2;0;0
+;toth;Totholz I;128;2;1;-1;0;0
+;toth;Totholz II;129;3;0;1;0;0
+;toth;Totholz III;130;4;-1;1;0;0
+;toth;Totholz IV;131;5;-2;2;0;0
