@@ -129,9 +129,26 @@ https://cloudstore.zih.tu-dresden.de/index.php/s/TTFs68oELB2HjSt;bhd;Schwaches B
 ;totholz;Totholz I;128;2;1;-1;0;0
 ;totholz;Totholz II;129;3;0;1;0;0
 ;totholz;Totholz III;130;4;-1;1;0;0
-;totholz;Totholz IV;131;5;-2;2;0;0
+;totholz;Totholzmenge über 100 m³;131;5;-2;2;0;0
 ;kronenschluss;gedrängt;132;1;-1;0;0;0
 ;kronenschluss;geschlossen;133;2;0;0;0;0
 ;kronenschluss;locker;134;3;0;0;0;0
 ;kronenschluss;licht;135;4;1;0;0;0
 ;kronenschluss;räumig;136;5;-1;0;0;0
+;tothzus;kein altes Totholz;137;1;0;0;0;0
+;tothzus;altes Totholz 20%;138;2;0;0;0;0
+;tothzus;altes Totholz 40%;139;3;0;0;0;0
+;tothzus;altes Totholz 60%;140;4;0;0;0;0
+;tothzus;altes Totholz 80%;141;5;0;0;0;0
+;tothzus;altes Totholz 100%;142;6;0;0;0;0
+;stotholz;kein Totholz;143;1;0;0;0;0
+;stotholz;Totholz I;144;2;0;0;0;0
+;stotholz;Totholz II;145;3;0;0;0;0
+;stotholz;Totholz III;146;4;0;0;0;0
+;stotholz;Totholzmenge über 100 m³;147;5;0;0;0;0
+;stothzus;kein altes Totholz;148;1;0;0;0;0
+;stothzus;altes Totholz 20%;149;2;0;0;0;0
+;stothzus;altes Totholz 40%;150;3;0;0;0;0
+;stothzus;altes Totholz 60%;151;4;0;0;0;0
+;stothzus;altes Totholz 80%;152;5;0;0;0;0
+;stothzus;altes Totholz 100%;153;6;0;0;0;0
