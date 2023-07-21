@@ -1,66 +1,66 @@
-Ôªøba_kurz;ba_lang;ba_wis;erh;biod;wa;oek
-GFI;Gemeine Fichte;Picea abies;;;;
-OFI;Omorikafichte;Picea omorika;;;;
-PFI;Stechfichte;Picea pungens;;;;
-FIS;Sonstige Fichten;Picea spec.;;;;
-GKI;Gemeine Kiefer;Pinus sylvestris;;;;
-WKI;Weymouthskiefer;Pinus strobus;;;;
-SKI;Schwarzkiefer;Pinus nigra (ssp. nigra);;;;
-MKI;Murraykiefer;Pinus contorta;;;;
-RKI;Rumelische Kiefer;Pinus peuce;;;;
-BKI;Bergkiefer;Pinus mugo;;;;
-KIS;Sonstige Kiefern;Pinus spec.;;;;
-ELA;Europ√§ische L√§rche;Larix decidua;;;;
-JLA;Japanische L√§rche;Larix kaempferi;;;;
-HLA;Hybridl√§rche;Larix x eurolepis;;;;
-LAS;Sonstige L√§rchen;Larix spec.;;;;
-WTA;Wei√ütanne;Abies alba;;;;
-KTA;K√ºstentanne;Abies grandis;;;;
-CTA;Coloradotanne;Abies concolor;;;;
-NTA;Nordmanntanne;Abies nordmanniana;;;;
-TAS;Sonstige Tannen;Abies spec.;;;;
-DGL;Douglasie;Pseudotsuga spec.;;;;
-LEB;Lebensb√§ume;Thuja spec.;;;;
-SZP;Scheinzypressen;Chamaecyparis spec.;;;;
-HLO;Hemlockstanne;Tsuga canadensis;;;;
-EIB;Eibe;Taxus baccata;;;;
-SNA;Sonstige Nadelbaumarten;;;;;
-SEI;Stieleiche;Quercus robur;;;;
-TEI;Traubeneiche;Quercus petraea;;;;
-REI;Roteiche;Quercus rubra;;;;
-EIS;Sonstige Eichen;Quercus spec.;;;;
-RBU;Rotbuche;Fagus silvatica;;;;
-HBU;Hainbuche;Carpinus betulus;;;;
-GES;Gemeine Esche;Fraxinus excelsior;;;;
-BAH;Bergahorn;Acer pseudoplatanus;;;;
-SAH;Spitzahorn;Acer platanoides;;;;
-FAH;Feldahorn;Acer campestre;;;;
-BUL;Bergulme(-r√ºster);Ulmus glabra;;;;
-FUL;Flatterulme(-r√ºster);Ulmus laevis;;;;
-MUL;Feldulme;Ulmus minor, alternativ ULS ‚Äì sonstige Ulmen;;;;
-ROB;Robinie;Robinia pseudoacacia;;;;
-VKI;Vogelkirsche;Prunus avium (ssp. avium);;;;
-SKB;Sp√§tbl√ºhender Traubenkirschenbaum;Prunus serotina;;;;
-EKA;Edelkastanie;Castanea sativa;;;;
-ELS;Elsbeere;Sorbus torminalis;;;;
-MBE;Mehlbeere;Sorbus aria;;;;
-SPE;Speierling;Sorbus domestica;;;;
-WBI;Wildbirne;Pyrus pyraster;;;;
-WAP;Wildapfel;Malus sylvestris;;;;
-SHL;Sonstige Hartlaubbaumarten;;;;;
-GBI;Gemeine Birke;Ursprungsart;;;;
-MBI;Moorbirke;Betula pubescens;;;;
-RER;Roterle (Schwarzerle);Alnus glutinosa;;;;
-WER;Wei√üerle (Grauerle);Alnus incana;;;;
-GER;Gr√ºnerle;Alnus viridis;;;;
-RKA;Rosskastanie;Aesculus hippocastanum;;;;
-GEB;Gemeine Eberesche;Sorbus aucuparia;;;;
-WLI;Winterlinde;Tilia cordata;;;;
-SLI;Sommerlinde;Tilia platyphyllos;;;;
-HAS;Haselstrauch;Corylus avellana;;;;
-PAP;Pappel;Populus spec.;;;;
-ASP;Aspe;Populus tremula;;;;
-FLB;Faulbaum;Frangula alnus;;;;
-SWE;Salweide;Salix caprea;;;;
-BWS;Sonstige Baumweiden;Salix spec.;;;;
-SWL;Sonstige Weichlaubbaumarten;;;;;
+ba_kurz	ba_lang	ba_wis	erh	biod	wa	oek
+GFI	Gemeine Fichte	Picea abies				
+OFI	Omorikafichte	Picea omorika				
+PFI	Stechfichte	Picea pungens				
+FIS	Sonstige Fichten	Picea spec.				
+GKI	Gemeine Kiefer	Pinus sylvestris				
+WKI	Weymouthskiefer	Pinus strobus				
+SKI	Schwarzkiefer	Pinus nigra (ssp. nigra)				
+MKI	Murraykiefer	Pinus contorta				
+RKI	Rumelische Kiefer	Pinus peuce				
+BKI	Bergkiefer	Pinus mugo				
+KIS	Sonstige Kiefern	Pinus spec.				
+ELA	Europ‰ische L‰rche	Larix decidua				
+JLA	Japanische L‰rche	Larix kaempferi				
+HLA	Hybridl‰rche	Larix x eurolepis				
+LAS	Sonstige L‰rchen	Larix spec.				
+WTA	Weiﬂtanne	Abies alba				
+KTA	K¸stentanne	Abies grandis				
+CTA	Coloradotanne	Abies concolor				
+NTA	Nordmanntanne	Abies nordmanniana				
+TAS	Sonstige Tannen	Abies spec.				
+DGL	Douglasie	Pseudotsuga spec.				
+LEB	Lebensb‰ume	Thuja spec.				
+SZP	Scheinzypressen	Chamaecyparis spec.				
+HLO	Hemlockstanne	Tsuga canadensis				
+EIB	Eibe	Taxus baccata				
+SNA	Sonstige Nadelbaumarten					
+SEI	Stieleiche	Quercus robur				
+TEI	Traubeneiche	Quercus petraea				
+REI	Roteiche	Quercus rubra				
+EIS	Sonstige Eichen	Quercus spec.				
+RBU	Rotbuche	Fagus silvatica				
+HBU	Hainbuche	Carpinus betulus				
+GES	Gemeine Esche	Fraxinus excelsior				
+BAH	Bergahorn	Acer pseudoplatanus				
+SAH	Spitzahorn	Acer platanoides				
+FAH	Feldahorn	Acer campestre				
+BUL	Bergulme(-r¸ster)	Ulmus glabra				
+FUL	Flatterulme(-r¸ster)	Ulmus laevis				
+MUL	Feldulme	Ulmus minor, alternativ ULS ñ sonstige Ulmen				
+ROB	Robinie	Robinia pseudoacacia				
+VKI	Vogelkirsche	Prunus avium (ssp. avium)				
+SKB	Sp‰tbl¸hender Traubenkirschenbaum	Prunus serotina				
+EKA	Edelkastanie	Castanea sativa				
+ELS	Elsbeere	Sorbus torminalis				
+MBE	Mehlbeere	Sorbus aria				
+SPE	Speierling	Sorbus domestica				
+WBI	Wildbirne	Pyrus pyraster				
+WAP	Wildapfel	Malus sylvestris				
+SHL	Sonstige Hartlaubbaumarten					
+GBI	Gemeine Birke	Ursprungsart				
+MBI	Moorbirke	Betula pubescens				
+RER	Roterle (Schwarzerle)	Alnus glutinosa				
+WER	Weiﬂerle (Grauerle)	Alnus incana				
+GER	Gr¸nerle	Alnus viridis				
+RKA	Rosskastanie	Aesculus hippocastanum				
+GEB	Gemeine Eberesche	Sorbus aucuparia				
+WLI	Winterlinde	Tilia cordata				
+SLI	Sommerlinde	Tilia platyphyllos				
+HAS	Haselstrauch	Corylus avellana				
+PAP	Pappel	Populus spec.				
+ASP	Aspe	Populus tremula				
+FLB	Faulbaum	Frangula alnus				
+SWE	Salweide	Salix caprea				
+BWS	Sonstige Baumweiden	Salix spec.				
+SWL	Sonstige Weichlaubbaumarten					
