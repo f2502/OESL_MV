@@ -164,3 +164,17 @@ https://cloudstore.zih.tu-dresden.de/index.php/s/TTFs68oELB2HjSt;bhd;Schwaches B
 ;stammzahl;Stammzahl Klasse 4;163;4;0;0;0;0
 ;stammzahl;Stammzahl Klasse 5;164;5;0;0;0;0
 ;stammzahl;Stammzahl Klasse 6;165;6;0;0;0;0
+;miform1;Einzelmischung;166;7;0;0;0;0
+;miform1;Truppweise Mischung (Trupps mit einem Flächendurchmesser bis zu 15 m);167;6;0;0;0;0
+;miform1;Reihe (Mischbaumarten wie eine Baumreihe im Bestand);168;5;0;0;0;0
+;miform1;Gruppenweise Mischung (Gruppen mit einem Flächendurchmesser von 15 bis 30 m);169;4;0;0;0;0
+;miform1;Horstweise Mischung (Horste mit einem Flächendurchmesser von 30 bis 60 m);170;3;0;0;0;0
+;miform1;Flächenweise Mischung (Flächen mit einem Flächendurchmesser von über 60 m);171;2;0;0;0;0
+;miform1;Streifen (Mischbaumart, die in Streifen und nicht als Reihe gemischt sind);172;1;0;0;0;0
+;miform2;Einzelmischung;173;7;0;0;0;0
+;miform2;Truppweise Mischung (Trupps mit einem Flächendurchmesser bis zu 15 m);174;6;0;0;0;0
+;miform2;Reihe (Mischbaumarten wie eine Baumreihe im Bestand);175;5;0;0;0;0
+;miform2;Gruppenweise Mischung (Gruppen mit einem Flächendurchmesser von 15 bis 30 m);176;4;0;0;0;0
+;miform2;Horstweise Mischung (Horste mit einem Flächendurchmesser von 30 bis 60 m);177;3;0;0;0;0
+;miform2;Flächenweise Mischung (Flächen mit einem Flächendurchmesser von über 60 m);178;2;0;0;0;0
+;miform2;Streifen (Mischbaumart, die in Streifen und nicht als Reihe gemischt sind);179;1;0;0;0;0
