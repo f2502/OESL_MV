@@ -130,11 +130,11 @@ https://cloudstore.zih.tu-dresden.de/index.php/s/TTFs68oELB2HjSt;bhd;Schwaches B
 ;totholz;Totholz II;129;3;0;1;0;0
 ;totholz;Totholz III;130;4;-1;1;0;0
 ;totholz;Totholzmenge über 100 m³;131;5;-2;2;0;0
-;kronenschluss;gedrängt;132;1;-1;0;0;0
-;kronenschluss;geschlossen;133;2;0;0;0;0
-;kronenschluss;locker;134;3;0;0;0;0
-;kronenschluss;licht;135;4;1;0;0;0
-;kronenschluss;räumig;136;5;-1;0;0;0
+;kronenschluss;gedrängt;132;1;-1;10;0;0
+;kronenschluss;geschlossen;133;2;0;10;0;0
+;kronenschluss;locker;134;3;0;10;0;0
+;kronenschluss;licht;135;4;1;10;0;0
+;kronenschluss;räumig;136;5;-1;10;0;0
 ;tothzus;kein altes Totholz;137;1;0;0;0;0
 ;tothzus;altes Totholz 20%;138;2;0;0;0;0
 ;tothzus;altes Totholz 40%;139;3;0;0;0;0
@@ -161,9 +161,9 @@ https://cloudstore.zih.tu-dresden.de/index.php/s/TTFs68oELB2HjSt;bhd;Schwaches B
 ;stammzahl;Stammzahl Klasse 1;160;1;0;0;0;0
 ;stammzahl;Stammzahl Klasse 2;161;2;0;0;0;0
 ;stammzahl;Stammzahl Klasse 3;162;3;0;0;0;0
-;stammzahl;Stammzahl Klasse 4;163;4;0;0;0;0
-;stammzahl;Stammzahl Klasse 5;164;5;0;0;0;0
-;stammzahl;Stammzahl Klasse 6;165;6;0;0;0;0
+;stammzahl;Stammzahl Klasse 4;163;4;0;1;0;0
+;stammzahl;Stammzahl Klasse 5;164;5;0;1;0;0
+;stammzahl;Stammzahl Klasse 6;165;6;0;1;0;0
 ;miform1;Einzelmischung;166;7;0;0;0;0
 ;miform1;Truppweise Mischung (Trupps mit einem Flächendurchmesser bis zu 15 m);167;6;0;0;0;0
 ;miform1;Reihe (Mischbaumarten wie eine Baumreihe im Bestand);168;5;0;0;0;0
@@ -178,3 +178,5 @@ https://cloudstore.zih.tu-dresden.de/index.php/s/TTFs68oELB2HjSt;bhd;Schwaches B
 ;miform2;Horstweise Mischung (Horste mit einem Flächendurchmesser von 30 bis 60 m);177;3;0;0;0;0
 ;miform2;Flächenweise Mischung (Flächen mit einem Flächendurchmesser von über 60 m);178;2;0;0;0;0
 ;miform2;Streifen (Mischbaumart, die in Streifen und nicht als Reihe gemischt sind);179;1;0;0;0;0
+;misch;Mischung ;180;2;1;1;0;0
+;misch;keine Mischung ;180;1;-1;-1;0;0
