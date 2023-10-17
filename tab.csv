@@ -1,182 +1,182 @@
 ﻿link;mm;Merkmal;stra;stra_n;erh;biod;wa;oek
-https://cloudstore.zih.tu-dresden.de/index.php/s/BedzZt8GKBjWmed;bhd;Jungbestand BHD bis  7 cm;1;1;-1;1;0;-1
-https://cloudstore.zih.tu-dresden.de/index.php/s/iYxynCGJmnxBAwW;bhd;Stangenholz BHD 7-20cm;2;2;-1;1;1;1
-https://cloudstore.zih.tu-dresden.de/index.php/s/TTFs68oELB2HjSt;bhd;Schwaches Baumholz  21–35 cm;3;3;0;0;0;0
-;bhd;mittleres Baumholz: BHD 36–50 cm;4;4;1;0;0;1
-;bhd;starkes Baumholz:   50 cm-99cm;5;5;1;1;0;0
-;bhd;besonders starkes  Baumholz >100cm;6;6;2;2;0;-1
-;al;Altersklasse 1 (bis 19J.);7;1;0;0;0;0
-;al;Altersklasse 2  (20-39J.);8;2;0;0;0;0
-;al;Altersklasse 3 (40-59J.);9;3;0;0;0;0
-;al;Altersklasse 4 (60-79J.);10;4;0;0;0;0
-;al;Altersklasse 5  (80-99J.);11;5;0;1;0;0
-;al;Altersklasse 6   (100-119J.);12;6;0;1;0;0
-;al;Altersklasse 7   (120-139J.);13;7;0;1;0;0
-;al;Altersklasse 8  (140-159J.);14;8;0;2;0;0
-;al;Altersklasse 9  (über 160 J.);15;9;2;2;0;0
-;hba;Hauptbaumart Fichte;16;1;1;0;-1;1
-;hba;Hauptbaumart Buche;17;2;1;2;1;0
-;hba;Hauptbaumart Traubeneiche;18;3;0;1;0;0
-;hba;Hauptbaumart Waldkiefer;19;4;0;0;0;0
-;hba;Hauptbaumart Birke;20;5;0;1;0;-1
-;hba;Hauptbaumart Bergahorn;21;6;0;0;0;-1
-;hba;Hauptbaumart Esche;22;7;1;0;0;0
-;hba;Hauptbaumart Schwarzerle;23;8;0;0;0;0
-;hba;Hauptbaumart Europäische Lärche;24;9;0;0;0;1
-;hba;Hauptbaumart Douglasie ;25;10;0;-1;0;2
-;hba;Hauptbaumart Stieleiche;26;11;0;0;0;0
-;hba;Hauptbaumart Weißtanne;27;12;0;0;0;1
-;hba;Hauptbaumart Linde;28;13;0;0;0;0
-;hba;Hauptbaumart Pappeln (spec.);29;14;1;0;0;0
-;hba;Hauptbaumart Weiden (spec.);30;15;1;0;0;0
-;hba;Hauptbaumart Bergulme;31;16;1;1;0;0
-;hba;Hauptbaumart Spitzahorn;32;17;1;0;0;0
-;hba;Hauptbaumart Esskastanie;33;18;2;-1;0;0
-;hba;Hauptbaumart res;34;19;-3;-3;-3;-3
-;hba;Hauptbaumart res;35;20;-3;-3;-3;-3
-;hba;Hauptbaumart res;36;21;-3;-3;-3;-3
-;hba;Hauptbaumart res;37;22;-3;-3;-3;-3
-;hba;Hauptbaumart res;38;23;-3;-3;-3;-3
-;hba;Hauptbaumart res;39;24;-3;-3;-3;-3
-;hba;Hauptbaumart res;40;25;-3;-3;-3;-3
-;hba;Hauptbaumart res;41;26;-3;-3;-3;-3
-;hba;Hauptbaumart res;42;27;-3;-3;-3;-3
-;hba;Hauptbaumart res;43;28;-3;-3;-3;-3
-;hba;Hauptbaumart res;44;29;-3;-3;-3;-3
-;hba;Hauptbaumart res;45;30;-3;-3;-3;-3
-;hba;Hauptbaumart res;46;31;-3;-3;-3;-3
-;n1ba;Ohne Nebenbaumart I;47;1;-1;0;0;0
-;n1ba;Nebenbaumart Fichte;48;2;1;0;-1;1
-;n1ba;Nebenbaumart Buche;49;3;1;2;1;0
-;n1ba;Nebenbaumart Traubeneiche;50;4;1;1;0;0
-;n1ba;Nebenbaumart Waldkiefer;51;5;1;0;0;0
-;n1ba;Nebenbaumart Birke;52;6;1;1;0;-1
-;n1ba;Nebenbaumart Bergahorn;53;7;1;0;0;-1
-;n1ba;Nebenbaumart Esche;54;8;1;0;0;0
-;n1ba;Nebenbaumart Schwarzerle;55;9;1;0;0;0
-;n1ba;Nebenbaumart Europäische Lärche;56;10;0;0;0;1
-;n1ba;Nebenbaumart Douglasie ;57;11;0;-1;0;2
-;n1ba;Nebenbaumart Stieleiche;58;12;1;0;0;0
-;n1ba;Nebenbaumart Weißtanne;59;13;1;0;0;1
-;n1ba;Nebenbaumart Linde;60;14;1;0;0;0
-;n1ba;Nebenbaumart Pappeln (spec.);61;15;1;0;0;0
-;n1ba;Nebenbaumart Weiden (spec.);62;16;1;0;0;0
-;n1ba;Nebenbaumart Bergulme;63;17;1;1;0;0
-;n1ba;Nebenbaumart Spitzahorn;64;18;1;0;0;0
-;n1ba;Nebenbaumart Esskastanie;65;19;1;-1;0;0
-;n1ba;Nebenbaumart res;66;20;-3;-3;-3;-3
-;n1ba;Nebenbaumart res;67;21;-3;-3;-3;-3
-;n1ba;Nebenbaumart res;68;22;-3;-3;-3;-3
-;n1ba;Nebenbaumart res;69;23;-3;-3;-3;-3
-;n1ba;Nebenbaumart res;70;24;-3;-3;-3;-3
-;n1ba;Nebenbaumart res;71;25;-3;-3;-3;-3
-;n1ba;Nebenbaumart res;72;26;-3;-3;-3;-3
-;n1ba;Nebenbaumart res;73;27;-3;-3;-3;-3
-;n1ba;Nebenbaumart res;74;28;-3;-3;-3;-3
-;n1ba;Nebenbaumart res;75;29;-3;-3;-3;-3
-;n1ba;Nebenbaumart res;76;30;-3;-3;-3;-3
-;n1ba;Nebenbaumart res;77;31;-3;-3;-3;-3
-;n1ba;Nebenbaumart res;78;32;-3;-3;-3;-3
-;n2ba;Ohne Nebenbaumart II;79;1;-1;0;0;0
-;n2ba;Nebenbaumart Fichte;80;2;1;0;-1;1
-;n2ba;Nebenbaumart Buche;81;3;1;2;1;0
-;n2ba;Nebenbaumart Traubeneiche;82;4;0;1;0;0
-;n2ba;Nebenbaumart Waldkiefer;83;5;0;0;0;0
-;n2ba;Nebenbaumart Birke;84;6;0;1;0;-1
-;n2ba;Nebenbaumart Bergahorn;85;7;0;0;0;-1
-;n2ba;Nebenbaumart Esche;86;8;1;0;0;0
-;n2ba;Nebenbaumart Schwarzerle;87;9;0;0;0;0
-;n2ba;Nebenbaumart Europäische Lärche;88;10;0;0;0;1
-;n2ba;Nebenbaumart Douglasie ;89;11;0;-1;0;2
-;n2ba;Nebenbaumart Stieleiche;90;12;0;0;0;0
-;n2ba;Nebenbaumart Weißtanne;91;13;0;0;0;1
-;n2ba;Nebenbaumart Linde;92;14;0;0;0;0
-;n2ba;Nebenbaumart Pappeln (spec.);93;15;1;0;0;0
-;n2ba;Nebenbaumart Weiden (spec.);94;16;1;0;0;0
-;n2ba;Nebenbaumart Bergulme;95;17;1;1;0;0
-;n2ba;Nebenbaumart Spitzahorn;96;18;1;0;0;0
-;n2ba;Nebenbaumart Esskastanie;97;19;2;-1;0;0
-;n2ba;Nebenbaumart res;98;20;-3;-3;-3;-3
-;n2ba;Nebenbaumart res;99;21;-3;-3;-3;-3
-;n2ba;Nebenbaumart res;100;22;-3;-3;-3;-3
-;n2ba;Nebenbaumart res;101;23;-3;-3;-3;-3
-;n2ba;Nebenbaumart res;102;24;-3;-3;-3;-3
-;n2ba;Nebenbaumart res;103;25;-3;-3;-3;-3
-;n2ba;Nebenbaumart res;104;26;-3;-3;-3;-3
-;n2ba;Nebenbaumart res;105;27;-3;-3;-3;-3
-;n2ba;Nebenbaumart res;106;28;-3;-3;-3;-3
-;n2ba;Nebenbaumart res;107;29;-3;-3;-3;-3
-;n2ba;Nebenbaumart res;108;30;-3;-3;-3;-3
-;n2ba;Nebenbaumart res;109;31;-3;-3;-3;-3
-;n2ba;Nebenbaumart res;110;32;-3;-3;-3;-3
-;vo;Vorrat sehr gering;111;1;-1;0;0;0
-;vo;Vorrat gering;112;2;0;0;0;0
-;vo;Vorrat durchschnittlich;113;3;0;0;0;0
-;vo;Vorrat hoch;114;4;0;0;0;0
-;vo;Vorrat sehr hoch;115;5;-1;1;0;0
-;wir;kein Waldinnenrand;116;0;0;0;0;0
-;wir;Waldinnenrand ;117;1;1;1;0;0
-;war;kein Waldaussenrand;118;0;0;0;0;0
-;war;Waldaussenrand ;119;1;1;0;0;0
-;wsch_ds;keine Dürrständer;120;1;0;0;0;0
-;wsch_ds;wenige Dürrständer;121;2;1;0;0;0
-;wsch_ds;viele Dürrständer;122;3;-1;1;0;0
-;wsch_ds;nur Dürrständer;123;4;-2;2;0;0
-;sch;Einschichtig;124;1;0;0;0;0
-;sch;Zweischichtig;125;2;1;0;0;0
-;sch;Mehrschichtig;126;3;1;1;0;0
-;totholz;kein Totholz;127;1;0;-2;0;0
-;totholz;Totholz I;128;2;1;-1;0;0
-;totholz;Totholz II;129;3;0;1;0;0
-;totholz;Totholz III;130;4;-1;1;0;0
-;totholz;Totholzmenge über 100 m³;131;5;-2;2;0;0
-;kronenschluss;gedrängt;132;1;-1;10;0;0
-;kronenschluss;geschlossen;133;2;0;-1;0;0
-;kronenschluss;locker;134;3;0;10;0;0
-;kronenschluss;licht;135;4;1;10;0;0
-;kronenschluss;räumig;136;5;-1;10;0;0
-;tothzus;kein altes Totholz;137;1;0;0;0;0
-;tothzus;altes Totholz 20%;138;2;0;0;0;0
-;tothzus;altes Totholz 40%;139;3;0;0;0;0
-;tothzus;altes Totholz 60%;140;4;0;0;0;0
-;tothzus;altes Totholz 80%;141;5;0;0;0;0
-;tothzus;altes Totholz 100%;142;6;0;0;0;0
-;stotholz;kein Totholz;143;1;0;0;0;0
-;stotholz;Totholz I;144;2;0;0;0;0
-;stotholz;Totholz II;145;3;0;0;0;0
-;stotholz;Totholz III;146;4;0;0;0;0
-;stotholz;Totholzmenge über 100 m³;147;5;0;0;0;0
-;stothzus;kein altes Totholz;148;1;0;0;0;0
-;stothzus;altes Totholz 20%;149;2;0;0;0;0
-;stothzus;altes Totholz 40%;150;3;0;0;0;0
-;stothzus;altes Totholz 60%;151;4;0;0;0;0
-;stothzus;altes Totholz 80%;152;5;0;0;0;0
-;stothzus;altes Totholz 100%;153;6;0;0;0;0
-;grundflaeche;Grundfläche Klasse 1;154;1;0;0;0;0
-;grundflaeche;Grundfläche Klasse 2;155;2;0;0;0;0
-;grundflaeche;Grundfläche Klasse 3;156;3;0;0;0;0
-;grundflaeche;Grundfläche Klasse 4;157;4;0;0;0;0
-;grundflaeche;Grundfläche Klasse 5;158;5;0;0;0;0
-;grundflaeche;Grundfläche Klasse 6;159;6;0;0;0;0
-;stammzahl;Stammzahl Klasse 1;160;1;0;0;0;0
-;stammzahl;Stammzahl Klasse 2;161;2;0;0;0;0
-;stammzahl;Stammzahl Klasse 3;162;3;0;0;0;0
-;stammzahl;Stammzahl Klasse 4;163;4;0;1;0;0
-;stammzahl;Stammzahl Klasse 5;164;5;0;1;0;0
-;stammzahl;Stammzahl Klasse 6;165;6;0;1;0;0
-;miform1;Einzelmischung;166;7;0;0;0;0
-;miform1;Truppweise Mischung (Trupps mit einem Flächendurchmesser bis zu 15 m);167;6;0;0;0;0
-;miform1;Reihe (Mischbaumarten wie eine Baumreihe im Bestand);168;5;0;0;0;0
-;miform1;Gruppenweise Mischung (Gruppen mit einem Flächendurchmesser von 15 bis 30 m);169;4;0;0;0;0
-;miform1;Horstweise Mischung (Horste mit einem Flächendurchmesser von 30 bis 60 m);170;3;0;0;0;0
-;miform1;Flächenweise Mischung (Flächen mit einem Flächendurchmesser von über 60 m);171;2;0;0;0;0
-;miform1;Streifen (Mischbaumart, die in Streifen und nicht als Reihe gemischt sind);172;1;0;0;0;0
-;miform2;Einzelmischung;173;7;0;0;0;0
-;miform2;Truppweise Mischung (Trupps mit einem Flächendurchmesser bis zu 15 m);174;6;0;0;0;0
-;miform2;Reihe (Mischbaumarten wie eine Baumreihe im Bestand);175;5;0;0;0;0
-;miform2;Gruppenweise Mischung (Gruppen mit einem Flächendurchmesser von 15 bis 30 m);176;4;0;0;0;0
-;miform2;Horstweise Mischung (Horste mit einem Flächendurchmesser von 30 bis 60 m);177;3;0;0;0;0
-;miform2;Flächenweise Mischung (Flächen mit einem Flächendurchmesser von über 60 m);178;2;0;0;0;0
-;miform2;Streifen (Mischbaumart, die in Streifen und nicht als Reihe gemischt sind);179;1;0;0;0;0
-;misch;Mischung ;180;2;1;1;0;0
-;misch;keine Mischung ;180;1;-1;-1;0;0
+https://docs.google.com/document/d/1BgYLWrVg42F8_wA1opdvlwQd38nWwp-h/edit#heading=h.gjdgxs;bhd;Jungbestand BHD bis  7 cm;1;1;-1;1;0;-1
+https://docs.google.com/document/d/1BgYLWrVg42F8_wA1opdvlwQd38nWwp-h/edit#heading=h.gjdgxs;bhd;Stangenholz BHD 7-20cm;2;2;-1;1;1;1
+https://docs.google.com/document/d/1BgYLWrVg42F8_wA1opdvlwQd38nWwp-h/edit#heading=h.gjdgxs;bhd;Schwaches Baumholz  21–35 cm;3;3;0;0;0;0
+https://docs.google.com/document/d/1BgYLWrVg42F8_wA1opdvlwQd38nWwp-h/edit#heading=h.gjdgxs;bhd;mittleres Baumholz: BHD 36–50 cm;4;4;1;0;0;1
+https://docs.google.com/document/d/1BgYLWrVg42F8_wA1opdvlwQd38nWwp-h/edit#heading=h.gjdgxs;bhd;starkes Baumholz:   50 cm-99cm;5;5;1;1;0;0
+https://docs.google.com/document/d/1BgYLWrVg42F8_wA1opdvlwQd38nWwp-h/edit#heading=h.gjdgxs;bhd;besonders starkes  Baumholz >100cm;6;6;2;2;0;-1
+https://docs.google.com/document/d/10BXPHjTsDvW-P5hCVOssMJQIWrvY53Ju/edit#heading=h.gjdgxs;al;Altersklasse 1 (bis 19J.);7;1;0;0;0;0
+https://docs.google.com/document/d/10BXPHjTsDvW-P5hCVOssMJQIWrvY53Ju/edit#heading=h.gjdgxs;al;Altersklasse 2  (20-39J.);8;2;0;0;0;0
+https://docs.google.com/document/d/10BXPHjTsDvW-P5hCVOssMJQIWrvY53Ju/edit#heading=h.gjdgxs;al;Altersklasse 3 (40-59J.);9;3;0;0;0;0
+https://docs.google.com/document/d/10BXPHjTsDvW-P5hCVOssMJQIWrvY53Ju/edit#heading=h.gjdgxs;al;Altersklasse 4 (60-79J.);10;4;0;0;0;0
+https://docs.google.com/document/d/10BXPHjTsDvW-P5hCVOssMJQIWrvY53Ju/edit#heading=h.gjdgxs;al;Altersklasse 5  (80-99J.);11;5;0;1;0;0
+https://docs.google.com/document/d/10BXPHjTsDvW-P5hCVOssMJQIWrvY53Ju/edit#heading=h.gjdgxs;al;Altersklasse 6   (100-119J.);12;6;0;1;0;0
+https://docs.google.com/document/d/10BXPHjTsDvW-P5hCVOssMJQIWrvY53Ju/edit#heading=h.gjdgxs;al;Altersklasse 7   (120-139J.);13;7;0;1;0;0
+https://docs.google.com/document/d/10BXPHjTsDvW-P5hCVOssMJQIWrvY53Ju/edit#heading=h.gjdgxs;al;Altersklasse 8  (140-159J.);14;8;0;2;0;0
+https://docs.google.com/document/d/10BXPHjTsDvW-P5hCVOssMJQIWrvY53Ju/edit#heading=h.gjdgxs;al;Altersklasse 9  (über 160 J.);15;9;2;2;0;0
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Fichte;16;1;1;0;-1;1
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Buche;17;2;1;2;1;0
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Traubeneiche;18;3;0;1;0;0
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Waldkiefer;19;4;0;0;0;0
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Birke;20;5;0;1;0;-1
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Bergahorn;21;6;0;0;0;-1
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Esche;22;7;1;0;0;0
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Schwarzerle;23;8;0;0;0;0
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Europäische Lärche;24;9;0;0;0;1
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Douglasie ;25;10;0;-1;0;2
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Stieleiche;26;11;0;0;0;0
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Weißtanne;27;12;0;0;0;1
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Linde;28;13;0;0;0;0
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Pappeln (spec.);29;14;1;0;0;0
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Weiden (spec.);30;15;1;0;0;0
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Bergulme;31;16;1;1;0;0
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Spitzahorn;32;17;1;0;0;0
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart Esskastanie;33;18;2;-1;0;0
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart res;34;19;-3;-3;-3;-3
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart res;35;20;-3;-3;-3;-3
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart res;36;21;-3;-3;-3;-3
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart res;37;22;-3;-3;-3;-3
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart res;38;23;-3;-3;-3;-3
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart res;39;24;-3;-3;-3;-3
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart res;40;25;-3;-3;-3;-3
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart res;41;26;-3;-3;-3;-3
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart res;42;27;-3;-3;-3;-3
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart res;43;28;-3;-3;-3;-3
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart res;44;29;-3;-3;-3;-3
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart res;45;30;-3;-3;-3;-3
+https://docs.google.com/document/d/15YWTMOfjLkEWDO7JGnQta3rCHgHZQ1vu/edit;hba;Hauptbaumart res;46;31;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Ohne Nebenbaumart I;47;1;-1;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Fichte;48;2;1;0;-1;1
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Buche;49;3;1;2;1;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Traubeneiche;50;4;1;1;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Waldkiefer;51;5;1;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Birke;52;6;1;1;0;-1
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Bergahorn;53;7;1;0;0;-1
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Esche;54;8;1;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Schwarzerle;55;9;1;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Europäische Lärche;56;10;0;0;0;1
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Douglasie ;57;11;0;-1;0;2
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Stieleiche;58;12;1;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Weißtanne;59;13;1;0;0;1
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Linde;60;14;1;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Pappeln (spec.);61;15;1;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Weiden (spec.);62;16;1;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Bergulme;63;17;1;1;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Spitzahorn;64;18;1;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart Esskastanie;65;19;1;-1;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart res;66;20;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart res;67;21;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart res;68;22;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart res;69;23;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart res;70;24;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart res;71;25;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart res;72;26;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart res;73;27;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart res;74;28;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart res;75;29;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart res;76;30;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart res;77;31;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n1ba;Nebenbaumart res;78;32;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Ohne Nebenbaumart II;79;1;-1;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Fichte;80;2;1;0;-1;1
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Buche;81;3;1;2;1;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Traubeneiche;82;4;0;1;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Waldkiefer;83;5;0;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Birke;84;6;0;1;0;-1
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Bergahorn;85;7;0;0;0;-1
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Esche;86;8;1;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Schwarzerle;87;9;0;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Europäische Lärche;88;10;0;0;0;1
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Douglasie ;89;11;0;-1;0;2
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Stieleiche;90;12;0;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Weißtanne;91;13;0;0;0;1
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Linde;92;14;0;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Pappeln (spec.);93;15;1;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Weiden (spec.);94;16;1;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Bergulme;95;17;1;1;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Spitzahorn;96;18;1;0;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart Esskastanie;97;19;2;-1;0;0
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart res;98;20;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart res;99;21;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart res;100;22;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart res;101;23;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart res;102;24;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart res;103;25;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart res;104;26;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart res;105;27;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart res;106;28;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart res;107;29;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart res;108;30;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart res;109;31;-3;-3;-3;-3
+https://docs.google.com/document/d/1lzhc-EhtBpDGCDgKwIAG4sjdosFqM4I-/edit#heading=h.gjdgxs;n2ba;Nebenbaumart res;110;32;-3;-3;-3;-3
+https://docs.google.com/document/d/1eP_g1JKWan3cxE_T9lB7DvF7cKymaNNO/edit#heading=h.gjdgxs;vo;Vorrat sehr gering;111;1;-1;0;0;0
+https://docs.google.com/document/d/1eP_g1JKWan3cxE_T9lB7DvF7cKymaNNO/edit#heading=h.gjdgxs;vo;Vorrat gering;112;2;0;0;0;0
+https://docs.google.com/document/d/1eP_g1JKWan3cxE_T9lB7DvF7cKymaNNO/edit#heading=h.gjdgxs;vo;Vorrat durchschnittlich;113;3;0;0;0;0
+https://docs.google.com/document/d/1eP_g1JKWan3cxE_T9lB7DvF7cKymaNNO/edit#heading=h.gjdgxs;vo;Vorrat hoch;114;4;0;0;0;0
+https://docs.google.com/document/d/1eP_g1JKWan3cxE_T9lB7DvF7cKymaNNO/edit#heading=h.gjdgxs;vo;Vorrat sehr hoch;115;5;-1;1;0;0
+https://docs.google.com/document/d/1-50s2a9azsoz2DuH4e7RSqtsRV22HNOd/edit;wir;kein Waldinnenrand;116;0;0;0;0;0
+https://docs.google.com/document/d/1-50s2a9azsoz2DuH4e7RSqtsRV22HNOd/edit;wir;Waldinnenrand ;117;1;1;1;0;0
+https://docs.google.com/document/d/1qf-d_yHIFTHIjGy9S0skXzsQ2yw5qfHj/edit;war;kein Waldaussenrand;118;0;0;0;0;0
+https://docs.google.com/document/d/1qf-d_yHIFTHIjGy9S0skXzsQ2yw5qfHj/edit;war;Waldaussenrand ;119;1;1;0;0;0
+https://docs.google.com/document/d/1lRsxmo4Mdb8UtFPaYxZsZOhD8iO8VRyw/edit#heading=h.gjdgxs;wsch_ds;keine Dürrständer;120;1;0;0;0;0
+https://docs.google.com/document/d/1lRsxmo4Mdb8UtFPaYxZsZOhD8iO8VRyw/edit#heading=h.gjdgxs;wsch_ds;wenige Dürrständer;121;2;1;0;0;0
+https://docs.google.com/document/d/1lRsxmo4Mdb8UtFPaYxZsZOhD8iO8VRyw/edit#heading=h.gjdgxs;wsch_ds;viele Dürrständer;122;3;-1;1;0;0
+https://docs.google.com/document/d/1lRsxmo4Mdb8UtFPaYxZsZOhD8iO8VRyw/edit#heading=h.gjdgxs;wsch_ds;nur Dürrständer;123;4;-2;2;0;0
+https://docs.google.com/document/d/1pt2G7-8VorgoiAwiDqZM7360XBRy5TYF/edit#heading=h.gjdgxs;sch;Einschichtig;124;1;0;0;0;0
+https://docs.google.com/document/d/1pt2G7-8VorgoiAwiDqZM7360XBRy5TYF/edit#heading=h.gjdgxs;sch;Zweischichtig;125;2;1;0;0;0
+https://docs.google.com/document/d/1pt2G7-8VorgoiAwiDqZM7360XBRy5TYF/edit#heading=h.gjdgxs;sch;Mehrschichtig;126;3;1;1;0;0
+https://docs.google.com/document/d/1AG5LfFziYXgAmEIfLWS6MHE0_xgMCP-5/edit#heading=h.gjdgxs;totholz;kein Totholz;127;1;0;-2;0;0
+https://docs.google.com/document/d/1AG5LfFziYXgAmEIfLWS6MHE0_xgMCP-5/edit#heading=h.gjdgxs;totholz;Totholz I;128;2;1;-1;0;0
+https://docs.google.com/document/d/1AG5LfFziYXgAmEIfLWS6MHE0_xgMCP-5/edit#heading=h.gjdgxs;totholz;Totholz II;129;3;0;1;0;0
+https://docs.google.com/document/d/1AG5LfFziYXgAmEIfLWS6MHE0_xgMCP-5/edit#heading=h.gjdgxs;totholz;Totholz III;130;4;-1;1;0;0
+https://docs.google.com/document/d/1AG5LfFziYXgAmEIfLWS6MHE0_xgMCP-5/edit#heading=h.gjdgxs;totholz;Totholzmenge über 100 m³;131;5;-2;2;0;0
+https://docs.google.com/document/d/1dQrfkKOj0CgdvHNqzKOvLMkNt85Tgs8_/edit#heading=h.gjdgxs;kronenschluss;gedrängt;132;1;-1;10;0;0
+https://docs.google.com/document/d/1dQrfkKOj0CgdvHNqzKOvLMkNt85Tgs8_/edit#heading=h.gjdgxs;kronenschluss;geschlossen;133;2;0;-1;0;0
+https://docs.google.com/document/d/1dQrfkKOj0CgdvHNqzKOvLMkNt85Tgs8_/edit#heading=h.gjdgxs;kronenschluss;locker;134;3;0;10;0;0
+https://docs.google.com/document/d/1dQrfkKOj0CgdvHNqzKOvLMkNt85Tgs8_/edit#heading=h.gjdgxs;kronenschluss;licht;135;4;1;10;0;0
+https://docs.google.com/document/d/1dQrfkKOj0CgdvHNqzKOvLMkNt85Tgs8_/edit#heading=h.gjdgxs;kronenschluss;räumig;136;5;-1;10;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;tothzus;kein altes Totholz;137;1;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;tothzus;altes Totholz 20%;138;2;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;tothzus;altes Totholz 40%;139;3;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;tothzus;altes Totholz 60%;140;4;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;tothzus;altes Totholz 80%;141;5;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;tothzus;altes Totholz 100%;142;6;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;stotholz;kein Totholz;143;1;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;stotholz;Totholz I;144;2;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;stotholz;Totholz II;145;3;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;stotholz;Totholz III;146;4;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;stotholz;Totholzmenge über 100 m³;147;5;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;stothzus;kein altes Totholz;148;1;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;stothzus;altes Totholz 20%;149;2;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;stothzus;altes Totholz 40%;150;3;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;stothzus;altes Totholz 60%;151;4;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;stothzus;altes Totholz 80%;152;5;0;0;0;0
+https://docs.google.com/document/d/1elrxmEfZn4DmkNeyzxHIdHz6K34GDzVP/edit#heading=h.gjdgxs;stothzus;altes Totholz 100%;153;6;0;0;0;0
+https://docs.google.com/document/d/150UGhjUwpBbzUed8VPNZu_UyS9NjJpPH/edit#heading=h.gjdgxs;grundflaeche;Grundfläche Klasse 1;154;1;0;0;0;0
+https://docs.google.com/document/d/150UGhjUwpBbzUed8VPNZu_UyS9NjJpPH/edit#heading=h.gjdgxs;grundflaeche;Grundfläche Klasse 2;155;2;0;0;0;0
+https://docs.google.com/document/d/150UGhjUwpBbzUed8VPNZu_UyS9NjJpPH/edit#heading=h.gjdgxs;grundflaeche;Grundfläche Klasse 3;156;3;0;0;0;0
+https://docs.google.com/document/d/150UGhjUwpBbzUed8VPNZu_UyS9NjJpPH/edit#heading=h.gjdgxs;grundflaeche;Grundfläche Klasse 4;157;4;0;0;0;0
+https://docs.google.com/document/d/150UGhjUwpBbzUed8VPNZu_UyS9NjJpPH/edit#heading=h.gjdgxs;grundflaeche;Grundfläche Klasse 5;158;5;0;0;0;0
+https://docs.google.com/document/d/150UGhjUwpBbzUed8VPNZu_UyS9NjJpPH/edit#heading=h.gjdgxs;grundflaeche;Grundfläche Klasse 6;159;6;0;0;0;0
+https://docs.google.com/document/d/1Hb-5xbxlQ6HwzctjYvcls4o4T87TQUsr/edit#heading=h.gjdgxs;stammzahl;Stammzahl Klasse 1;160;1;0;0;0;0
+https://docs.google.com/document/d/1Hb-5xbxlQ6HwzctjYvcls4o4T87TQUsr/edit#heading=h.gjdgxs;stammzahl;Stammzahl Klasse 2;161;2;0;0;0;0
+https://docs.google.com/document/d/1Hb-5xbxlQ6HwzctjYvcls4o4T87TQUsr/edit#heading=h.gjdgxs;stammzahl;Stammzahl Klasse 3;162;3;0;0;0;0
+https://docs.google.com/document/d/1Hb-5xbxlQ6HwzctjYvcls4o4T87TQUsr/edit#heading=h.gjdgxs;stammzahl;Stammzahl Klasse 4;163;4;0;1;0;0
+https://docs.google.com/document/d/1Hb-5xbxlQ6HwzctjYvcls4o4T87TQUsr/edit#heading=h.gjdgxs;stammzahl;Stammzahl Klasse 5;164;5;0;1;0;0
+https://docs.google.com/document/d/1Hb-5xbxlQ6HwzctjYvcls4o4T87TQUsr/edit#heading=h.gjdgxs;stammzahl;Stammzahl Klasse 6;165;6;0;1;0;0
+https://docs.google.com/document/d/1p3OWStOyP0kVQpoSRB1KFjcQOQV0vvph/edit#heading=h.gjdgxs;miform1;Einzelmischung;166;7;0;0;0;0
+https://docs.google.com/document/d/1p3OWStOyP0kVQpoSRB1KFjcQOQV0vvph/edit#heading=h.gjdgxs;miform1;Truppweise Mischung (Trupps mit einem Flächendurchmesser bis zu 15 m);167;6;0;0;0;0
+https://docs.google.com/document/d/1p3OWStOyP0kVQpoSRB1KFjcQOQV0vvph/edit#heading=h.gjdgxs;miform1;Reihe (Mischbaumarten wie eine Baumreihe im Bestand);168;5;0;0;0;0
+https://docs.google.com/document/d/1p3OWStOyP0kVQpoSRB1KFjcQOQV0vvph/edit#heading=h.gjdgxs;miform1;Gruppenweise Mischung (Gruppen mit einem Flächendurchmesser von 15 bis 30 m);169;4;0;0;0;0
+https://docs.google.com/document/d/1p3OWStOyP0kVQpoSRB1KFjcQOQV0vvph/edit#heading=h.gjdgxs;miform1;Horstweise Mischung (Horste mit einem Flächendurchmesser von 30 bis 60 m);170;3;0;0;0;0
+https://docs.google.com/document/d/1p3OWStOyP0kVQpoSRB1KFjcQOQV0vvph/edit#heading=h.gjdgxs;miform1;Flächenweise Mischung (Flächen mit einem Flächendurchmesser von über 60 m);171;2;0;0;0;0
+https://docs.google.com/document/d/1p3OWStOyP0kVQpoSRB1KFjcQOQV0vvph/edit#heading=h.gjdgxs;miform1;Streifen (Mischbaumart, die in Streifen und nicht als Reihe gemischt sind);172;1;0;0;0;0
+https://docs.google.com/document/d/1p3OWStOyP0kVQpoSRB1KFjcQOQV0vvph/edit#heading=h.gjdgxs;miform2;Einzelmischung;173;7;0;0;0;0
+https://docs.google.com/document/d/1p3OWStOyP0kVQpoSRB1KFjcQOQV0vvph/edit#heading=h.gjdgxs;miform2;Truppweise Mischung (Trupps mit einem Flächendurchmesser bis zu 15 m);174;6;0;0;0;0
+https://docs.google.com/document/d/1p3OWStOyP0kVQpoSRB1KFjcQOQV0vvph/edit#heading=h.gjdgxs;miform2;Reihe (Mischbaumarten wie eine Baumreihe im Bestand);175;5;0;0;0;0
+https://docs.google.com/document/d/1p3OWStOyP0kVQpoSRB1KFjcQOQV0vvph/edit#heading=h.gjdgxs;miform2;Gruppenweise Mischung (Gruppen mit einem Flächendurchmesser von 15 bis 30 m);176;4;0;0;0;0
+https://docs.google.com/document/d/1p3OWStOyP0kVQpoSRB1KFjcQOQV0vvph/edit#heading=h.gjdgxs;miform2;Horstweise Mischung (Horste mit einem Flächendurchmesser von 30 bis 60 m);177;3;0;0;0;0
+https://docs.google.com/document/d/1p3OWStOyP0kVQpoSRB1KFjcQOQV0vvph/edit#heading=h.gjdgxs;miform2;Flächenweise Mischung (Flächen mit einem Flächendurchmesser von über 60 m);178;2;0;0;0;0
+https://docs.google.com/document/d/1p3OWStOyP0kVQpoSRB1KFjcQOQV0vvph/edit#heading=h.gjdgxs;miform2;Streifen (Mischbaumart, die in Streifen und nicht als Reihe gemischt sind);179;1;0;0;0;0
+https://docs.google.com/document/d/1-zn2xvqmecx9l-6L3p-uGP30ESoEbrNw/edit#heading=h.gjdgxs;misch;Mischung ;180;2;1;1;0;0
+https://docs.google.com/document/d/1-zn2xvqmecx9l-6L3p-uGP30ESoEbrNw/edit#heading=h.gjdgxs;misch;keine Mischung ;180;1;-1;-1;0;0
