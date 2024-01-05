@@ -1,11 +1,11 @@
-﻿name;Waldstruktur
-vor;Holzmenge pro ha - Vorrat
-tot;Totholzmenge - Stehend oder liegend 
-wuc;Entwicklungsstufe Alter und Wuchsklasse
-lab;Laubbaumdomiert
-nab;Nadelbaumdominiert
-sch;Schichtigkeit
-bov;Dichte und Ausprägung der Bodenvegetation
-qua;Qualtät  der Stämme im Bestand – Astfrei und gerade bis verwachsen und krumm
-eba;eingeführte Baumarten
-nba;natürlich vorkommende Baumarten
+﻿name;img;Waldstruktur
+vor;;Holzmenge pro ha - Vorrat
+tot;;Totholzmenge - Stehend oder liegend 
+wuc;;Entwicklungsstufe Alter und Wuchsklasse
+lab;;Laubbaumdomiert
+nab;<img src='https://datashare.tu-dresden.de/s/ZQEqTLMJktHsAcX.jpg' height='200'></img>;Nadelbaumdominiert
+sch;;Schichtigkeit
+bov;;Dichte und Ausprägung der Bodenvegetation
+qua;;Qualtät  der Stämme im Bestand – Astfrei und gerade bis verwachsen und krumm
+eba;;eingeführte Baumarten
+nba;;natürlich vorkommende Baumarten
