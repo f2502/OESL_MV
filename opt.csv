@@ -1,6 +1,6 @@
 ﻿name;img;Waldstruktur
 vor;;Holzmenge pro ha - Vorrat
-tot;;Totholzmenge - Stehend oder liegend 
+tot;<img src='tot.jpg' height='200'></img>;Totholzmenge - Stehend oder liegend 
 wuc;;Entwicklungsstufe Alter und Wuchsklasse
 lab;<img src='laub.jpg' height='200'></img>;Laubbaumdomiert
 nab;<img src='nadel.jpg' height='200'></img>;Nadelbaumdominiert
