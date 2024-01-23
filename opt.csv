@@ -1,11 +1,11 @@
-﻿name;img;Waldstruktur
-vor;;Holzmenge pro ha - Vorrat
-tot;<img src='tot.jpg' height='200'></img>;Totholzmenge - Stehend oder liegend 
-wuc;;Entwicklungsstufe Alter und Wuchsklasse
-lab;<img src='laub.jpg' height='200'></img>;Laubbaumdomiert
-nab;<img src='nadel.jpg' height='200'></img>;Nadelbaumdominiert
-sch;;Schichtigkeit
-bov;;Dichte und Ausprägung der Bodenvegetation
-qua;;Qualtät  der Stämme im Bestand – Astfrei und gerade bis verwachsen und krumm
-eba;;eingeführte Baumarten
-nba;;natürlich vorkommende Baumarten
+﻿name;Waldstruktur;img;Erklärung
+vor;Holzmenge - Vorrat;;
+tot;Totholzmenge - Stehend oder liegend ;<img src='tot.jpg' height='200'></img>;
+wuc;Entwicklungsstufe Alter und Wuchsklasse;;
+lab;Laubbaumdomiert;<img src='laub.jpg' height='200'></img>;
+nab;Nadelbaumdominiert;<img src='nadel.jpg' height='200'></img>;
+sch;Schichtigkeit;;
+bov;Dichte und Ausprägung der Bodenvegetation;;
+qua;Qualtät  der Stämme im Bestand ;;
+eba;eingeführte Baumarten;;
+nba;natürlich vorkommende Baumarten;;
