@@ -1,11 +1,13 @@
 ﻿name;Waldstruktur;img;Erklärung
-vor;Holzmenge - Vorrat;;Holzvorrat auf einer Fläche ……… …… ………… ………… ……… ……… ……
-tot;Totholzmenge - Stehend oder liegend ;<img src='tot.jpg' height='200'></img>;
-wuc;Entwicklungsstufe Alter und Wuchsklasse;;
-lab;Laubbaumdomiert;<img src='laub.jpg' height='200'></img>;
-nab;Nadelbaumdominiert;<img src='nadel.jpg' height='200'></img>;
-sch;Schichtigkeit;;
-bov;Dichte und Ausprägung der Bodenvegetation;;
-qua;Qualtät  der Stämme im Bestand ;;
-eba;eingeführte Baumarten;;
-nba;natürlich vorkommende Baumarten;;
+tot;Totholz;"img(src = ""www/tot.jpg"")";Menge von totem Holz in einem Bestand (stehendes oder liegendes).
+ksg;Kronschlussgrad;;Beschreibt, wie dicht die Kronen der Bäume in einem Bestand  beisammen sind. Der Kronenschlussgrad wird oft in Prozent ausgedrückt und beschreibt, welcher Anteil des Himmels von den Baumkronen bedeckt ist.
+wkl;Wuchsklasse;;Beschreibt das Entwicklungsstadium eines Bestandes, von jungen kleinen Bäumen, bis zu Bäumen mit einem Druchmesser von über 50cm.
+bai;Baumartenidentität;;Beschreibt ……….
+bas;Bestandesschichtung;;Beschreibt den vertikalen Aufbau eines Waldes in Bestandes, gibt es z.B. nur eine Schicht oder sind es mehrere?
+bad;Bestandesdichte;;Beschreibt die Dichte eines Bestandes, ausgedrückt als Stammzahl pro Fläche.
+sar;Schlagabraum, Spuren von Bewirtschaftung;"img(src = ""www/spur.jpg"")";Spuren menschlicher Eingriffe in Beständen , z.B. Reste von Holzerntemaßnahmen oder Rückegassen. 
+bvg;Bodenvegetation;"img(src = ""www/bevg.jpg"")";Vegetation am Waldboden, die keine Bäume sind, z.B. Gräser, Adlerfarn oder Heidelbeeren. 
+bam;Baumartenmischung;;Beschreibt die Mischung von Baumarten in einem Bestand, gibt es nur eine Baumart oder mehrere mit nennenswerten Anteilen auf einer Fläche. 
+wir;Waldinnenrand;;Beschreibt den Übergang zwischen Beständen und Wegen innerhalb von Wäldern, gibt es dort krautige Vegetation oder Sträucher?
+mha;Mikrohabitate;;Beschreibt Strukturen an einzelnen Bäumen, z.B Spechthöhlen oder Wassertöpfe.
+beb;Besondere Einzelbäume;"img(src = ""www/einzel.jpg"")";Bäume innerhalb eines Bestandes die besonders alt wirken, groß sind oder auf andere Art auffallen. 
