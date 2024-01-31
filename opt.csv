@@ -1,8 +1,7 @@
-﻿name;Waldstruktur;img;Erklärung
+name;Waldstruktur;img;Erklärung
 tot;Totholz;"<img src=""tot.jpg"" height=""200""></img>";Menge von totem Holz in einem Bestand (stehendes oder liegendes).
-ksg;Kronschlussgrad;;Beschreibt, wie dicht die Kronen der Bäume in einem Bestand  beisammen sind. Der Kronenschlussgrad wird oft in Prozent ausgedrückt und beschreibt, welcher Anteil des Himmels von den Baumkronen bedeckt ist.
-wkl;Wuchsklasse;;Beschreibt das Entwicklungsstadium eines Bestandes, von jungen kleinen Bäumen, bis zu Bäumen mit einem Druchmesser von über 50cm.
-bai;Baumartenidentität;;Beschreibt ……….
+ksg;Kronschlussgrad;;Beschreibt, wie dicht die Kronen der Bäume in einem Bestand beisammen sind. Der Kronenschlussgrad wird oft in Prozent ausgedrückt und beschreibt, welcher Anteil des Himmels von den Baumkronen bedeckt ist. 
+bai;Baumartenidentität;;Beschreibt welche Baumarten in einem Bestand vorkommen.
 bas;Bestandesschichtung;;Beschreibt den vertikalen Aufbau eines Waldes in Bestandes, gibt es z.B. nur eine Schicht oder sind es mehrere?
 bad;Bestandesdichte;;Beschreibt die Dichte eines Bestandes, ausgedrückt als Stammzahl pro Fläche.
 sar;Schlagabraum u. Spuren von Bewirtschaftung;"<img src=""spur.jpg"" height=""150""></img>";Spuren menschlicher Eingriffe in Beständen , z.B. Reste von Holzerntemaßnahmen oder Rückegassen. 
@@ -11,3 +10,6 @@ bam;Baumartenmischung;;Beschreibt die Mischung von Baumarten in einem Bestand, g
 wir;Waldinnenrand;;Beschreibt den Übergang zwischen Beständen und Wegen innerhalb von Wäldern, gibt es dort krautige Vegetation oder Sträucher?
 mha;Mikrohabitate;;Beschreibt Strukturen an einzelnen Bäumen, z.B Spechthöhlen oder Wassertöpfe.
 beb;Besondere Einzelbäume;"<img src=""einzel.jpg"" height=""200""></img>";Bäume innerhalb eines Bestandes die besonders alt wirken, groß sind oder auf andere Art auffallen. 
+ver;Verjüngung;;Beschreibt das Vorkommen von Bäumen unter 2m Höhe aus Naturverjüngung oder Pflanzung in einem Bestand.
+ste;Stammeigenschahften;;Beschreibt die Eigenschaften der Stämme in einem Bestand, von gerade und astfrei bis krumm und astig.
+sta;Stabilität;;Stabilität von Einzelbäumen / Beständen
