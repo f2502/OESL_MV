@@ -1,7 +1,7 @@
 name;Waldstruktur;img;Erklärung
 tot;Totholz;"<img src=""tot.jpg"" height=""200""></img>";Menge von totem Holz in einem Bestand (stehendes oder liegendes).
 ksg;Kronschlussgrad;;Beschreibt, wie dicht die Kronen der Bäume in einem Bestand beisammen sind. Der Kronenschlussgrad wird oft in Prozent ausgedrückt und beschreibt, welcher Anteil des Himmels von den Baumkronen bedeckt ist. 
-bai;Baumartenidentität;;Beschreibt welche Baumarten in einem Bestand vorkommen.
+bai;Baumarten;;Beschreibt welche Baumarten in einem Bestand vorkommen.
 bas;Bestandesschichtung;;Beschreibt den vertikalen Aufbau eines Waldes in Bestandes, gibt es z.B. nur eine Schicht oder sind es mehrere?
 bad;Bestandesdichte;;Beschreibt die Dichte eines Bestandes, ausgedrückt als Stammzahl pro Fläche.
 sar;Schlagabraum u. Spuren von Bewirtschaftung;"<img src=""spur.jpg"" height=""150""></img>";Spuren menschlicher Eingriffe in Beständen , z.B. Reste von Holzerntemaßnahmen oder Rückegassen. 
