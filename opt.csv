@@ -1,15 +1,14 @@
-name;Waldstruktur;img;Erklärung
+﻿name;Waldstruktur;img;Erklärung
 tot;Totholz;"<img src=""tot.jpg"" height=""200""></img>";Menge von totem Holz in einem Bestand (stehendes oder liegendes).
-ksg;Kronschlussgrad;;Beschreibt, wie dicht die Kronen der Bäume in einem Bestand beisammen sind. Der Kronenschlussgrad wird oft in Prozent ausgedrückt und beschreibt, welcher Anteil des Himmels von den Baumkronen bedeckt ist. 
-bai;Baumarten;;Beschreibt welche Baumarten in einem Bestand vorkommen.
-bas;Bestandesschichtung;;Beschreibt den vertikalen Aufbau eines Waldes in Bestandes, gibt es z.B. nur eine Schicht oder sind es mehrere?
-bad;Bestandesdichte;;Beschreibt die Dichte eines Bestandes, ausgedrückt als Stammzahl pro Fläche.
+ksg;Kronenschlussgrad;;Prozentualer Anteil des von Baumkronen bedeckten Himmels.
+bai;Baumarten;;Baumartenvielfalt in einem Bestand.
+bas;Bestandesschichtung;; Vertikaler Aufbau eines Waldes in Bestandes (eine oder mehrere Schichten).
+bad;Bestandesdichte;;Stammzahl pro Flächeneinheit.
 sar;Schlagabraum u. Spuren von Bewirtschaftung;"<img src=""spur.jpg"" height=""150""></img>";Spuren menschlicher Eingriffe in Beständen , z.B. Reste von Holzerntemaßnahmen oder Rückegassen. 
-bvg;Bodenvegetation;"<img src=""bveg.jpg"" height=""150""></img>";Vegetation am Waldboden, die keine Bäume sind, z.B. Gräser, Adlerfarn oder Heidelbeeren. 
-bam;Baumartenmischung;;Beschreibt die Mischung von Baumarten in einem Bestand, gibt es nur eine Baumart oder mehrere mit nennenswerten Anteilen auf einer Fläche. 
-wir;Waldinnenrand;;Beschreibt den Übergang zwischen Beständen und Wegen innerhalb von Wäldern, gibt es dort krautige Vegetation oder Sträucher?
-mha;Mikrohabitate;;Beschreibt Strukturen an einzelnen Bäumen, z.B Spechthöhlen oder Wassertöpfe.
-beb;Besondere Einzelbäume;"<img src=""einzel.jpg"" height=""200""></img>";Bäume innerhalb eines Bestandes die besonders alt wirken, groß sind oder auf andere Art auffallen. 
-ver;Verjüngung;;Beschreibt das Vorkommen von Bäumen unter 2m Höhe aus Naturverjüngung oder Pflanzung in einem Bestand.
-ste;Stammeigenschaften;;Beschreibt die Eigenschaften der Stämme in einem Bestand, von gerade und astfrei bis krumm und astig.
-sta;Stabilität;;Stabilität von Einzelbäumen / Beständen
+bvg;Begleitvegetation;"<img src=""bveg.jpg"" height=""150""></img>";Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. 
+bam;Baumartenmischung;;Mischung von mehreren Baumarten in einem Bestand mit nennenswerten Anteilen.
+wir;Waldinnenrand;;Übergang zwischen Beständen und Wegen in einem Waldgebiet, z.B. Vorkommen krautiger Vegetation oder Sträucher.
+mha;Mikrohabitate;;Strukturen an einzelnen Bäumen, z.B Spechthöhlen oder Wassertöpfe.
+beb;Besondere Einzelbäume;"<img src=""einzel.jpg"" height=""200""></img>";Im Bestand besonders auffällig wirkend, z.B. aufgrund des Alters, der Größe oder Form.
+ver;Verjüngung;;Vorkommen von Bäumen unter 2m Höhe entstand aus Naturverjüngung, Saat oder Pflanzung. 
+ste;Stammeigenschaften;;Äußere Stammmerkmale, z.B. gerade und astfrei oder krumm und astig.
