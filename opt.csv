@@ -1,14 +1,14 @@
 ﻿name;Waldstruktur;img;Erklärung
-tot;Totholz;"<img src=""tot.jpg"" height=""200""></img>";Menge von totem Holz in einem Bestand (stehendes oder liegendes).
-ksg;Kronenschlussgrad;"<img src=""ksg.jpg"" height=""200""></img>";Prozentualer Anteil des von Baumkronen bedeckten Himmels.
+tot;Totholz;"<img src=""tot.jpg"" height=""200""  width=""200""></img>";Menge von totem Holz in einem Bestand (stehendes oder liegendes).
+ksg;Kronenschlussgrad;"<img src=""ksg.jpg"" height=""200"" width=""200""></img>";Prozentualer Anteil des von Baumkronen bedeckten Himmels.
 bai;Baumarten;;Baumartenvielfalt in einem Bestand.
-bas;Bestandesschichtung;"<img src=""schicht.jpg"" height=""200""></img>"; Vertikaler Aufbau eines Waldes in Bestandes (eine oder mehrere Schichten).
-bad;Bestandesdichte;"<img src=""dichte.jpg"" height=""200""></img>";Stammzahl pro Flächeneinheit.
-sar;Schlagabraum u. Spuren von Bewirtschaftung;"<img src=""spur.jpg"" height=""150""></img>";Spuren menschlicher Eingriffe in Beständen , z.B. Reste von Holzerntemaßnahmen oder Rückegassen. 
-bvg;Begleitvegetation;"<img src=""bveg.jpg"" height=""200""></img>";Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. 
-bam;Baumartenmischung;"<img src=""misch.jpg"" height=""200""></img>";Mischung von mehreren Baumarten in einem Bestand mit nennenswerten Anteilen.
-wir;Waldinnenrand;"<img src=""wir.jpg"" height=""200""></img>";Übergang zwischen Beständen und Wegen in einem Waldgebiet, z.B. Vorkommen krautiger Vegetation oder Sträucher.
-mha;Mikrohabitate;"<img src=""micro.jpg"" height=""200""></img>";Strukturen an einzelnen Bäumen, z.B Spechthöhlen oder Wassertöpfe.
-beb;Besondere Einzelbäume;"<img src=""einzel.jpg"" height=""200""></img>";Im Bestand besonders auffällig wirkend, z.B. aufgrund des Alters, der Größe oder Form.
-ver;Verjüngung;"<img src=""verj.jpg"" height=""200""></img>";Vorkommen von Bäumen unter 2m Höhe entstand aus Naturverjüngung, Saat oder Pflanzung. 
-ste;Stammeigenschaften;"<img src=""stamm.jpg"" height=""200""></img>";Äußere Stammmerkmale, z.B. gerade und astfrei oder krumm und astig.
+bas;Bestandesschichtung;"<img src=""schicht.jpg"" height=""200"" width=""200""></img>"; Vertikaler Aufbau eines Waldes in Bestandes (eine oder mehrere Schichten).
+bad;Bestandesdichte;"<img src=""dichte.jpg"" height=""200"" width=""200""></img>";Stammzahl pro Flächeneinheit.
+sar;Schlagabraum u. Spuren von Bewirtschaftung;"<img src=""spur.jpg"" height=""200"" width=""200""></img>";Spuren menschlicher Eingriffe in Beständen , z.B. Reste von Holzerntemaßnahmen oder Rückegassen. 
+bvg;Begleitvegetation;"<img src=""bveg.jpg"" height=""200"" width=""200""></img>";Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. 
+bam;Baumartenmischung;"<img src=""misch.jpg"" height=""200"" width=""200""></img>";Mischung von mehreren Baumarten in einem Bestand mit nennenswerten Anteilen.
+wir;Waldinnenrand;"<img src=""wir.jpg"" height=""200"" width=""200""></img>";Übergang zwischen Beständen und Wegen in einem Waldgebiet, z.B. Vorkommen krautiger Vegetation oder Sträucher.
+mha;Mikrohabitate;"<img src=""micro.jpg"" height=""200"" width=""200""></img>";Strukturen an einzelnen Bäumen, z.B Spechthöhlen oder Wassertöpfe.
+beb;Besondere Einzelbäume;"<img src=""einzel.jpg"" height=""200"" width=""200""></img>";Im Bestand besonders auffällig wirkend, z.B. aufgrund des Alters, der Größe oder Form.
+ver;Verjüngung;"<img src=""verj.jpg"" height=""200"" width=""200""></img>";Vorkommen von Bäumen unter 2m Höhe entstand aus Naturverjüngung, Saat oder Pflanzung. 
+ste;Stammeigenschaften;"<img src=""stamm.jpg"" height=""200"" width=""200""></img>";Äußere Stammmerkmale, z.B. gerade und astfrei oder krumm und astig.
