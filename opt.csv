@@ -1,7 +1,7 @@
 ﻿name;Waldstruktur;img;Erklärung
 tot;Totholz;"<img src=""tot.jpg"" height=""200""  width=""200""></img>";Menge von totem Holz in einem Bestand (stehendes oder liegendes).
 ksg;Kronenschlussgrad;"<img src=""ksg.jpg"" height=""200"" width=""200""></img>";Prozentualer Anteil des von Baumkronen bedeckten Himmels.
-bai;Baumarten;;Baumartenvielfalt in einem Bestand.
+bai;Baumarten;;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Traubeneichen vorkommen.
 bas;Bestandesschichtung;"<img src=""schicht.jpg"" height=""200"" width=""200""></img>"; Vertikaler Aufbau eines Waldes in Bestandes (eine oder mehrere Schichten).
 bad;Bestandesdichte;"<img src=""dichte.jpg"" height=""200"" width=""200""></img>";Stammzahl pro Flächeneinheit.
 sar;Schlagabraum u. Spuren von Bewirtschaftung;"<img src=""spur.jpg"" height=""200"" width=""200""></img>";Spuren menschlicher Eingriffe in Beständen , z.B. Reste von Holzerntemaßnahmen oder Rückegassen. 
