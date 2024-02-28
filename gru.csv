@@ -1,7 +1,17 @@
-﻿Gruppen
-private Forstbetriebe
-öffentliche Forstbetriebe
-Naturschutzverbände
-Walderholung und Tourismus
-Wasserwirtschaft
-Wissenschaft  
+﻿gruppen;geschlecht;position;land
+private Forstbetriebe;m;f;Baden-Württemberg
+öffentliche Forstbetriebe;w;m;Bayern
+Naturschutzverbände;d;w;Berlin
+Walderholung und Tourismus;;;Brandenburg
+Wasserwirtschaft;;;Bremen
+Wissenschaft  ;;;Hamburg
+;;;Hessen
+;;;Mecklenburg-Vorpommern
+;;;Niedersachsen
+;;;Nordrhein-Westfalen
+;;;Rheinland-Pfalz
+;;;Saarland
+;;;Sachsen
+;;;Sachsen-Anhalt
+;;;Schleswig-Holstein
+;;;Thüringen
