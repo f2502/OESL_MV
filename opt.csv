@@ -1,10 +1,10 @@
 ﻿name;Waldstruktur;img;Erklärung
-tot;Totholz;"<img src=""tot.jpg"" height=""200""  width=""200""></img>";Menge von totem Holz in einem Bestand (stehendes oder liegendes).
-ksg;Kronenschlussgrad;"<img src=""ksg.jpg"" height=""200"" width=""200""></img>";Prozentualer Anteil des von Baumkronen bedeckten Himmels.
 bai;Baumarten;"<img src=""baumarten.jpg"" height=""200"" width=""200""></img>";Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.
+ksg;Kronenschlussgrad;"<img src=""ksg.jpg"" height=""200"" width=""200""></img>";Prozentualer Anteil des von Baumkronen bedeckten Himmels.
 bas;Bestandesschichtung;"<img src=""schicht.jpg"" height=""200"" width=""200""></img>";Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.
 bad;Bestandesdichte;"<img src=""dichte.jpg"" height=""200"" width=""200""></img>";Stammzahl pro Flächeneinheit.
 sar;Schlagabraum u. Spuren von Bewirtschaftung;"<img src=""spur.jpg"" height=""200"" width=""200""></img>";Spuren menschlicher Eingriffe in Beständen , z.B. Reste von Holzerntemaßnahmen oder Rückegassen. 
+tot;Totholz;"<img src=""tot.jpg"" height=""200""  width=""200""></img>";Menge von totem Holz in einem Bestand (stehendes oder liegendes).
 bvg;Begleitvegetation;"<img src=""bveg.jpg"" height=""200"" width=""200""></img>";Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. 
 bam;Baumartenmischung;"<img src=""misch.jpg"" height=""200"" width=""200""></img>";Mischung von mehreren Baumarten in einem Bestand mit nennenswerten Anteilen.
 wir;Waldinnenrand;"<img src=""wir.jpg"" height=""200"" width=""200""></img>";Übergang zwischen Beständen und Wegen in einem Waldgebiet, z.B. Vorkommen krautiger Vegetation oder Sträucher.
