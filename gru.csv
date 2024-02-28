@@ -1,13 +1,13 @@
 ﻿gruppen;geschlecht;position;land
-private Forstbetriebe;keine Angabe;<p><strong>keine Angabe</strong></p>;Baden-Württemberg
-öffentliche Forstbetriebe;weiblich;<p><strong>Oberes Management/Leitungsebene:</strong> Positionen wie Geschäftsführer, Vorstandsmitglieder etc.<br></p>;Bayern
-Naturschutzverbände;männlich;<p><strong>Mittleres Management:</strong>  Abteilungsleiter, Bereichsleiter, Filialleiter, Teamleiter, Projektleiter etc.<br></p>;Berlin
-Walderholung und Tourismus;divers;<p><strong>Fachkräfte/Experten:</strong> spezialisierte Berufe, die oft eine höhere Ausbildung oder spezifische Fachkenntnisse erfordern, z.B. Wissenschaftler etc.<br></p>;Brandenburg
-Wasserwirtschaft;;<p><strong>Verwaltungspersonal:</strong> z.B. Büroangestellte, Sachbearbeiter, Assistenten etc.<br></p>;Bremen
-Wissenschaft  ;;<p><strong>Betriebspersonal:</strong> z.B. Mitarbeiter in der Produktion, im Betrieb etc.<br></p>;Hamburg
-;;<p><strong>Praktikanten und Auszubildende</strong><br></p>;Hessen
-;;<p><strong>Ehrenamtliche / Freiwillige</strong><br></p>;Mecklenburg-Vorpommern
-;;<p><strong>Andere Position</strong></p>;Niedersachsen
+private Forstbetriebe;keine Angabe;keine Angabe;Baden-Württemberg
+öffentliche Forstbetriebe;weiblich;Oberes Management/Leitungsebene: Positionen wie Geschäftsführer, Vorstandsmitglieder etc.;Bayern
+Naturschutzverbände;männlich;Mittleres Management:  Abteilungsleiter, Bereichsleiter, Filialleiter, Teamleiter, Projektleiter etc.;Berlin
+Walderholung und Tourismus;divers;Fachkräfte/Experten: spezialisierte Berufe, die oft eine höhere Ausbildung oder spezifische Fachkenntnisse erfordern, z.B. Wissenschaftler etc.;Brandenburg
+Wasserwirtschaft;;Verwaltungspersonal: z.B. Büroangestellte, Sachbearbeiter, Assistenten etc.;Bremen
+Wissenschaft  ;;Betriebspersonal: z.B. Mitarbeiter in der Produktion, im Betrieb etc.;Hamburg
+;;Praktikanten und Auszubildende;Hessen
+;;Ehrenamtliche / Freiwillige;Mecklenburg-Vorpommern
+;;Andere Position;Niedersachsen
 ;;;Nordrhein-Westfalen
 ;;;Rheinland-Pfalz
 ;;;Saarland
