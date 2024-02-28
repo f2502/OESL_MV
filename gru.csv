@@ -1,13 +1,14 @@
 ﻿gruppen;geschlecht;position;land
-private Forstbetriebe;keine Angabe;keine Angabe;Baden-Württemberg
-öffentliche Forstbetriebe;weiblich;Oberes Management/Leitungsebene: Positionen wie Geschäftsführer, Vorstandsmitglieder etc.;Bayern
-Naturschutzverbände;männlich;Mittleres Management:  Abteilungsleiter, Bereichsleiter, Filialleiter, Teamleiter, Projektleiter etc.;Berlin
-Walderholung und Tourismus;divers;Fachkräfte/Experten: spezialisierte Berufe, die oft eine höhere Ausbildung oder spezifische Fachkenntnisse erfordern, z.B. Wissenschaftler etc.;Brandenburg
-Wasserwirtschaft;;Verwaltungspersonal: z.B. Büroangestellte, Sachbearbeiter, Assistenten etc.;Bremen
-Wissenschaft  ;;Betriebspersonal: z.B. Mitarbeiter in der Produktion, im Betrieb etc.;Hamburg
-;;Praktikanten und Auszubildende;Hessen
-;;Ehrenamtliche / Freiwillige;Mecklenburg-Vorpommern
-;;Andere Position;Niedersachsen
+private Forstbetriebe;keine Angabe;keine Angabe;keine Angabe
+öffentliche Forstbetriebe;weiblich;Oberes Management/Leitungsebene: Positionen wie Geschäftsführer, Vorstandsmitglieder etc.;Baden-Württemberg
+Naturschutzverbände;männlich;Mittleres Management:  Abteilungsleiter, Bereichsleiter, Filialleiter, Teamleiter, Projektleiter etc.;Bayern
+Walderholung und Tourismus;divers;Fachkräfte/Experten: spezialisierte Berufe, die oft eine höhere Ausbildung oder spezifische Fachkenntnisse erfordern, z.B. Wissenschaftler etc.;Berlin
+Wasserwirtschaft;;Verwaltungspersonal: z.B. Büroangestellte, Sachbearbeiter, Assistenten etc.;Brandenburg
+Wissenschaft  ;;Betriebspersonal: z.B. Mitarbeiter in der Produktion, im Betrieb etc.;Bremen
+;;Praktikanten und Auszubildende;Hamburg
+;;Ehrenamtliche / Freiwillige;Hessen
+;;Andere Position;Mecklenburg-Vorpommern
+;;;Niedersachsen
 ;;;Nordrhein-Westfalen
 ;;;Rheinland-Pfalz
 ;;;Saarland
