@@ -1,11 +1,11 @@
 ﻿gruppen;geschlecht;position;land
 private Forstbetriebe;keine Angabe;keine Angabe;Baden-Württemberg
-öffentliche Forstbetriebe;weiblich;f;Bayern
-Naturschutzverbände;männlich;m;Berlin
-Walderholung und Tourismus;divers;s;Brandenburg
-Wasserwirtschaft;;;Bremen
-Wissenschaft  ;;;Hamburg
-;;;Hessen
+öffentliche Forstbetriebe;weiblich;Oberes Management/Leitungsebene: Positionen wie Geschäftsführer, Vorstandsmitglieder etc.;Bayern
+Naturschutzverbände;männlich;Mittleres Management:  Abteilungsleiter, Bereichsleiter, Filialleiter, Teamleiter, Projektleiter etc.;Berlin
+Walderholung und Tourismus;divers;Fachkräfte/Experten: spezialisierte Berufe, die oft eine höhere Ausbildung oder spezifische Fachkenntnisse erfordern, z.B. Ingenieure, Wissenschaftler;Brandenburg
+Wasserwirtschaft;;Betriebspersonal ;Bremen
+Wissenschaft  ;;Praktikanten und Auszubildende;Hamburg
+;;Ehrenamtliche / Freiwillige;Hessen
 ;;;Mecklenburg-Vorpommern
 ;;;Niedersachsen
 ;;;Nordrhein-Westfalen
