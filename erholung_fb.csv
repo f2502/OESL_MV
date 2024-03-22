@@ -1,4 +1,4 @@
-﻿Merkmal;Beschreibung;Wertung;Ausprägung ;Wertung
+﻿Merkmal;Beschreibung;Wertung_a;Ausprägung ;Wertung
 Kronenschlussgrad;Prozentualer Anteil des von Baumkronen bedeckten Himmels.;Bestände mit lichtem Kronenschluss wirken positiver als solche mit gedrängten oder geschlossenen Kronen, dunkle (gedrängte) Bestände wirken negativ, Bestände mit größeren Lücken wirken ebenfalls negativ.;gedrängt ;-1
 Kronenschlussgrad;Prozentualer Anteil des von Baumkronen bedeckten Himmels.;Bestände mit lichtem Kronenschluss wirken positiver als solche mit gedrängten oder geschlossenen Kronen, dunkle (gedrängte) Bestände wirken negativ, Bestände mit größeren Lücken wirken ebenfalls negativ.;geschlossen ;0
 Kronenschlussgrad;Prozentualer Anteil des von Baumkronen bedeckten Himmels.;Bestände mit lichtem Kronenschluss wirken positiver als solche mit gedrängten oder geschlossenen Kronen, dunkle (gedrängte) Bestände wirken negativ, Bestände mit größeren Lücken wirken ebenfalls negativ.;locker ;0
