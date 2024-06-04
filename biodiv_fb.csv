@@ -27,12 +27,12 @@ Totholz IV;Art von Totholz.;;Art - Nadelholz;5;Bitte beurteilen Sie die Art des 
 Totholz IV;Art von Totholz.;;Art - überwiegend Nadelholz;5;Bitte beurteilen Sie die Art des Totholzes hinsichtlich seines Einflusses auf die Biodiversität.
 Totholz IV;Art von Totholz.;;Art - Laubholz;5;Bitte beurteilen Sie die Art des Totholzes hinsichtlich seines Einflusses auf die Biodiversität.
 Totholz IV;Art von Totholz.;;Art - überwiegend Laubholz;5;Bitte beurteilen Sie die Art des Totholzes hinsichtlich seines Einflusses auf die Biodiversität.
-Totholz;Totholzdiversität auf Betriebsebene ;;Totholzdiversität auf Betriebsebene - niedrig;6;Bitte beurteilen Sie die Totholzdiversität auf Betriebsebene hinsichtlich ihres Einflusses auf die Biodiversität.
-Totholz;Totholzdiversität auf Betriebsebene ;;Totholzdiversität auf Betriebsebene - mittel;6;Bitte beurteilen Sie die Totholzdiversität auf Betriebsebene hinsichtlich ihres Einflusses auf die Biodiversität.
-Totholz;Totholzdiversität auf Betriebsebene ;;Totholzdiversität auf Betriebsebene - hoch;6;Bitte beurteilen Sie die Totholzdiversität auf Betriebsebene hinsichtlich ihres Einflusses auf die Biodiversität.
-Mikrohabitate;Bäume mit Mikrohabitaten je ha;;<5 Mikrohabitate je ha;7;Bitte beurteilen Sie die Wirkung der Anzahl an Habitatbäumen auf die Biodiversität eines Bestandes.
-Mikrohabitate;Bäume mit Mikrohabitaten je ha;;5 bis 10 Mikrohabitate je ha;7;Bitte beurteilen Sie die Wirkung der Anzahl an Habitatbäumen auf die Biodiversität eines Bestandes.
-Mikrohabitate;Bäume mit Mikrohabitaten je ha;;>10 Mikrohabitate je ha;7;Bitte beurteilen Sie die Wirkung der Anzahl an Habitatbäumen auf die Biodiversität eines Bestandes.
+Totholz V;Totholzdiversität auf Betriebsebene. ;;Totholzdiversität auf Betriebsebene - niedrig;6;Bitte beurteilen Sie die Totholzdiversität auf Betriebsebene hinsichtlich ihres Einflusses auf die Biodiversität.
+Totholz V;Totholzdiversität auf Betriebsebene. ;;Totholzdiversität auf Betriebsebene - mittel;6;Bitte beurteilen Sie die Totholzdiversität auf Betriebsebene hinsichtlich ihres Einflusses auf die Biodiversität.
+Totholz V;Totholzdiversität auf Betriebsebene. ;;Totholzdiversität auf Betriebsebene - hoch;6;Bitte beurteilen Sie die Totholzdiversität auf Betriebsebene hinsichtlich ihres Einflusses auf die Biodiversität.
+Mikrohabitate;Bäume mit Mikrohabitaten je ha.;;<5 Mikrohabitate je ha;7;Bitte beurteilen Sie die Wirkung der Anzahl an Habitatbäumen auf die Biodiversität eines Bestandes.
+Mikrohabitate;Bäume mit Mikrohabitaten je ha.;;5 bis 10 Mikrohabitate je ha;7;Bitte beurteilen Sie die Wirkung der Anzahl an Habitatbäumen auf die Biodiversität eines Bestandes.
+Mikrohabitate;Bäume mit Mikrohabitaten je ha.;;>10 Mikrohabitate je ha;7;Bitte beurteilen Sie die Wirkung der Anzahl an Habitatbäumen auf die Biodiversität eines Bestandes.
 Baumartenmischung;Mischungsart;;Reinbestand;8;Bitte beurteilen Sie de Mischungsart auf die Biodiversität eines Bestandes.
 Baumartenmischung;Mischungsart;;Mischbestand;8;Bitte beurteilen Sie de Mischungsart auf die Biodiversität eines Bestandes.
 Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;einschichtig;9;Bitte beurteilen Sie die Wirkung der Bestandesschichtung auf die Biodiversität eines Bestandes.
