@@ -33,8 +33,8 @@ Totholz V;Totholzdiversität auf Betriebsebene. ;;Totholzdiversität auf Betrieb
 Mikrohabitate;Bäume mit Mikrohabitaten je ha.;;<5 Mikrohabitate je ha;7;Bitte beurteilen Sie die Wirkung der Anzahl an Habitatbäumen auf die Biodiversität eines Bestandes.
 Mikrohabitate;Bäume mit Mikrohabitaten je ha.;;5 bis 10 Mikrohabitate je ha;7;Bitte beurteilen Sie die Wirkung der Anzahl an Habitatbäumen auf die Biodiversität eines Bestandes.
 Mikrohabitate;Bäume mit Mikrohabitaten je ha.;;>10 Mikrohabitate je ha;7;Bitte beurteilen Sie die Wirkung der Anzahl an Habitatbäumen auf die Biodiversität eines Bestandes.
-Baumartenmischung;Mischungsart;;Reinbestand;8;Bitte beurteilen Sie de Mischungsart auf die Biodiversität eines Bestandes.
-Baumartenmischung;Mischungsart;;Mischbestand;8;Bitte beurteilen Sie de Mischungsart auf die Biodiversität eines Bestandes.
+Baumartenmischung;Mischungsart.;;Reinbestand;8;Bitte beurteilen Sie die Wirkung der Mischungsart auf die Biodiversität eines Bestandes.
+Baumartenmischung;Mischungsart.;;Mischbestand;8;Bitte beurteilen Sie die Wirkung der Mischungsart auf die Biodiversität eines Bestandes.
 Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;einschichtig;9;Bitte beurteilen Sie die Wirkung der Bestandesschichtung auf die Biodiversität eines Bestandes.
 Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;zweischichtig;9;Bitte beurteilen Sie die Wirkung der Bestandesschichtung auf die Biodiversität eines Bestandes.
 Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;mehrschichtig;9;Bitte beurteilen Sie die Wirkung der Bestandesschichtung auf die Biodiversität eines Bestandes.
