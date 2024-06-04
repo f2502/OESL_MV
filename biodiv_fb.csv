@@ -1,61 +1,61 @@
 ﻿Merkmal;Beschreibung;Wertung_a;Ausprägung;Wertung;Hinweis
-Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Laubholz;1;
-Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Nadelholz;1;
-Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Eiche;1;
-Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Buche;1;
-Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Hartlaubholz (außer Buche und Eiche);1;
-Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Weichlaubholz;1;
-Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Fichte/Tanne;1;
-Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Douglasie;1;
-Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Kiefer;1;
-Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Lärche;1;
-Totholz I;Totholzmenge je ha.;;Menge je ha - unter 5 Rm;2;
-Totholz I;Totholzmenge je ha.;;Menge je ha  - 5 bis 20 Rm;2;
-Totholz I;Totholzmenge je ha.;;Menge je ha  - 21 bis 40 Rm;2;
-Totholz I;Totholzmenge je ha.;;Menge je ha  - 41 bis 60 Rm;2;
-Totholz I;Totholzmenge je ha.;;Menge je ha  - 61 bis 80 Rm;2;
-Totholz I;Totholzmenge je ha.;;Menge je ha - über 80 Rm;2;
-Totholz II;Zersetzungsgrad Von Totholz.;;Zersetzungsgrad - niedriger Zersetzungsgrad;3;
-Totholz II;Zersetzungsgrad Von Totholz.;;Zersetzungsgrad - überwiegend niedriger Zersetzungsgrad;3;
-Totholz II;Zersetzungsgrad Von Totholz.;;Zersetzungsgrad -überwiegend hoher Zersetzungsgrad;3;
-Totholz II;Zersetzungsgrad Von Totholz.;;Zersetzungsgrad -hoher Zersetzungsgrad;3;
-Totholz III;Lagerung - wie ist das Totholz gelagert?;;Lagerung - liegend;4;
-Totholz III;Lagerung - wie ist das Totholz gelagert?;;Lagerung - überwiegend liegend;4;
-Totholz III;Lagerung - wie ist das Totholz gelagert?;;Lagerung - stehend;4;
-Totholz III;Lagerung - wie ist das Totholz gelagert?;;Lagerung - überwiegend stehend;4;
-Totholz IV;Art von Totholz.;;Art - Nadelholz;5;
-Totholz IV;Art von Totholz.;;Art - überwiegend Nadelholz;5;
-Totholz IV;Art von Totholz.;;Art - Laubholz;5;
-Totholz IV;Art von Totholz.;;Art - überwiegend Laubholz;5;
-Totholz;Totholzdiversität auf Betriebsebene ;;Totholzdiversität auf Betriebsebene - niedrig;6;
-Totholz;Totholzdiversität auf Betriebsebene ;;Totholzdiversität auf Betriebsebene - mittel;6;
-Totholz;Totholzdiversität auf Betriebsebene ;;Totholzdiversität auf Betriebsebene - hoch;6;
-Mikrohabitate;Bäume mit Mikrohabitaten je ha;;<5 Mikrohabitate je ha;7;
-Mikrohabitate;Bäume mit Mikrohabitaten je ha;;5 bis 10 Mikrohabitate je ha;7;
-Mikrohabitate;Bäume mit Mikrohabitaten je ha;;>10 Mikrohabitate je ha;7;
-Baumartenmischung;Mischungsart;;Reinbestand;8;
-Baumartenmischung;Mischungsart;;Mischbestand;8;
-Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;einschichtig;9;
-Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;zweischichtig;9;
-Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;mehrschichtig;9;
-Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;plenterartig;9;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad auff. blühende krautige Pflanzen - bis 25%;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad auff. blühende krautige Pflanzen - über 25% bis 50%;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad auff. blühende krautige Pflanzen - über 50% bis 75%;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad auff. blühende krautigePflanzen - über 75%;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser - bis 25%;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser - über 25% bis 50 %;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser - über 50% bis 75%;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser- über 75%;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - bis 25%;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - über 25% bis 50 %;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - über 50% bis 75%;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - über 75%;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - bis 25%;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - über 25% bis 50 %;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - über 50% bis 75%;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - über 75%;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher - bis 25%;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher- über 25% bis 50 %;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher- über 50% bis 75%;10;
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher - über 75%;10;
+Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Laubholz;1;Bitte beurteilen Sie die Wirkung der Baumartengruppe (Laubholz oder Nadelholz) als Faktor für die Biodiversität eines Bestandes. 
+Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Nadelholz;1;Bitte beurteilen Sie die Wirkung der Baumartengruppe (Laubholz oder Nadelholz) als Faktor für die Biodiversität eines Bestandes. 
+Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Eiche;1;Bitte beurteilen Sie die Wirkung der Baumartengruppe (Laubholz oder Nadelholz) als Faktor für die Biodiversität eines Bestandes. 
+Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Buche;1;Bitte beurteilen Sie die Wirkung der Baumartengruppe (Laubholz oder Nadelholz) als Faktor für die Biodiversität eines Bestandes. 
+Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Hartlaubholz (außer Buche und Eiche);1;Bitte beurteilen Sie die Wirkung der Baumartengruppe (Laubholz oder Nadelholz) als Faktor für die Biodiversität eines Bestandes. 
+Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Weichlaubholz;1;Bitte beurteilen Sie die Wirkung der Baumartengruppe (Laubholz oder Nadelholz) als Faktor für die Biodiversität eines Bestandes. 
+Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Fichte/Tanne;1;Bitte beurteilen Sie die Wirkung der Baumartengruppe (Laubholz oder Nadelholz) als Faktor für die Biodiversität eines Bestandes. 
+Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Douglasie;1;Bitte beurteilen Sie die Wirkung der Baumartengruppe (Laubholz oder Nadelholz) als Faktor für die Biodiversität eines Bestandes. 
+Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Kiefer;1;Bitte beurteilen Sie die Wirkung der Baumartengruppe (Laubholz oder Nadelholz) als Faktor für die Biodiversität eines Bestandes. 
+Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Lärche;1;Bitte beurteilen Sie die Wirkung der Baumartengruppe (Laubholz oder Nadelholz) als Faktor für die Biodiversität eines Bestandes. 
+Totholz I;Totholzmenge je ha.;;Menge je ha - unter 5 Rm;2;Bitte beurteilen Sie die Menge an Totholz je ha hinsichtlich ihres Beitrags zur Biodiversität.
+Totholz I;Totholzmenge je ha.;;Menge je ha  - 5 bis 20 Rm;2;Bitte beurteilen Sie die Menge an Totholz je ha hinsichtlich ihres Beitrags zur Biodiversität.
+Totholz I;Totholzmenge je ha.;;Menge je ha  - 21 bis 40 Rm;2;Bitte beurteilen Sie die Menge an Totholz je ha hinsichtlich ihres Beitrags zur Biodiversität.
+Totholz I;Totholzmenge je ha.;;Menge je ha  - 41 bis 60 Rm;2;Bitte beurteilen Sie die Menge an Totholz je ha hinsichtlich ihres Beitrags zur Biodiversität.
+Totholz I;Totholzmenge je ha.;;Menge je ha  - 61 bis 80 Rm;2;Bitte beurteilen Sie die Menge an Totholz je ha hinsichtlich ihres Beitrags zur Biodiversität.
+Totholz I;Totholzmenge je ha.;;Menge je ha - über 80 Rm;2;Bitte beurteilen Sie die Menge an Totholz je ha hinsichtlich ihres Beitrags zur Biodiversität.
+Totholz II;Zersetzungsgrad Von Totholz.;;Zersetzungsgrad - niedriger Zersetzungsgrad;3;Bitte beurteilen Sie den Zersetzungsgrad des Totholzes bezüglich seines Einflusses auf die Biodiversität.
+Totholz II;Zersetzungsgrad Von Totholz.;;Zersetzungsgrad - überwiegend niedriger Zersetzungsgrad;3;Bitte beurteilen Sie den Zersetzungsgrad des Totholzes bezüglich seines Einflusses auf die Biodiversität.
+Totholz II;Zersetzungsgrad Von Totholz.;;Zersetzungsgrad -überwiegend hoher Zersetzungsgrad;3;Bitte beurteilen Sie den Zersetzungsgrad des Totholzes bezüglich seines Einflusses auf die Biodiversität.
+Totholz II;Zersetzungsgrad Von Totholz.;;Zersetzungsgrad -hoher Zersetzungsgrad;3;Bitte beurteilen Sie den Zersetzungsgrad des Totholzes bezüglich seines Einflusses auf die Biodiversität.
+Totholz III;Lagerung - wie ist das Totholz gelagert?;;Lagerung - liegend;4;Bitte beurteilen Sie die Arte des Totholzes hinsichtlich seines Einflusses auf die Biodiversität.
+Totholz III;Lagerung - wie ist das Totholz gelagert?;;Lagerung - überwiegend liegend;4;Bitte beurteilen Sie die Arte des Totholzes hinsichtlich seines Einflusses auf die Biodiversität.
+Totholz III;Lagerung - wie ist das Totholz gelagert?;;Lagerung - stehend;4;Bitte beurteilen Sie die Arte des Totholzes hinsichtlich seines Einflusses auf die Biodiversität.
+Totholz III;Lagerung - wie ist das Totholz gelagert?;;Lagerung - überwiegend stehend;4;Bitte beurteilen Sie die Arte des Totholzes hinsichtlich seines Einflusses auf die Biodiversität.
+Totholz IV;Art von Totholz.;;Art - Nadelholz;5;Bitte beurteilen Sie die Art des Totholzes hinsichtlich seines Einflusses auf die Biodiversität.
+Totholz IV;Art von Totholz.;;Art - überwiegend Nadelholz;5;Bitte beurteilen Sie die Art des Totholzes hinsichtlich seines Einflusses auf die Biodiversität.
+Totholz IV;Art von Totholz.;;Art - Laubholz;5;Bitte beurteilen Sie die Art des Totholzes hinsichtlich seines Einflusses auf die Biodiversität.
+Totholz IV;Art von Totholz.;;Art - überwiegend Laubholz;5;Bitte beurteilen Sie die Art des Totholzes hinsichtlich seines Einflusses auf die Biodiversität.
+Totholz;Totholzdiversität auf Betriebsebene ;;Totholzdiversität auf Betriebsebene - niedrig;6;Bitte beurteilen Sie die Totholzdiversität auf Betriebsebene hinsichtlich ihres Einflusses auf die Biodiversität.
+Totholz;Totholzdiversität auf Betriebsebene ;;Totholzdiversität auf Betriebsebene - mittel;6;Bitte beurteilen Sie die Totholzdiversität auf Betriebsebene hinsichtlich ihres Einflusses auf die Biodiversität.
+Totholz;Totholzdiversität auf Betriebsebene ;;Totholzdiversität auf Betriebsebene - hoch;6;Bitte beurteilen Sie die Totholzdiversität auf Betriebsebene hinsichtlich ihres Einflusses auf die Biodiversität.
+Mikrohabitate;Bäume mit Mikrohabitaten je ha;;<5 Mikrohabitate je ha;7;Bitte beurteilen Sie die Wirkung der Anzahl an Habitatbäumen auf die Biodiversität eines Bestandes.
+Mikrohabitate;Bäume mit Mikrohabitaten je ha;;5 bis 10 Mikrohabitate je ha;7;Bitte beurteilen Sie die Wirkung der Anzahl an Habitatbäumen auf die Biodiversität eines Bestandes.
+Mikrohabitate;Bäume mit Mikrohabitaten je ha;;>10 Mikrohabitate je ha;7;Bitte beurteilen Sie die Wirkung der Anzahl an Habitatbäumen auf die Biodiversität eines Bestandes.
+Baumartenmischung;Mischungsart;;Reinbestand;8;Bitte beurteilen Sie de Mischungsart auf die Biodiversität eines Bestandes.
+Baumartenmischung;Mischungsart;;Mischbestand;8;Bitte beurteilen Sie de Mischungsart auf die Biodiversität eines Bestandes.
+Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;einschichtig;9;Bitte beurteilen Sie die Wirkung der Bestandesschichtung auf die Biodiversität eines Bestandes.
+Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;zweischichtig;9;Bitte beurteilen Sie die Wirkung der Bestandesschichtung auf die Biodiversität eines Bestandes.
+Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;mehrschichtig;9;Bitte beurteilen Sie die Wirkung der Bestandesschichtung auf die Biodiversität eines Bestandes.
+Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;plenterartig;9;Bitte beurteilen Sie die Wirkung der Bestandesschichtung auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad krautige Pflanzen - bis 25%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad krautige Pflanzen - über 25% bis 50%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad krautige Pflanzen - über 50% bis 75%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad krautige Pflanzen - über 75%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser - bis 25%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser - über 25% bis 50 %;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser - über 50% bis 75%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser- über 75%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - bis 25%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - über 25% bis 50 %;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - über 50% bis 75%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - über 75%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - bis 25%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - über 25% bis 50 %;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - über 50% bis 75%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - über 75%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher - bis 25%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher- über 25% bis 50 %;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher- über 50% bis 75%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher - über 75%;10;Bitte beurteilen Sie die Wirkung der Bodenvegetation auf die Biodiversität eines Bestandes.

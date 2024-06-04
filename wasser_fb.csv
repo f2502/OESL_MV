@@ -1,42 +1,57 @@
-﻿Merkmal;Beschreibung;Wertung_a;Ausprägung;Wertung
-Baumartenmischung;Mischung von mehreren Baumarten in einem Bestand mit nennenswerten Anteilen.;;Mischungsart: Reinbestand;0
-Baumartenmischung;Mischung von mehreren Baumarten in einem Bestand mit nennenswerten Anteilen.;;Mischungsart: Mischbestand;0
-Baumartenmischung;Mischung von mehreren Baumarten in einem Bestand mit nennenswerten Anteilen.;;Mischungsform: baumweise;0
-Baumartenmischung;Mischung von mehreren Baumarten in einem Bestand mit nennenswerten Anteilen.;;Mischungsform: truppweise;0
-Baumartenmischung;Mischung von mehreren Baumarten in einem Bestand mit nennenswerten Anteilen.;;Mischungsform:  gruppenweise;0
-Baumartenmischung;Mischung von mehreren Baumarten in einem Bestand mit nennenswerten Anteilen.;;Mischungsform:  horstweise;0
-Baumartenmischung;Mischung von mehreren Baumarten in einem Bestand mit nennenswerten Anteilen.;;Mischungsform:  reihen- oder streifenweise;0
-Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Nadelbaumarten;0
-Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Laubbaumarten;0
-Baumarten;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;N-fixierende Baumarten;0
-Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;einschichtig;0
-Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;zweischichtig;0
-Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;mehrschichtig;0
-Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;plenterartig;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad auff. blühende krautige Pflanzen - bis 25%;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad auff. blühende krautige Pflanzen - über 25% bis 50%;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad auff. blühende krautige Pflanzen - über 50% bis 75%;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad auff. blühende krautigePflanzen - über 75%;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser - bis 25%;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser - über 25% bis 50 %;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser - über 50% bis 75%;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser- über 75%;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - bis 25%;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - über 25% bis 50 %;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - über 50% bis 75%;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - über 75%;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - bis 25%;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - über 25% bis 50 %;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - über 50% bis 75%;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - über 75%;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher - bis 25%;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher- über 25% bis 50 %;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher- über 50% bis 75%;0
-Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher - über 75%;0
-Bestandesdichte;Prozentualer Anteil des von Baumkronen bedeckten Himmels, als Maß für die Bestandesdichte;;gedrängt;0
-Bestandesdichte;Prozentualer Anteil des von Baumkronen bedeckten Himmels, als Maß für die Bestandesdichte;;geschlossen;0
-Bestandesdichte;Prozentualer Anteil des von Baumkronen bedeckten Himmels, als Maß für die Bestandesdichte;;locker;0
-Bestandesdichte;Prozentualer Anteil des von Baumkronen bedeckten Himmels, als Maß für die Bestandesdichte;;licht;0
-Bestandesdichte;Prozentualer Anteil des von Baumkronen bedeckten Himmels, als Maß für die Bestandesdichte;;räumig, räumdig;0
-Bestandesdichte;Prozentualer Anteil des von Baumkronen bedeckten Himmels, als Maß für die Bestandesdichte;;lückig;0
-Bestandesdichte;Prozentualer Anteil des von Baumkronen bedeckten Himmels, als Maß für die Bestandesdichte;;stark differenziert;0
+﻿Merkmal;Beschreibung;Wertung_a;Ausprägung;Wertung;
+Baumartenmischung: Mischungsart;Mischung von mehreren Baumarten in einem Bestand mit nennenswerten Anteilen. ;;Reinbestand;1;Auf der folgenden Seite wird Mischung noch detaillierter abgefragt.
+Baumartenmischung: Mischungsart;Mischung von mehreren Baumarten in einem Bestand mit nennenswerten Anteilen. ;;Mischbestand;1;Auf der folgenden Seite wird Mischung noch detaillierter abgefragt.
+Baumartenmischung: Mischungsform I;Form der Mischung - baumartenbezogene Mischung von Mischbaumarten in Relation zur Hauptbaumart.;;Mischungsform: baumweise;2;Auf der folgenden Seite  wird Mischung noch nach Baumartengruppen gegliedert abgefragt.
+Baumartenmischung: Mischungsform I;Form der Mischung - baumartenbezogene Mischung von Mischbaumarten in Relation zur Hauptbaumart.;;Mischungsform: truppweise;2;Auf der folgenden Seite  wird Mischung noch nach Baumartengruppen gegliedert abgefragt.
+Baumartenmischung: Mischungsform I;Form der Mischung - baumartenbezogene Mischung von Mischbaumarten in Relation zur Hauptbaumart.;;Mischungsform:  gruppenweise;2;Auf der folgenden Seite  wird Mischung noch nach Baumartengruppen gegliedert abgefragt.
+Baumartenmischung: Mischungsform I;Form der Mischung - baumartenbezogene Mischung von Mischbaumarten in Relation zur Hauptbaumart.;;Mischungsform:  horstweise;2;Auf der folgenden Seite  wird Mischung noch nach Baumartengruppen gegliedert abgefragt.
+Baumartenmischung: Mischungsform I;Form der Mischung - baumartenbezogene Mischung von Mischbaumarten in Relation zur Hauptbaumart.;;Mischungsform:  reihen- oder streifenweise;2;Auf der folgenden Seite  wird Mischung noch nach Baumartengruppen gegliedert abgefragt.
+Baumartenmischung: Mischungsform II;Form der Mischung - Mischung von Baumartengruppen.;;Nadelholzbestand mit einzeln beigemischten Laubbäumen.;3;Nutzen Sie gerne die Anmerkungen, um beispielhafte Baumartenkombinationen zu beschreiben.
+Baumartenmischung: Mischungsform II;Form der Mischung - Mischung von Baumartengruppen.;;Nadelholzbestand mit flächig eingemischten Laubbäumen.;3;Nutzen Sie gerne die Anmerkungen, um beispielhafte Baumartenkombinationen zu beschreiben.
+Baumartenmischung: Mischungsform II;Form der Mischung - Mischung von Baumartengruppen.;;Laubholzbestand mit einzeln beigemischten Nadelbäumen.;3;Nutzen Sie gerne die Anmerkungen, um beispielhafte Baumartenkombinationen zu beschreiben.
+Baumartenmischung: Mischungsform II;Form der Mischung - Mischung von Baumartengruppen.;;Laubholzbestand mit flächig eingemischten Nadelbäumen.;3;Nutzen Sie gerne die Anmerkungen, um beispielhafte Baumartenkombinationen zu beschreiben.
+Baumarten I;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Nadelbaumarten;4;Auf der folgenden Seite werden Baumartengruppen abgefragt. Nutzen Sie gerne die Anmerkungen.
+Baumarten I;Baumarten in einem Bestand, es ist z. B. relevant, ob überwiegend Fichten oder überwiegend Buchen vorkommen.;;Laubbaumarten;4;Auf der folgenden Seite werden Baumartengruppen abgefragt. Nutzen Sie gerne die Anmerkungen.
+Baumarten II;Gruppen von Baumarten, die aufgrund unterschiedlicher Eigenschaftenbestimmte Wirkungen haben.;;N-fixierende Baumarten;5;Nutzen Sie gerne die Anmerkungen, um bestimmte Baumarten hervorzuheben.
+Baumarten II;Gruppen von Baumarten, die aufgrund unterschiedlicher Eigenschaftenbestimmte Wirkungen haben.;;Bodenpflegliche Laubbaumarten;5;Nutzen Sie gerne die Anmerkungen, um bestimmte Baumarten hervorzuheben.
+Baumarten II;Gruppen von Baumarten, die aufgrund unterschiedlicher Eigenschaftenbestimmte Wirkungen haben.;;Bodenpflegliche Nadelbaumarten;5;Nutzen Sie gerne die Anmerkungen, um bestimmte Baumarten hervorzuheben.
+Baumarten II;Gruppen von Baumarten, die aufgrund unterschiedlicher Eigenschaftenbestimmte Wirkungen haben.;;dummy;5;Nutzen Sie gerne die Anmerkungen, um bestimmte Baumarten hervorzuheben.
+Baumarten II;Gruppen von Baumarten, die aufgrund unterschiedlicher Eigenschaftenbestimmte Wirkungen haben.;;dummy;5;Nutzen Sie gerne die Anmerkungen, um bestimmte Baumarten hervorzuheben.
+Baumarten II;Gruppen von Baumarten, die aufgrund unterschiedlicher Eigenschaftenbestimmte Wirkungen haben.;;dummy;5;Nutzen Sie gerne die Anmerkungen, um bestimmte Baumarten hervorzuheben.
+Baumarten II;Gruppen von Baumarten, die aufgrund unterschiedlicher Eigenschaftenbestimmte Wirkungen haben.;;dummy;5;Nutzen Sie gerne die Anmerkungen, um bestimmte Baumarten hervorzuheben.
+Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;einschichtig;6;Nutzen Sie gerne die Anmerkungen, um weitere Aspekte von Bestandesschichtung hervorzuheben.
+Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;zweischichtig;6;Nutzen Sie gerne die Anmerkungen, um weitere Aspekte von Bestandesschichtung hervorzuheben.
+Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;mehrschichtig;6;Nutzen Sie gerne die Anmerkungen, um weitere Aspekte von Bestandesschichtung hervorzuheben.
+Bestandesschichtung;Vertikaler Aufbau eines Waldes in eine oder mehrere Bestandesschichten.;;plenterartig;6;Nutzen Sie gerne die Anmerkungen, um weitere Aspekte von Bestandesschichtung hervorzuheben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad auff. blühende krautige Pflanzen - bis 25%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad auff. blühende krautige Pflanzen - über 25% bis 50%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad auff. blühende krautige Pflanzen - über 50% bis 75%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad auff. blühende krautigePflanzen - über 75%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser - bis 25%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser - über 25% bis 50 %;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser - über 50% bis 75%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Gräser- über 75%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - bis 25%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - über 25% bis 50 %;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - über 50% bis 75%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Adlerfarn - über 75%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - bis 25%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - über 25% bis 50 %;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - über 50% bis 75%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Brombeere - über 75%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher - bis 25%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher- über 25% bis 50 %;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher- über 50% bis 75%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Begleitvegetation;Vegetation am Waldboden (ohne Bäume), z.B. Gräser, Adlerfarn oder Heidelbeeren. ;;Deckungsgrad Zwergsträucher - über 75%;7;Nutzen Sie gerne die Anmerkungen, um bestimmte Arten von Bodenvegetation hervorzuheben und deren Wirkung zu beschreiben.
+Bestandesdichte I;Prozentualer Anteil des von Baumkronen bedeckten Himmels, als Maß für die Bestandesdichte;;gedrängt;8;Nutzen Sie gerne die Anmerkungen, um weitere Aspekte der Bestandesdichte hervorzuheben.
+Bestandesdichte I;Prozentualer Anteil des von Baumkronen bedeckten Himmels, als Maß für die Bestandesdichte;;geschlossen;8;Auf der folgenden Seite werden andere Kennwerte der Bestandesdichte abgefragt. Nutzen Sie gerne die Anmerkungen, um weitere Aspekte der Bestandesdichte hervorzuheben.
+Bestandesdichte I;Prozentualer Anteil des von Baumkronen bedeckten Himmels, als Maß für die Bestandesdichte;;locker;8;Auf der folgenden Seite werden andere Kennwerte der Bestandesdichte abgefragt. Nutzen Sie gerne die Anmerkungen, um weitere Aspekte der Bestandesdichte hervorzuheben.
+Bestandesdichte I;Prozentualer Anteil des von Baumkronen bedeckten Himmels, als Maß für die Bestandesdichte;;licht;8;Auf der folgenden Seite werden andere Kennwerte der Bestandesdichte abgefragt. Nutzen Sie gerne die Anmerkungen, um weitere Aspekte der Bestandesdichte hervorzuheben.
+Bestandesdichte I;Prozentualer Anteil des von Baumkronen bedeckten Himmels, als Maß für die Bestandesdichte;;räumig, räumdig;8;Auf der folgenden Seite werden andere Kennwerte der Bestandesdichte abgefragt. Nutzen Sie gerne die Anmerkungen, um weitere Aspekte der Bestandesdichte hervorzuheben.
+Bestandesdichte I;Prozentualer Anteil des von Baumkronen bedeckten Himmels, als Maß für die Bestandesdichte;;lückig;8;Auf der folgenden Seite werden andere Kennwerte der Bestandesdichte abgefragt. Nutzen Sie gerne die Anmerkungen, um weitere Aspekte der Bestandesdichte hervorzuheben.
+Bestandesdichte I;Prozentualer Anteil des von Baumkronen bedeckten Himmels, als Maß für die Bestandesdichte;;stark differenziert;8;Auf der folgenden Seite werden andere Kennwerte der Bestandesdichte abgefragt. Nutzen Sie gerne die Anmerkungen, um weitere Aspekte der Bestandesdichte hervorzuheben.
+Bestandesdichte II;dummy;;dummy;9;dummy
+Bestandesdichte II;dummy;;dummy;9;dummy
+Bestandesdichte II;dummy;;dummy;9;dummy
+Bestandesdichte II;dummy;;dummy;9;dummy
+Bestandesdichte II;dummy;;dummy;9;dummy
