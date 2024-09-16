@@ -1,85 +1,85 @@
-Ôªøas.factor(Merkmal);Auspraegung;Median_Wertung;NA_Count;Kommentar;;
-Baumarten  (Baumartengruppe 'Buche');Hainbuche HBU;-0,5;1;"spielt f√ºr Bewirtschaftung keine Rolle. Nur als Brennholz nutzbar; NA";;
-Baumarten  (Baumartengruppe 'Buche');Rotbuche BU;1;0;"zuvkonkurrenzstark, klimasensibel; NA";;
-Baumarten  (Baumartengruppe 'Douglasie');Douglasie DGL;1;0;NA;;
-Baumarten  (Baumartengruppe 'Eiche');Eiche (spec.) EI;NA;3;NA;;
-Baumarten  (Baumartengruppe 'Eiche');Roteiche REI;1;0;"vml. klimapositiv, aber noch zu wenig bekannt; NA";;
-Baumarten  (Baumartengruppe 'Eiche');Stieleiche SEI;1;0;"krankheitssensibel; NA";;
-Baumarten  (Baumartengruppe 'Eiche');Traubeneiche TEI;1;0;"nur auf wenigen Standorten einsetzbar, krankheitssensibel; NA";;
-Baumarten  (Baumartengruppe 'Fichte/Tanne');Fichte (spec.) FI;2;2;NA;;
-Baumarten  (Baumartengruppe 'Fichte/Tanne');Gemeine Fichte GFI;1;0;NA;;
-Baumarten  (Baumartengruppe 'Fichte/Tanne');K√ºstentanne KTA;0;0;NA;;
-Baumarten  (Baumartengruppe 'Fichte/Tanne');Omorikafichte OFI;0;2;NA;;
-Baumarten  (Baumartengruppe 'Fichte/Tanne');Sitkafichte SFI;-2;2;NA;;
-Baumarten  (Baumartengruppe 'Fichte/Tanne');Tanne (spec.) TA;1;0;NA;;
-Baumarten  (Baumartengruppe 'Fichte/Tanne');Wei√ütanne WTA;2;0;NA;;
-Baumarten  (Baumartengruppe 'Hartlaubholz');Ahorn (spec.) AH;1;0;"... aber Unsicherheit wg. Krankheitsanf√§lligkeit (Ru√ürindenkrankheit); NA";;
-Baumarten  (Baumartengruppe 'Hartlaubholz');Bergahorn BAH;1;0;"bis auf Kranheitsanf√§lligkeit positiv; NA";;
-Baumarten  (Baumartengruppe 'Hartlaubholz');Bergulme BUL;1;0;"krankheitsanf√§llig; NA";;
-Baumarten  (Baumartengruppe 'Hartlaubholz');Elsbeere ELS;2;2;NA;;
-Baumarten  (Baumartengruppe 'Hartlaubholz');Esche (spec.) ES;-1;0;"Im Aussterben begriffen; NA";;
-Baumarten  (Baumartengruppe 'Hartlaubholz');Kirsche (spec.) KIR;1;0;"sehr krankheitsanf√§llig; NA";;
-Baumarten  (Baumartengruppe 'Hartlaubholz');Linde (spec.) LI;0;0;"Interessant, aber kaum als Nutzholz verwendbar; NA";;
-Baumarten  (Baumartengruppe 'Hartlaubholz');Nussbaum (spec.) NUS;2;2;NA;;
-Baumarten  (Baumartengruppe 'Hartlaubholz');Robinie ROB;-2;0;"invasiv, Holz kaum nutzbar; NA";;
-Baumarten  (Baumartengruppe 'Hartlaubholz');Rosskastanie RKA;-0,5;1;NA;;
-Baumarten  (Baumartengruppe 'Hartlaubholz');Sommerlinde SLI;0,5;1;NA;;
-Baumarten  (Baumartengruppe 'Hartlaubholz');sonstiges Hartlaubholz SLBH;0,5;1;NA;;
-Baumarten  (Baumartengruppe 'Hartlaubholz');Ulme (spec.) UL;-2;0;"sehr krankheitsanf√§llig; NA";;
-Baumarten  (Baumartengruppe 'Kiefer');Gemeine Kiefer KI;1;0;NA;;
-Baumarten  (Baumartengruppe 'Kiefer');Kiefer (spec.) KIE;-2;2;NA;;
-Baumarten  (Baumartengruppe 'Kiefer');Schwarzkiefer SKI;0;1;NA;;
-Baumarten  (Baumartengruppe 'Kiefer');Weymouthskiefer WKI;-1,5;1;NA;;
-Baumarten  (Baumartengruppe 'L√§rche');Europ√§ische L√§rche ELA;1;0;NA;;
-Baumarten  (Baumartengruppe 'L√§rche');Japanische L√§rche (einschlie√ülich Hybride) JLA;0;0;NA;;
-Baumarten  (Baumartengruppe 'L√§rche');L√§rche (spec.) LA;0;2;NA;;
-Baumarten  (Baumartengruppe 'Weichlaubholz');Birke (spec.) BI;0,5;1;NA;;
-Baumarten  (Baumartengruppe 'Weichlaubholz');Erle (spec.) ERL;1;0;"Au√üer der Pappel die einzige Baumart, die zuverl√§ssig in Staun√§sse anbaubar ist; NA";;
-Baumarten  (Baumartengruppe 'Weichlaubholz');Pappel (spec.) PAP;-1;1;"Holz au√üer der Energieschiene kaum nutzbar; NA";;
-Baumarten  (Baumartengruppe 'Weichlaubholz');sonstiges Weichlaubholz SLBW;0;2;NA;;
-Baumarten  (Baumartengruppe 'Weichlaubholz');Sorbusarten SOR;0,5;1;NA;;
-Baumarten  (Baumartengruppe 'Weichlaubholz');Weide (spec.) WEI;-1;1;NA;;
-Baumarten (Baumartengruppen);" NA""";1;0;"Sehr konkurrenzstark (\Raubtier\"") aber hohe Klimasensensitivit√§t";;Buche
-Baumarten (Baumartengruppen);Douglasie;1;0;"Die optimale Baumartenwahl, vor allem in Mischung; NA";;
-Baumarten (Baumartengruppen);Eiche;1;0;"Die Eiche hat eine geringe Standortsamplitude. Viele B√∂den scheiden f√ºr sie aus. Sie ist gegen√ºber Krankheiten sehr anf√§llig; NA";;
-Baumarten (Baumartengruppen);Fichte/Tanne;1;0;"Wenn richtig bewirtschaftet, dann sehr g√ºnstig. Aber klimasensitiv; NA";;
-Baumarten (Baumartengruppen);Hartlaubholz (au√üer Buche und Eiche);1;0;"Esche, Kirsche und Ahorn extrem anf√§llig f√ºr Krankheiten; NA";;
-Baumarten (Baumartengruppen);Kiefer;1;0;"wie Eiche; NA";;
-Baumarten (Baumartengruppen);L√§rche;1;0;"Es sind zu wenige Erkenntnisse vorhanden; NA";;
-Baumarten (Baumartengruppen);Weichlaubholz;-2;1;"kaum nutzbar f√ºr Co2 festlegende Verwendungen, extreme Konkkurrenzst√§rke (v.a. Aspe und Weide)); NA";;
-Baumarten (Hauptgruppen);Laubholz;1;0;"Geringere Wirkung wg. geringen Mengen, die f√ºr die Produktion langlebiger Wirtschaftsg√ºter genutzt werden k√∂nnen.; Laubholz ist in der Verwendung und Vermarktung schwieirig, tr√§gt aber zur Stabilisierung und Risikominderung der Nadelholzbest√§nde bei und sichert somit die OSL Holzproduktion; NA";;
-Baumarten (Hauptgruppen);Nadelholz;2;0;"maximale Co2-Bindung √ºber Holzproduktion f√ºr langlebige Wirtschaftsg√ºter; Aktuell ist das Nadelholz noch der meist verwendete Rohstoff, entsprechend sind die Abnehmer darauf ausgerichtet, f√ºr den Forstbetrieb ist Nadelholz nach wie vor der Brotbaum; NA";;
-Baumartenmischung;Mischungsart: Mischbestand;1;0;NA;;
-Baumartenmischung;Mischungsart: Reinbestand;-2;0;NA;;
-Baumartenmischung;Mischungsform:  gruppenweise;1;0;NA;;
-Baumartenmischung;Mischungsform:  horstweise;1;0;NA;;
-Baumartenmischung;Mischungsform:  reihen- oder streifenweise;0;0;NA;;
-Baumartenmischung;Mischungsform: baumweise;1;0;NA;;
-Baumartenmischung;Mischungsform: truppweise;1;0;NA;;
-Bestandesschichtung;einschichtig;-2;0;NA;;
-Bestandesschichtung;mehrschichtig;1;0;NA;;
-Bestandesschichtung;plenterartig;2;0;NA;;
-Bestandesschichtung;zweischichtig;1;0;NA;;
-Kronenschlussgrad;gedr√§ngt;-2;0;NA;;
-Kronenschlussgrad;geschlossen;0;0;NA;;
-Kronenschlussgrad;licht;0;0;NA;;
-Kronenschlussgrad;locker;1;0;NA;;
-Kronenschlussgrad;l√ºckig;0;0;NA;;
-Kronenschlussgrad;r√§umdig;-2;0;NA;;
-Kronenschlussgrad;stark differenziert;1,5;1;NA;;
-Stammeigenschaften;Abholzigkeit;-2;0;NA;;
-Stammeigenschaften;Astigkeit;-2;0;NA;;
-Stammeigenschaften;Auswuchs;-2;0;NA;;
-Stammeigenschaften;Beulen;-2;1;NA;;
-Stammeigenschaften;Drehwuchs;-1,5;1;NA;;
-Stammeigenschaften;einfache Kr√ºmmung;-2;0;NA;;
-Stammeigenschaften;Instektenfra√üg√§nge (im Holz);-2;0;NA;;
-Stammeigenschaften;Kleb√§ste;-2;0;NA;;
-Stammeigenschaften;Rindensch√§den;-2;0;NA;;
-Stammeigenschaften;Risse;-2;0;NA;;
-Stammeigenschaften;Stammtrockenheit;-1,5;1;NA;;
-Stammeigenschaften;T-Flecken/T-Krebs (und andere Nekrosen);-2;0;NA;;
-Stammeigenschaften;Wassereiser;-2;0;NA;;
-Verj√ºngung;nicht waldbaulich verwendbar;-1;0;NA;;
-Verj√ºngung;Verj√ºngung nicht vorhanden;-1;0;NA;;
-Verj√ºngung;waldbaulich verwendbar;2;0;NA;;
+"as.factor(Merkmal)";"Median_Wertung";"NA_Count";"Kommentar";"Auspraegung"
+"Stammeigenschaften";-2;0;"NA";"Abholzigkeit"
+"Baumarten  (Baumartengruppe 'Hartlaubholz')";1;0;"... aber Unsicherheit wg. Krankheitsanf‰lligkeit (Ruﬂrindenkrankheit); NA";"Ahorn (spec.) AH"
+"Stammeigenschaften";-2;0;"NA";"Astigkeit"
+"Stammeigenschaften";-2;0;"NA";"Auswuchs"
+"Baumarten  (Baumartengruppe 'Hartlaubholz')";1;0;"bis auf Kranheitsanf‰lligkeit positiv; NA";"Bergahorn BAH"
+"Baumarten  (Baumartengruppe 'Hartlaubholz')";1;0;"krankheitsanf‰llig; NA";"Bergulme BUL"
+"Stammeigenschaften";-2;1;"NA";"Beulen"
+"Baumarten  (Baumartengruppe 'Weichlaubholz')";0,5;1;"NA";"Birke (spec.) BI"
+"Baumarten (Baumartengruppen)";1;0;"Sehr konkurrenzstark (\"Raubtier\") aber hohe Klimasensensitivit‰t; NA";"Buche"
+"Baumarten (Baumartengruppen)";1;0;"Die optimale Baumartenwahl, vor allem in Mischung; NA";"Douglasie"
+"Baumarten  (Baumartengruppe 'Douglasie')";1;0;"NA";"Douglasie DGL"
+"Stammeigenschaften";-1,5;1;"NA";"Drehwuchs"
+"Baumarten (Baumartengruppen)";1;0;"Die Eiche hat eine geringe Standortsamplitude. Viele Bˆden scheiden f¸r sie aus. Sie ist gegen¸ber Krankheiten sehr anf‰llig; NA";"Eiche"
+"Baumarten  (Baumartengruppe 'Eiche')";NA;3;"NA";"Eiche (spec.) EI"
+"Stammeigenschaften";-2;0;"NA";"einfache Kr¸mmung"
+"Bestandesschichtung";-2;0;"NA";"einschichtig"
+"Baumarten  (Baumartengruppe 'Hartlaubholz')";2;2;"NA";"Elsbeere ELS"
+"Baumarten  (Baumartengruppe 'Weichlaubholz')";1;0;"Auﬂer der Pappel die einzige Baumart, die zuverl‰ssig in Staun‰sse anbaubar ist; NA";"Erle (spec.) ERL"
+"Baumarten  (Baumartengruppe 'Hartlaubholz')";-1;0;"Im Aussterben begriffen; NA";"Esche (spec.) ES"
+"Baumarten  (Baumartengruppe 'L‰rche')";1;0;"NA";"Europ‰ische L‰rche ELA"
+"Baumarten  (Baumartengruppe 'Fichte/Tanne')";2;2;"NA";"Fichte (spec.) FI"
+"Baumarten (Baumartengruppen)";1;0;"Wenn richtig bewirtschaftet, dann sehr g¸nstig. Aber klimasensitiv; NA";"Fichte/Tanne"
+"Kronenschlussgrad";-2;0;"NA";"gedr‰ngt"
+"Baumarten  (Baumartengruppe 'Fichte/Tanne')";1;0;"NA";"Gemeine Fichte GFI"
+"Baumarten  (Baumartengruppe 'Kiefer')";1;0;"NA";"Gemeine Kiefer KI"
+"Kronenschlussgrad";0;0;"NA";"geschlossen"
+"Baumarten  (Baumartengruppe 'Buche')";-0,5;1;"spielt f¸r Bewirtschaftung keine Rolle. Nur als Brennholz nutzbar; NA";"Hainbuche HBU"
+"Baumarten (Baumartengruppen)";1;0;"Esche, Kirsche und Ahorn extrem anf‰llig f¸r Krankheiten; NA";"Hartlaubholz (auﬂer Buche und Eiche)"
+"Stammeigenschaften";-2;0;"NA";"Instektenfraﬂg‰nge (im Holz)"
+"Baumarten  (Baumartengruppe 'L‰rche')";0;0;"NA";"Japanische L‰rche (einschlieﬂlich Hybride) JLA"
+"Baumarten (Baumartengruppen)";1;0;"wie Eiche; NA";"Kiefer"
+"Baumarten  (Baumartengruppe 'Kiefer')";-2;2;"NA";"Kiefer (spec.) KIE"
+"Baumarten  (Baumartengruppe 'Hartlaubholz')";1;0;"sehr krankheitsanf‰llig; NA";"Kirsche (spec.) KIR"
+"Stammeigenschaften";-2;0;"NA";"Kleb‰ste"
+"Baumarten  (Baumartengruppe 'Fichte/Tanne')";0;0;"NA";"K¸stentanne KTA"
+"Baumarten (Baumartengruppen)";1;0;"Es sind zu wenige Erkenntnisse vorhanden; NA";"L‰rche"
+"Baumarten  (Baumartengruppe 'L‰rche')";0;2;"NA";"L‰rche (spec.) LA"
+"Baumarten (Hauptgruppen)";1;0;"Geringere Wirkung wg. geringen Mengen, die f¸r die Produktion langlebiger Wirtschaftsg¸ter genutzt werden kˆnnen.; Laubholz ist in der Verwendung und Vermarktung schwieirig, tr‰gt aber zur Stabilisierung und Risikominderung der Nadelholzbest‰nde bei und sichert somit die OSL Holzproduktion; NA";"Laubholz"
+"Kronenschlussgrad";0;0;"NA";"licht"
+"Baumarten  (Baumartengruppe 'Hartlaubholz')";0;0;"Interessant, aber kaum als Nutzholz verwendbar; NA";"Linde (spec.) LI"
+"Kronenschlussgrad";1;0;"NA";"locker"
+"Kronenschlussgrad";0;0;"NA";"l¸ckig"
+"Bestandesschichtung";1;0;"NA";"mehrschichtig"
+"Baumartenmischung";1;0;"NA";"Mischungsart: Mischbestand"
+"Baumartenmischung";-2;0;"NA";"Mischungsart: Reinbestand"
+"Baumartenmischung";1;0;"NA";"Mischungsform:  gruppenweise"
+"Baumartenmischung";1;0;"NA";"Mischungsform:  horstweise"
+"Baumartenmischung";0;0;"NA";"Mischungsform:  reihen- oder streifenweise"
+"Baumartenmischung";1;0;"NA";"Mischungsform: baumweise"
+"Baumartenmischung";1;0;"NA";"Mischungsform: truppweise"
+"Baumarten (Hauptgruppen)";2;0;"maximale Co2-Bindung ¸ber Holzproduktion f¸r langlebige Wirtschaftsg¸ter; Aktuell ist das Nadelholz noch der meist verwendete Rohstoff, entsprechend sind die Abnehmer darauf ausgerichtet, f¸r den Forstbetrieb ist Nadelholz nach wie vor der Brotbaum; NA";"Nadelholz"
+"Verj¸ngung";-1;0;"NA";"nicht waldbaulich verwendbar"
+"Baumarten  (Baumartengruppe 'Hartlaubholz')";2;2;"NA";"Nussbaum (spec.) NUS"
+"Baumarten  (Baumartengruppe 'Fichte/Tanne')";0;2;"NA";"Omorikafichte OFI"
+"Baumarten  (Baumartengruppe 'Weichlaubholz')";-1;1;"Holz auﬂer der Energieschiene kaum nutzbar; NA";"Pappel (spec.) PAP"
+"Bestandesschichtung";2;0;"NA";"plenterartig"
+"Kronenschlussgrad";-2;0;"NA";"r‰umdig"
+"Stammeigenschaften";-2;0;"NA";"Rindensch‰den"
+"Stammeigenschaften";-2;0;"NA";"Risse"
+"Baumarten  (Baumartengruppe 'Hartlaubholz')";-2;0;"invasiv, Holz kaum nutzbar; NA";"Robinie ROB"
+"Baumarten  (Baumartengruppe 'Hartlaubholz')";-0,5;1;"NA";"Rosskastanie RKA"
+"Baumarten  (Baumartengruppe 'Buche')";1;0;"zuvkonkurrenzstark, klimasensibel; NA";"Rotbuche BU"
+"Baumarten  (Baumartengruppe 'Eiche')";1;0;"vml. klimapositiv, aber noch zu wenig bekannt; NA";"Roteiche REI"
+"Baumarten  (Baumartengruppe 'Kiefer')";0;1;"NA";"Schwarzkiefer SKI"
+"Baumarten  (Baumartengruppe 'Fichte/Tanne')";-2;2;"NA";"Sitkafichte SFI"
+"Baumarten  (Baumartengruppe 'Hartlaubholz')";0,5;1;"NA";"Sommerlinde SLI"
+"Baumarten  (Baumartengruppe 'Hartlaubholz')";0,5;1;"NA";"sonstiges Hartlaubholz SLBH"
+"Baumarten  (Baumartengruppe 'Weichlaubholz')";0;2;"NA";"sonstiges Weichlaubholz SLBW"
+"Baumarten  (Baumartengruppe 'Weichlaubholz')";0,5;1;"NA";"Sorbusarten SOR"
+"Stammeigenschaften";-1,5;1;"NA";"Stammtrockenheit"
+"Kronenschlussgrad";1,5;1;"NA";"stark differenziert"
+"Baumarten  (Baumartengruppe 'Eiche')";1;0;"krankheitssensibel; NA";"Stieleiche SEI"
+"Stammeigenschaften";-2;0;"NA";"T-Flecken/T-Krebs (und andere Nekrosen)"
+"Baumarten  (Baumartengruppe 'Fichte/Tanne')";1;0;"NA";"Tanne (spec.) TA"
+"Baumarten  (Baumartengruppe 'Eiche')";1;0;"nur auf wenigen Standorten einsetzbar, krankheitssensibel; NA";"Traubeneiche TEI"
+"Baumarten  (Baumartengruppe 'Hartlaubholz')";-2;0;"sehr krankheitsanf‰llig; NA";"Ulme (spec.) UL"
+"Verj¸ngung";-1;0;"NA";"Verj¸ngung nicht vorhanden"
+"Verj¸ngung";2;0;"NA";"waldbaulich verwendbar"
+"Stammeigenschaften";-2;0;"NA";"Wassereiser"
+"Baumarten (Baumartengruppen)";-2;1;"kaum nutzbar f¸r Co2 festlegende Verwendungen, extreme Konkkurrenzst‰rke (v.a. Aspe und Weide)); NA";"Weichlaubholz"
+"Baumarten  (Baumartengruppe 'Weichlaubholz')";-1;1;"NA";"Weide (spec.) WEI"
+"Baumarten  (Baumartengruppe 'Fichte/Tanne')";2;0;"NA";"Weiﬂtanne WTA"
+"Baumarten  (Baumartengruppe 'Kiefer')";-1,5;1;"NA";"Weymouthskiefer WKI"
+"Bestandesschichtung";1;0;"NA";"zweischichtig"
