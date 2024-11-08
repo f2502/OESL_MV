@@ -1,0 +1,85 @@
+Merkmalsgruppe;Median_Wertung;NA_Count;Kommentar;Auspraegung
+Baumarten  (Baumartengruppe 'Buche');0;1;NA;Hainbuche HBU
+Baumarten  (Baumartengruppe 'Buche');1;1;NA;Rotbuche BU
+Baumarten  (Baumartengruppe 'Douglasie');1;1;NA;Douglasie DGL
+Baumarten  (Baumartengruppe 'Eiche');0;1;NA;Eiche (spec.) EI
+Baumarten  (Baumartengruppe 'Eiche');1;1;"NA; Vglw. geringere Standort- und Lichtansprüche";Roteiche REI
+Baumarten  (Baumartengruppe 'Eiche');0;1;NA;Stieleiche SEI
+Baumarten  (Baumartengruppe 'Eiche');0;1;NA;Traubeneiche TEI
+Baumarten  (Baumartengruppe 'Fichte/Tanne');-2;1;NA;Fichte (spec.) FI
+Baumarten  (Baumartengruppe 'Fichte/Tanne');-2;1;NA;Gemeine Fichte GFI
+Baumarten  (Baumartengruppe 'Fichte/Tanne');1;1;NA;Küstentanne KTA
+Baumarten  (Baumartengruppe 'Fichte/Tanne');NA;2;NA;Omorikafichte OFI
+Baumarten  (Baumartengruppe 'Fichte/Tanne');-1;1;NA;Sitkafichte SFI
+Baumarten  (Baumartengruppe 'Fichte/Tanne');1;1;NA;Tanne (spec.) TA
+Baumarten  (Baumartengruppe 'Fichte/Tanne');1;1;"NA; stabilisierende Funktion";Weißtanne WTA
+Baumarten  (Baumartengruppe 'Hartlaubholz');1;1;NA;Ahorn (spec.) AH
+Baumarten  (Baumartengruppe 'Hartlaubholz');0;1;NA;Bergahorn BAH
+Baumarten  (Baumartengruppe 'Hartlaubholz');0;1;NA;Bergulme BUL
+Baumarten  (Baumartengruppe 'Hartlaubholz');1;1;NA;Elsbeere ELS
+Baumarten  (Baumartengruppe 'Hartlaubholz');-2;1;NA;Esche (spec.) ES
+Baumarten  (Baumartengruppe 'Hartlaubholz');1;1;NA;Kirsche (spec.) KIR
+Baumarten  (Baumartengruppe 'Hartlaubholz');1;1;NA;Linde (spec.) LI
+Baumarten  (Baumartengruppe 'Hartlaubholz');NA;2;NA;Nussbaum (spec.) NUS
+Baumarten  (Baumartengruppe 'Hartlaubholz');0;1;NA;Robinie ROB
+Baumarten  (Baumartengruppe 'Hartlaubholz');-2;1;NA;Rosskastanie RKA
+Baumarten  (Baumartengruppe 'Hartlaubholz');1;1;NA;Sommerlinde SLI
+Baumarten  (Baumartengruppe 'Hartlaubholz');0;1;NA;sonstiges Hartlaubholz SLBH
+Baumarten  (Baumartengruppe 'Hartlaubholz');0;1;NA;Ulme (spec.) UL
+Baumarten  (Baumartengruppe 'Kiefer');2;1;NA;Gemeine Kiefer KI
+Baumarten  (Baumartengruppe 'Kiefer');1;1;NA;Kiefer (spec.) KIE
+Baumarten  (Baumartengruppe 'Kiefer');1;1;NA;Schwarzkiefer SKI
+Baumarten  (Baumartengruppe 'Kiefer');-2;1;NA;Weymouthskiefer WKI
+Baumarten  (Baumartengruppe 'Lärche');1;1;NA;Europäische Lärche ELA
+Baumarten  (Baumartengruppe 'Lärche');0;1;NA;Japanische Lärche (einschließlich Hybride) JLA
+Baumarten  (Baumartengruppe 'Lärche');1;1;NA;Lärche (spec.) LA
+Baumarten  (Baumartengruppe 'Weichlaubholz');0;1;NA;Birke (spec.) BI
+Baumarten  (Baumartengruppe 'Weichlaubholz');1;1;NA;Erle (spec.) ERL
+Baumarten  (Baumartengruppe 'Weichlaubholz');-2;1;NA;Pappel (spec.) PAP
+Baumarten  (Baumartengruppe 'Weichlaubholz');NA;2;NA;sonstiges Weichlaubholz SLBW
+Baumarten  (Baumartengruppe 'Weichlaubholz');1;1;NA;Sorbusarten SOR
+Baumarten  (Baumartengruppe 'Weichlaubholz');0;1;NA;Weide (spec.) WEI
+Baumarten (Baumartengruppen);1;1;"NA; in Mischung mit vielfach stabilisierender Wirkung";Buche
+Baumarten (Baumartengruppen);1,5;0;"Die Baumart, die aufgrund ihrer Zuwachsleistung hinsichtlich der CO2-Fixierung in langlebigen Wirtschaftsgütern am positivsten zu beurteilen ist; Positiv v.a. in Mischbeständen";Douglasie
+Baumarten (Baumartengruppen);1;1;NA;Eiche
+Baumarten (Baumartengruppen);0,5;0;NA;Fichte/Tanne
+Baumarten (Baumartengruppen);0;1;NA;Hartlaubholz (außer Buche und Eiche)
+Baumarten (Baumartengruppen);-0,5;0;"Waldbaulich kaum unterzubringen, wenn über Naturverjüngung und/oder Dauerwaldsysteme gearbeitet wird; NA";Kiefer
+Baumarten (Baumartengruppen);NA;2;NA;Lärche
+Baumarten (Baumartengruppen);-2;0;"Keine dauerhafte CO2-Festlegung möglich; NA";Weichlaubholz
+Baumarten (Hauptgruppen);1;1;NA;Laubholz
+Baumarten (Hauptgruppen);1;0;"CO2 Festlegung über langlebige Wirtschaftsgüter funktioniert zur Zeit nur über Nadelholzproduktion; NA";Nadelholz
+Baumartenmischung;1;1;NA;Mischungsart: Mischbestand
+Baumartenmischung;-1;1;NA;Mischungsart: Reinbestand
+Baumartenmischung;0;1;NA;Mischungsform:  gruppenweise
+Baumartenmischung;1;1;NA;Mischungsform:  horstweise
+Baumartenmischung;0;1;NA;Mischungsform:  reihen- oder streifenweise
+Baumartenmischung;-2;1;NA;Mischungsform: baumweise
+Baumartenmischung;0;1;NA;Mischungsform: truppweise
+Bestandesschichtung;-1,5;0;NA;einschichtig
+Bestandesschichtung;1;0;NA;mehrschichtig
+Bestandesschichtung;0,5;0;NA;plenterartig
+Bestandesschichtung;1,5;0;NA;zweischichtig
+Kronenschlussgrad;-1;0;NA;gedrängt
+Kronenschlussgrad;0;1;NA;geschlossen
+Kronenschlussgrad;-2;1;NA;licht
+Kronenschlussgrad;1;1;NA;locker
+Kronenschlussgrad;0;1;NA;lückig
+Kronenschlussgrad;-1;1;NA;räumdig
+Kronenschlussgrad;1;1;NA;stark differenziert
+Stammeigenschaften;-2;0;NA;Abholzigkeit
+Stammeigenschaften;-1,5;0;NA;Astigkeit
+Stammeigenschaften;-1,5;0;NA;Auswuchs
+Stammeigenschaften;-2;0;NA;Beulen
+Stammeigenschaften;-1,5;0;NA;Drehwuchs
+Stammeigenschaften;-2;0;NA;einfache Krümmung
+Stammeigenschaften;-1,5;0;NA;Instektenfraßgänge (im Holz)
+Stammeigenschaften;-2;0;NA;Klebäste
+Stammeigenschaften;-2;0;NA;Rindenschäden
+Stammeigenschaften;-1;0;NA;Risse
+Stammeigenschaften;-1,5;0;NA;Stammtrockenheit
+Stammeigenschaften;-1;0;NA;T-Flecken/T-Krebs (und andere Nekrosen)
+Stammeigenschaften;-2;0;NA;Wassereiser
+Verjüngung;-1;0;NA;nicht waldbaulich verwendbar
+Verjüngung;-1,5;0;NA;Verjüngung nicht vorhanden
+Verjüngung;1,5;0;NA;waldbaulich verwendbar
