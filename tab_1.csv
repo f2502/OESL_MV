@@ -1,169 +1,169 @@
 ﻿link;mm;Merkmal;stra;stra_n;oek;biod;erh;waq
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzmenge ;Menge je ha - unter 5 rm ;1;1;0 ;-1,5 ;0 ;0 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzmenge ;Menge je ha  - 5 bis 20 rm ;2;2;0 ;-1 ;0 ;0 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzmenge ;Menge je ha  - 21 bis 40 rm ;3;3;0 ;1 ;-0,5 ;-0,5 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzmenge ;Menge je ha  - 41 bis 60 rm ;4;4;-1 ;2 ;-0,5 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzmenge ;Menge je ha  - 61 bis 80 rm ;5;5;-2 ;2 ;-1 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzmenge ;Menge je ha - über 80 rm ;6;6;-2 ;2 ;-1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Zersetzung ;Zersetzungsgrad - niedriger Zersetzungsgrad ;7;1;0 ;1 ;-1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Zersetzung ;Zersetzungsgrad - überwiegend niedriger Zersetzungsgrad ;8;2;0 ;2 ;-0,5 ;0,5 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Zersetzung ;Zersetzungsgrad -überwiegend hoher Zersetzungsgrad ;9;3;0 ;2 ;1 ;-0,5 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Zersetzung ;Zersetzungsgrad -hoher Zersetzungsgrad ;10;4;0 ;1 ;1 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Lagerung ;Lagerung - liegend ;11;1;0 ;1 ;0 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Lagerung ;Lagerung - überwiegend liegend ;12;2;0 ;2 ;0 ;-0,5 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Lagerung ;Lagerung - stehend ;13;3;-1 ;1 ;0 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Lagerung ;Lagerung - überwiegend stehend ;14;4;0 ;1,5 ;0 ;0,5 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Art ;Art - Nadelholz ;15;1;0 ;0 ;-1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Art ;Art - überwiegend Nadelholz ;16;2;0 ;1 ;-0,5 ;0,5 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Art ;Art - Laubholz ;17;3;0 ;1,5 ;0 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Art ;Art - überwiegend Laubholz ;18;4;0 ;2 ;0 ;-0,5 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Diversität ;Totholzdiversität auf Betriebsebene - niedrig ;19;1;0 ;-1,5 ; ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Diversität ;Totholzdiversität auf Betriebsebene - mittel ;20;2;0 ;0,5 ; ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Diversität ;Totholzdiversität auf Betriebsebene - hoch ;21;3;0 ;1,5 ; ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Verjüngung ;Verjüngung nicht vorhanden ;22;1;-1,5 ;0 ;0 ;-0,5 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Verjüngung ;waldbaulich verwendbar ;23;2;1,5 ;1 ;0,5 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Verjüngung ;nicht waldbaulich verwendbar ;24;3;-0,5 ;1 ;0,5 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Bestandesschichtung ;einschichtig ;25;1;-2 ;-2 ;-1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Bestandesschichtung ;zweischichtig ;26;2;1 ;1 ;0,5 ;1,5 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Bestandesschichtung ;mehrschichtig ;27;3;1 ;1 ;1 ;1,5 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Bestandesschichtung ;plenterartig ;28;4;1,5 ;1 ;1 ;1,5 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Kronenansatz sp, W, ;Durchschnittlicher Kronenansatz hoch > 10 m ;29;1; ; ; ;0 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Kronenansatz sp, W, ;Durchschnittlicher Kronenansatz mittel >4-10 m ;30;2; ; ; ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Kronenansatz sp, W, ;Durchschnittlicher Kronenansatz tief 2-4 m ;31;3; ; ; ;-1,5 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Kronenschlussgrad ;gedrängt ;32;1;-1,5 ;-1 ;-1 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Kronenschlussgrad ;geschlossen ;33;2;0 ;0 ;-0,5 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Kronenschlussgrad ;licht ;34;3;-1 ;0 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Kronenschlussgrad ;locker ;35;4;1 ;0 ;1 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Kronenschlussgrad ;lückig ;36;5;-1 ;0 ;1 ;-1,5 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Kronenschlussgrad ;räumdig ;37;5;-2 ;0 ;-1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Kronenschlussgrad ;stark differenziert ;38;7;1 ;0 ;0 ;0 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 1;Keine krautigen Pflanzen, bzw, kein nennenswerter Anteil ;39;1;0 ;-1 ;-1 ;0 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 1;Deckungsgrad krautige Pflanzen - bis 25% ;40;2;0 ;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 1;Deckungsgrad krautige Pflanzen - über 25% bis 50% ;41;3;-1 ;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 1;Deckungsgrad krautige Pflanzen - über 50% bis 75% ;42;4;-1 ;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 1;Deckungsgrad krautige Pflanzen - über 75% ;43;5;-2 ;1 ;0,5 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 2;Keine Gräser, bzw, kein nennenswerter Anteil ;44;6;0 ;-1 ;-1 ;0 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 2;Deckungsgrad Gräser - bis 25% ;45;7;-1 ;-2 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 2;Deckungsgrad Gräser - über 25% bis 50 % ;46;8;-2 ;0,5 ;0,5 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 2;Deckungsgrad Gräser - über 50% bis 75% ;47;9;-2 ;-1 ;-1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 2;Deckungsgrad Gräser- über 75% ;48;10;-2 ;-2 ;-2 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation  3;Kein Adlerfarn, bzw, kein nennenswerter Anteil ;49;11;0 ;-1 ;-1 ;0 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation  3;Deckungsgrad Adlerfarn - bis 25% ;50;12;-1 ;-2 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation  3;Deckungsgrad Adlerfarn - über 25% bis 50 % ;51;13;-2 ;-2 ;-0,5 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation  3;Deckungsgrad Adlerfarn - über 50% bis 75% ;52;14;-2 ;-1,5 ;0,5 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation  3;Deckungsgrad Adlerfarn - über 75% ;53;15;-2 ;-1,5 ;-0,5 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 4;Keine Brombeere,  bzw, kein nennenswerter Anteil ;54;16;0 ;-1 ;-1 ;0 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 4;Deckungsgrad Brombeere - bis 25% ;55;17;-1 ;1,5 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 4;Deckungsgrad Brombeere - über 25% bis 50 % ;56;18;-2 ;0,5 ;-0,5 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 4;Deckungsgrad Brombeere - über 50% bis 75% ;57;19;-2 ;-2 ;-2 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 4;Deckungsgrad Brombeere - über 75% ;58;20;-2 ;-1,5 ;-1,5 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 5;Keine Zwergsträucher,  bzw, kein nennenswerter Anteil ;59;21;0 ;-1 ;-1 ;0 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 5;Deckungsgrad Zwergsträucher - bis 25% ;60;22;0 ;1,5 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 5;Deckungsgrad Zwergsträucher- über 25% bis 50 % ;61;23;-1 ;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 5;Deckungsgrad Zwergsträucher- über 50% bis 75% ;62;24;-2 ;0 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Begleitvegetation 5;Deckungsgrad Zwergsträucher - über 75% ;63;25;-2 ;0,5 ;0 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Waldinnenrand sp, Erh, ;Krautsaum und Strauchgürtel ohne Lücken ;64;1;-2 ;1 ;-0,5 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Waldinnenrand sp, Erh, ;Strauchgürtel ohne Lücken ;65;2;-2 ;1 ;1 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Waldinnenrand sp, Erh, ;Krautsaum und Strauchgürtel mit regelmäßigen Lücken ;66;3;-1 ;1 ;1 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Waldinnenrand sp, Erh, ;Strauchgürtel mit regelmäßigen Lücken ;67;4;-1 ;1 ;1 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Waldinnenrand sp, Erh, ;kein Waldinnenrand ;68;5;1 ;-1 ;-0,5 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsart ;Reinbestand ;69;1;-2 ;-0,5 ;0 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsart ;Mischbestand ;70;2;1 ;1 ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform ;baumweise ;71;1;0,5 ;  ;0,5 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform ;truppweise ;72;2;1 ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform ;gruppenweise ;73;3;1 ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform ;horstweise  ;74;4;1,5 ; ;0,5 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform ;reihen- oder streifenweise ;75;5;0 ; ;0 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform  sp, Erh,I ;BE mit NadelBA, mit einzeln beigemischten Laubbäumen, ;76;1; ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform  sp, Erh,I ;BE mit NadelBA, mit einzeln beigem, auff, Laubb, (z,B, Birken), ;77;2; ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform  sp, Erh,I ;BE mit Nadelba, mit flächig eingemischten Laubbäumen, ;78;3; ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform  sp, Erh,I ;BE mit NadelBA, mit flächig eingemischten (auff, Laubb,  (z,B, BI),) ;79;4; ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform  sp, Erh,I ;BE mit LaubBA,  mit einzeln beigemischten Nadelbäumen, ;80;5; ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform  sp, Erh,II ;Eine Hauptbaumart mit einer Mischbaumart, ;81;1; ; ;0 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform  sp, Erh,II ;Eine Hauptbaumart mit mehr als zwei Mischbaumarten, ;82;2; ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform sp, Erh,II ;Eine Hauptbaumart mit zwei Mischbaumarten, ;83;3; ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform sp, W, I ;Laubholzbestand mit einzeln beigemischten Nadelbäumen, ;84;1; ; ; ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform sp, W, I ;Laubholzbestand mit flächig eingemischten Nadelbäumen, ;85;2; ; ; ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform sp, W, I ;Nadelholzbestand mit einzeln beigemischten Laubbäumen, ;86;3; ; ; ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mischungsform sp, W, I ;Nadelholzbestand mit flächig eingemischten Laubbäumen, ;87;4; ; ;;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;BEB, ;BEB,, die im Abstand von 100m  vorzufinden sind, ;88;1;0 ; ;2 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;BEB, ;Besondere EB,, die im Abstand von 200m  vorzufinden sind, ;89;2;0 ; ;1,5 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;BEB, ;BEB,, die im Abstand von 300m  vorzufinden sind, ;90;3;0 ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;BEB, ;BEB,, die im Abstand von 400m  vorzufinden sind, ;91;4;0 ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;BEB, ;BEB,, die im Abstand von 500m  vorzufinden sind, ;92;5;0 ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gen, ;Nadelbaumarten ;93;1;1,5 ;-1 ;1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gen, ;Laubbaumarten ;94;2;1 ;1,5 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, sp, Erh, ;Auff, Laubb, Laubbaumarten, z, B, Kirschen, ;95;1;0 ; ;2 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, sp, Erh, ;Auff, Laubb, durch Herbstfärbung, z, B, Roteichen, ;96;2;0 ; ;2 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, sp, Erh, ;Auff, Laubb, durch kulturellen Aspekt, z, B, sammelbare Früchte, ;97;3;1 ; ;1,5 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, sp, Erh, ;Auffällige Nadelbaumarten, z, B, Lärchen durch Herbstfärbung, ;98;4;0 ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, sp, W, ;Bodenpflegliche Laubbaumarten (Streu), z, B, Bergahorn, ;99;1;1 ;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, sp, W, ;Bodenpflegliche Nadelbaumarten (Streu), z,B, Weißtanne, ;100;2;1 ;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, sp, W, ;N-fixierende Baumarten ;101;3;1 ; ;1  ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, sp, W, ;Nicht bodenpflegliche Laubbaumarten (Streu), z, B, Roteiche, ;102;4;-1 ;-1 ;1 ;-1,5 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, sp, W, ;Nicht bodenpflegliche Nadelbaumarten (Streu), z, B, Waldkiefer, ;103;5;-1 ;-1 ;1 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, sp, W, ;Tief u,o, intensiv wurzelnde Baumarten, z,B, Eichen, Weißtanne, ;104;6;1 ; ; ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, ;Eiche ;105;1;0,5 ;2 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, ;Buche ;106;2;1 ;0,5 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, ;Hartlaubholz (außer Buche und Eiche) ;107;3;0,5 ;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, ;Weichlaubholz ;108;4;-2 ;2 ;2 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, ;Fichte/Tanne ;109;5;1 ;-2 ;1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, ;Douglasie ;110;6;1 ;-1 ;1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, ;Kiefer ;111;7;1 ;0 ;1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten gru, ;Lärche ;112;8;0,5 ;-1,5 ;1,5 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Traubeneiche TEI ;113;1;1 ;2 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Stieleiche SEI ;114;2;0,5 ;2 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Roteiche REI ;115;3;1 ;0 ;2 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Eiche (spec,) EI ;116;4;;2 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Rotbuche BU ;117;5;0,5 ;2 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Hainbuche HBU ;118;6;0 ;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Ahorn (spec,) AH ;119;7;1 ;1 ;2 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Esche (spec,) ES ;120;8;-1,5 ;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Kirsche (spec,) KIR ;121;9;1 ;1 ;2 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Ulme (spec,) UL ;122;10;-1 ;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Linde (spec,) LI ;123;11;0,5 ;1 ;2 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Bergahorn BAH ;124;12;1 ;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Sommerlinde SLI ;125;13;1 ;1 ;2 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Bergulme BUL ;126;14;0,5 ;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Robinie ROB ;127;15;-1 ;-1 ;2 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Rosskastanie RKA ;128;16;-2 ;1 ;2 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Nussbaum (spec,) NUS ;129;17;1,5 ;1 ;2 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Elsbeere ELS ;130;18;1 ;1 ;2 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;sonstiges Hartlaubholz SLBH ;131;19;0 ;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Birke (spec,) BI ;132;20;0 ;1 ;2 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Erle (spec,) ERL ;133;21;1 ;1 ;1 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Pappel (spec,) PAP ;134;22;-2 ;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Sorbusarten SOR ;135;23;0 ;1 ;2 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Weide (spec,) WEI ;136;24;-2 ;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;sonstiges Weichlaubholz SLBW ;137;25;;1 ;1 ;1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Gemeine Fichte GFI ;138;26;0,5 ;-1 ;1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Fichte (spec,) FI ;139;27;;-1 ;1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Omorikafichte OFI ;140;28;-1 ; ;1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Sitkafichte SFI ;141;29;-1,5  ; ;1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Tanne (spec,) TA ;142;30;1 ;1 ;1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Weißtanne WTA ;143;31;1,5 ;2 ;1 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Küstentanne KTA ;144;32;0 ; ;1 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Douglasie DGL ;145;33;1 ;0 ;1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Gemeine Kiefer KI ;146;34;1 ;0 ;1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Kiefer (spec,) KIE ;147;35;-0,5  ;0 ;1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Schwarzkiefer SKI ;148;36;0 ;0 ;1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Weymouthskiefer WKI ;149;37;-2 ;0 ;1 ;-2 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Japanische Lärche (einschließlich Hybride) JLA ;150;38;0 ; ;1,5 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Europäische Lärche ELA ;151;39;0,5 ;0 ;1,5 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Baumarten ;Lärche (spec,) LA ;152;40;0 ;0 ;1,5 ;-1 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mikrohabitate ;<5 Bäume mit Mikrohabitate je ha ;153;1;0 ;-2 ;0 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mikrohabitate ;5 bis 10 Bäume mit Mikrohabitate je ha ;154;2;-1 ;0,5 ;0 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Mikrohabitate ;>10 Bäume mit Mikrohabitate je ha ;155;3;-2 ;1,5 ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Abholzigkeit ;156;1;-2 ; ;0 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Astigkeit ;157;2;-2 ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Auswuchs ;158;3;-2 ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Beulen ;159;4;-2 ;1 ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Drehwuchs ;160;5;-2 ; ;0 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Insektenfraßgänge (im Holz) ;161;6;-2 ;1 ;0 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Stammeigenschaften ;einfache Krümmung ;162;7;-2 ; ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Rindenschäden ;163;8;-2 ;1 ;0 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Risse ;164;9;-1,5 ;1 ;0 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Stammtrockenheit ;165;10;-2 ; ;0 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Stammeigenschaften ;T-Flecken/T-Krebs (und andere Nekrosen) ;166;11;-2 ;1 ;1 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Wassereiser ;167;12;-2 ;1 ;0 ; 
-https://datashare,tu-dresden,de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Klebäste ;168;13;-2 ; ;0 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzmenge ;Menge je ha - unter 5 rm ;1;1;0 ;-1,5 ;0 ;0 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzmenge ;Menge je ha  - 5 bis 20 rm ;2;2;0 ;-1 ;0 ;0 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzmenge ;Menge je ha  - 21 bis 40 rm ;3;3;0 ;1 ;-0,5 ;-0,5 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzmenge ;Menge je ha  - 41 bis 60 rm ;4;4;-1 ;2 ;-0,5 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzmenge ;Menge je ha  - 61 bis 80 rm ;5;5;-2 ;2 ;-1 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzmenge ;Menge je ha - über 80 rm ;6;6;-2 ;2 ;-1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Zersetzung ;Zersetzungsgrad - niedriger Zersetzungsgrad ;7;1;0 ;1 ;-1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Zersetzung ;Zersetzungsgrad - überwiegend niedriger Zersetzungsgrad ;8;2;0 ;2 ;-0,5 ;0,5 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Zersetzung ;Zersetzungsgrad -überwiegend hoher Zersetzungsgrad ;9;3;0 ;2 ;1 ;-0,5 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Zersetzung ;Zersetzungsgrad -hoher Zersetzungsgrad ;10;4;0 ;1 ;1 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Lagerung ;Lagerung - liegend ;11;1;0 ;1 ;0 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Lagerung ;Lagerung - überwiegend liegend ;12;2;0 ;2 ;0 ;-0,5 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Lagerung ;Lagerung - stehend ;13;3;-1 ;1 ;0 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Lagerung ;Lagerung - überwiegend stehend ;14;4;0 ;1,5 ;0 ;0,5 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Art ;Art - Nadelholz ;15;1;0 ;0 ;-1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Art ;Art - überwiegend Nadelholz ;16;2;0 ;1 ;-0,5 ;0,5 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Art ;Art - Laubholz ;17;3;0 ;1,5 ;0 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Art ;Art - überwiegend Laubholz ;18;4;0 ;2 ;0 ;-0,5 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Diversität ;Totholzdiversität auf Betriebsebene - niedrig ;19;1;0 ;-1,5 ; ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Diversität ;Totholzdiversität auf Betriebsebene - mittel ;20;2;0 ;0,5 ; ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Totholzeigenschaft-Diversität ;Totholzdiversität auf Betriebsebene - hoch ;21;3;0 ;1,5 ; ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Verjüngung ;Verjüngung nicht vorhanden ;22;1;-1,5 ;0 ;0 ;-0,5 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Verjüngung ;waldbaulich verwendbar ;23;2;1,5 ;1 ;0,5 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Verjüngung ;nicht waldbaulich verwendbar ;24;3;-0,5 ;1 ;0,5 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Bestandesschichtung ;einschichtig ;25;1;-2 ;-2 ;-1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Bestandesschichtung ;zweischichtig ;26;2;1 ;1 ;0,5 ;1,5 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Bestandesschichtung ;mehrschichtig ;27;3;1 ;1 ;1 ;1,5 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Bestandesschichtung ;plenterartig ;28;4;1,5 ;1 ;1 ;1,5 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Kronenansatz sp, W, ;Durchschnittlicher Kronenansatz hoch > 10 m ;29;1; ; ; ;0 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Kronenansatz sp, W, ;Durchschnittlicher Kronenansatz mittel >4-10 m ;30;2; ; ; ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Kronenansatz sp, W, ;Durchschnittlicher Kronenansatz tief 2-4 m ;31;3; ; ; ;-1,5 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Kronenschlussgrad ;gedrängt ;32;1;-1,5 ;-1 ;-1 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Kronenschlussgrad ;geschlossen ;33;2;0 ;0 ;-0,5 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Kronenschlussgrad ;licht ;34;3;-1 ;0 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Kronenschlussgrad ;locker ;35;4;1 ;0 ;1 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Kronenschlussgrad ;lückig ;36;5;-1 ;0 ;1 ;-1,5 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Kronenschlussgrad ;räumdig ;37;5;-2 ;0 ;-1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Kronenschlussgrad ;stark differenziert ;38;7;1 ;0 ;0 ;0 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 1;Keine krautigen Pflanzen, bzw, kein nennenswerter Anteil ;39;1;0 ;-1 ;-1 ;0 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 1;Deckungsgrad krautige Pflanzen - bis 25% ;40;2;0 ;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 1;Deckungsgrad krautige Pflanzen - über 25% bis 50% ;41;3;-1 ;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 1;Deckungsgrad krautige Pflanzen - über 50% bis 75% ;42;4;-1 ;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 1;Deckungsgrad krautige Pflanzen - über 75% ;43;5;-2 ;1 ;0,5 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 2;Keine Gräser, bzw, kein nennenswerter Anteil ;44;6;0 ;-1 ;-1 ;0 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 2;Deckungsgrad Gräser - bis 25% ;45;7;-1 ;-2 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 2;Deckungsgrad Gräser - über 25% bis 50 % ;46;8;-2 ;0,5 ;0,5 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 2;Deckungsgrad Gräser - über 50% bis 75% ;47;9;-2 ;-1 ;-1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 2;Deckungsgrad Gräser- über 75% ;48;10;-2 ;-2 ;-2 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation  3;Kein Adlerfarn, bzw, kein nennenswerter Anteil ;49;11;0 ;-1 ;-1 ;0 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation  3;Deckungsgrad Adlerfarn - bis 25% ;50;12;-1 ;-2 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation  3;Deckungsgrad Adlerfarn - über 25% bis 50 % ;51;13;-2 ;-2 ;-0,5 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation  3;Deckungsgrad Adlerfarn - über 50% bis 75% ;52;14;-2 ;-1,5 ;0,5 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation  3;Deckungsgrad Adlerfarn - über 75% ;53;15;-2 ;-1,5 ;-0,5 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 4;Keine Brombeere,  bzw, kein nennenswerter Anteil ;54;16;0 ;-1 ;-1 ;0 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 4;Deckungsgrad Brombeere - bis 25% ;55;17;-1 ;1,5 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 4;Deckungsgrad Brombeere - über 25% bis 50 % ;56;18;-2 ;0,5 ;-0,5 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 4;Deckungsgrad Brombeere - über 50% bis 75% ;57;19;-2 ;-2 ;-2 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 4;Deckungsgrad Brombeere - über 75% ;58;20;-2 ;-1,5 ;-1,5 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 5;Keine Zwergsträucher,  bzw, kein nennenswerter Anteil ;59;21;0 ;-1 ;-1 ;0 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 5;Deckungsgrad Zwergsträucher - bis 25% ;60;22;0 ;1,5 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 5;Deckungsgrad Zwergsträucher- über 25% bis 50 % ;61;23;-1 ;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 5;Deckungsgrad Zwergsträucher- über 50% bis 75% ;62;24;-2 ;0 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Begleitvegetation 5;Deckungsgrad Zwergsträucher - über 75% ;63;25;-2 ;0,5 ;0 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Waldinnenrand sp, Erh, ;Krautsaum und Strauchgürtel ohne Lücken ;64;1;-2 ;1 ;-0,5 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Waldinnenrand sp, Erh, ;Strauchgürtel ohne Lücken ;65;2;-2 ;1 ;1 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Waldinnenrand sp, Erh, ;Krautsaum und Strauchgürtel mit regelmäßigen Lücken ;66;3;-1 ;1 ;1 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Waldinnenrand sp, Erh, ;Strauchgürtel mit regelmäßigen Lücken ;67;4;-1 ;1 ;1 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Waldinnenrand sp, Erh, ;kein Waldinnenrand ;68;5;1 ;-1 ;-0,5 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsart ;Reinbestand ;69;1;-2 ;-0,5 ;0 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsart ;Mischbestand ;70;2;1 ;1 ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform ;baumweise ;71;1;0,5 ;  ;0,5 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform ;truppweise ;72;2;1 ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform ;gruppenweise ;73;3;1 ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform ;horstweise  ;74;4;1,5 ; ;0,5 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform ;reihen- oder streifenweise ;75;5;0 ; ;0 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform  sp, Erh,I ;BE mit NadelBA, mit einzeln beigemischten Laubbäumen, ;76;1; ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform  sp, Erh,I ;BE mit NadelBA, mit einzeln beigem, auff, Laubb, (z,B, Birken), ;77;2; ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform  sp, Erh,I ;BE mit Nadelba, mit flächig eingemischten Laubbäumen, ;78;3; ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform  sp, Erh,I ;BE mit NadelBA, mit flächig eingemischten (auff, Laubb,  (z,B, BI),) ;79;4; ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform  sp, Erh,I ;BE mit LaubBA,  mit einzeln beigemischten Nadelbäumen, ;80;5; ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform  sp, Erh,II ;Eine Hauptbaumart mit einer Mischbaumart, ;81;1; ; ;0 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform  sp, Erh,II ;Eine Hauptbaumart mit mehr als zwei Mischbaumarten, ;82;2; ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform sp, Erh,II ;Eine Hauptbaumart mit zwei Mischbaumarten, ;83;3; ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform sp, W, I ;Laubholzbestand mit einzeln beigemischten Nadelbäumen, ;84;1; ; ; ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform sp, W, I ;Laubholzbestand mit flächig eingemischten Nadelbäumen, ;85;2; ; ; ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform sp, W, I ;Nadelholzbestand mit einzeln beigemischten Laubbäumen, ;86;3; ; ; ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mischungsform sp, W, I ;Nadelholzbestand mit flächig eingemischten Laubbäumen, ;87;4; ; ;;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;BEB, ;BEB,, die im Abstand von 100m  vorzufinden sind, ;88;1;0 ; ;2 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;BEB, ;Besondere EB,, die im Abstand von 200m  vorzufinden sind, ;89;2;0 ; ;1,5 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;BEB, ;BEB,, die im Abstand von 300m  vorzufinden sind, ;90;3;0 ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;BEB, ;BEB,, die im Abstand von 400m  vorzufinden sind, ;91;4;0 ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;BEB, ;BEB,, die im Abstand von 500m  vorzufinden sind, ;92;5;0 ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gen, ;Nadelbaumarten ;93;1;1,5 ;-1 ;1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gen, ;Laubbaumarten ;94;2;1 ;1,5 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, sp, Erh, ;Auff, Laubb, Laubbaumarten, z, B, Kirschen, ;95;1;0 ; ;2 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, sp, Erh, ;Auff, Laubb, durch Herbstfärbung, z, B, Roteichen, ;96;2;0 ; ;2 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, sp, Erh, ;Auff, Laubb, durch kulturellen Aspekt, z, B, sammelbare Früchte, ;97;3;1 ; ;1,5 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, sp, Erh, ;Auffällige Nadelbaumarten, z, B, Lärchen durch Herbstfärbung, ;98;4;0 ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, sp, W, ;Bodenpflegliche Laubbaumarten (Streu), z, B, Bergahorn, ;99;1;1 ;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, sp, W, ;Bodenpflegliche Nadelbaumarten (Streu), z,B, Weißtanne, ;100;2;1 ;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, sp, W, ;N-fixierende Baumarten ;101;3;1 ; ;1  ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, sp, W, ;Nicht bodenpflegliche Laubbaumarten (Streu), z, B, Roteiche, ;102;4;-1 ;-1 ;1 ;-1,5 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, sp, W, ;Nicht bodenpflegliche Nadelbaumarten (Streu), z, B, Waldkiefer, ;103;5;-1 ;-1 ;1 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, sp, W, ;Tief u,o, intensiv wurzelnde Baumarten, z,B, Eichen, Weißtanne, ;104;6;1 ; ; ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, ;Eiche ;105;1;0,5 ;2 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, ;Buche ;106;2;1 ;0,5 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, ;Hartlaubholz (außer Buche und Eiche) ;107;3;0,5 ;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, ;Weichlaubholz ;108;4;-2 ;2 ;2 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, ;Fichte/Tanne ;109;5;1 ;-2 ;1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, ;Douglasie ;110;6;1 ;-1 ;1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, ;Kiefer ;111;7;1 ;0 ;1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten gru, ;Lärche ;112;8;0,5 ;-1,5 ;1,5 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Traubeneiche TEI ;113;1;1 ;2 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Stieleiche SEI ;114;2;0,5 ;2 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Roteiche REI ;115;3;1 ;0 ;2 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Eiche (spec,) EI ;116;4;;2 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Rotbuche BU ;117;5;0,5 ;2 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Hainbuche HBU ;118;6;0 ;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Ahorn (spec,) AH ;119;7;1 ;1 ;2 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Esche (spec,) ES ;120;8;-1,5 ;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Kirsche (spec,) KIR ;121;9;1 ;1 ;2 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Ulme (spec,) UL ;122;10;-1 ;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Linde (spec,) LI ;123;11;0,5 ;1 ;2 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Bergahorn BAH ;124;12;1 ;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Sommerlinde SLI ;125;13;1 ;1 ;2 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Bergulme BUL ;126;14;0,5 ;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Robinie ROB ;127;15;-1 ;-1 ;2 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Rosskastanie RKA ;128;16;-2 ;1 ;2 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Nussbaum (spec,) NUS ;129;17;1,5 ;1 ;2 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Elsbeere ELS ;130;18;1 ;1 ;2 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;sonstiges Hartlaubholz SLBH ;131;19;0 ;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Birke (spec,) BI ;132;20;0 ;1 ;2 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Erle (spec,) ERL ;133;21;1 ;1 ;1 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Pappel (spec,) PAP ;134;22;-2 ;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Sorbusarten SOR ;135;23;0 ;1 ;2 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Weide (spec,) WEI ;136;24;-2 ;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;sonstiges Weichlaubholz SLBW ;137;25;;1 ;1 ;1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Gemeine Fichte GFI ;138;26;0,5 ;-1 ;1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Fichte (spec,) FI ;139;27;;-1 ;1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Omorikafichte OFI ;140;28;-1 ; ;1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Sitkafichte SFI ;141;29;-1,5  ; ;1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Tanne (spec,) TA ;142;30;1 ;1 ;1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Weißtanne WTA ;143;31;1,5 ;2 ;1 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Küstentanne KTA ;144;32;0 ; ;1 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Douglasie DGL ;145;33;1 ;0 ;1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Gemeine Kiefer KI ;146;34;1 ;0 ;1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Kiefer (spec,) KIE ;147;35;-0,5  ;0 ;1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Schwarzkiefer SKI ;148;36;0 ;0 ;1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Weymouthskiefer WKI ;149;37;-2 ;0 ;1 ;-2 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Japanische Lärche (einschließlich Hybride) JLA ;150;38;0 ; ;1,5 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Europäische Lärche ELA ;151;39;0,5 ;0 ;1,5 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Baumarten ;Lärche (spec,) LA ;152;40;0 ;0 ;1,5 ;-1 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mikrohabitate ;<5 Bäume mit Mikrohabitate je ha ;153;1;0 ;-2 ;0 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mikrohabitate ;5 bis 10 Bäume mit Mikrohabitate je ha ;154;2;-1 ;0,5 ;0 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Mikrohabitate ;>10 Bäume mit Mikrohabitate je ha ;155;3;-2 ;1,5 ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Abholzigkeit ;156;1;-2 ; ;0 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Astigkeit ;157;2;-2 ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Auswuchs ;158;3;-2 ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Beulen ;159;4;-2 ;1 ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Drehwuchs ;160;5;-2 ; ;0 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Insektenfraßgänge (im Holz) ;161;6;-2 ;1 ;0 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Stammeigenschaften ;einfache Krümmung ;162;7;-2 ; ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Rindenschäden ;163;8;-2 ;1 ;0 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Risse ;164;9;-1,5 ;1 ;0 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Stammtrockenheit ;165;10;-2 ; ;0 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Stammeigenschaften ;T-Flecken/T-Krebs (und andere Nekrosen) ;166;11;-2 ;1 ;1 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Wassereiser ;167;12;-2 ;1 ;0 ; 
+https://datashare.tu-dresden.de/s/aE4DgQj3paHyeje;Stammeigenschaften ;Klebäste ;168;13;-2 ; ;0 ; 
